@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Raw Data
+Faculty/data/raw/**
+Faculty/data/faculty-salaries.parquet
+Students/data/raw/**
