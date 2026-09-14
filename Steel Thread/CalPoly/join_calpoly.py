@@ -1,7 +1,7 @@
 import pandas as pd
 
-salaries_df = pd.read_csv("./CSU_Data/california-state-university-salary-2024.csv")
-faculty_df = pd.read_csv("./CalPoly/calpoly_faculty.csv")
+salaries_df = pd.read_csv("Steel Thread/CSU_Data/california-state-university-salary-2024.csv")
+faculty_df = pd.read_csv("Steel Thread/CalPoly/calpoly_faculty.csv")
 
 # Create Name first
 faculty_df["Name"] = (
@@ -40,4 +40,4 @@ filtered_df = merged_df[
 filtered_df["totalpay"] = pd.to_numeric(filtered_df["totalpay"], errors="coerce")
 filtered_df = filtered_df[filtered_df["totalpay"] != 0]
 
-filtered_df.to_csv("for_analysis/calpoly_salary_data.csv", index=False)
+filtered_df.to_csv("Steel Thread/for_analysis/calpoly_salary_data.csv", index=False)

@@ -2,7 +2,105 @@ from bs4 import BeautifulSoup
 import csv
 import re
 
-filename = "calpoly_faculty_html.html"
+majors = {
+    "Aerospace Engineering",
+    "Agricultural Business",
+    "Agricultural Communication",
+    "Agricultural Science",
+    "Agricultural Systems Management",
+    "Animal Science",
+    "Anthropology and Geography",
+    "Architectural Engineering",
+    "Architecture",
+    "Art and Design",
+    "Biochemistry",
+    "Biological Sciences",
+    "Biomedical Engineering",
+    "BioResource and Agricultural Engineering",
+    "Business Administration",
+    "Chemistry",
+    "Child Development",
+    "City and Regional Planning",
+    "Civil Engineering",
+    "Communication Studies",
+    "Comparative Ethnic Studies",
+    "Computer Engineering",
+    "Computer Science",
+    "Construction Management",
+    "Dairy Science",
+    "Economics",
+    "Electrical Engineering",
+    "English",
+    "Environmental Earth and Soil Sciences",
+    "Environmental Engineering",
+    "Environmental Management and Protection",
+    "Experience and Event Management",
+    "Facilities Engineering Technology",
+    "Food Science",
+    "Forest and Fire Sciences",
+    "General Engineering",
+    "Graphic Communication",
+    "History",
+    "Industrial Engineering",
+    "Industrial Technology and Packaging",
+    "Interdisciplinary Studies",
+    "International Strategy and Security",
+    "Journalism",
+    "Kinesiology",
+    "Landscape Architecture",
+    "Liberal Arts and Engineering Studies",
+    "Liberal Studies",
+    "Manufacturing Engineering",
+    "Marine Engineering Technology",
+    "Marine Sciences",
+    "Marine Transportation",
+    "Materials Engineering",
+    "Mathematics",
+    "Mechanical Engineering",
+    "Microbiology",
+    "Music",
+    "Nutrition",
+    "Oceanography",
+    "Philosophy",
+    "Physics",
+    "Plant Sciences",
+    "Political Science",
+    "Psychology",
+    "Public Health",
+    "Sociology",
+    "Software Engineering",
+    "Spanish",
+    "Statistics",
+    "Theatre Arts",
+    "Wine and Viticulture",
+}
+
+major_aliases = {
+    "Agribusiness": "Agricultural Business",
+    "Civil and Environmental Engineering": "Civil Engineering",
+    "Chemistry and Biochemistry": "Biochemistry",
+    "Computer Science; Liberal Arts and Engineering Studies": "Liberal Arts and Engineering Studies",
+    "English (Cal Poly Maritime)": "English",
+    "Interdisciplinary Studies in the Liberal Arts" : "Interdisciplinary Studies",
+    "Natural Resources Management and Environmental Sciences" : "Environmental Management and Protection",
+    "and Environmental Sciences" : "Environmental Earth and Soil Sciences",
+    "and Information Systems" : "Computer Science",
+}
+
+def clean_major(value):
+    """Return a standardized major name, or NULL for an empty value."""
+    value = null_if_empty(value)
+
+    if value == "NULL":
+        return "NULL"
+
+    # "Bailey College of Science and Mathematics, Mathematics -> Mathematics"
+    if "," in value:
+        value = value.rsplit(",", 1)[-1].strip()
+
+    return major_aliases.get(value, value)
+
+filename = "Steel Thread/CalPoly/calpoly_faculty_html.html"
 
 def null_if_empty(value):
     if value is None or not value.strip():
@@ -25,7 +123,7 @@ if table is None:
     print("Faculty table was not found.")
 
 else:
-    with open("calpoly_faculty.csv", "w", newline="", encoding="utf-8") as csv_file:
+    with open("Steel Thread/CalPoly/calpoly_faculty.csv", "w", newline="", encoding="utf-8") as csv_file:
         writer = csv.writer(csv_file)
 
         writer.writerow([
@@ -64,7 +162,7 @@ else:
             if match:
                 last_name = null_if_empty(match.group("last"))
                 year_hired = null_if_empty(match.group("year"))
-                major = null_if_empty(second_line)
+                major = clean_major(second_line)
 
                 # Remove nicknames in parentheses and suffix commas.
                 name_part = re.sub(r"\([^)]*\)", "", match.group("name_part"))
