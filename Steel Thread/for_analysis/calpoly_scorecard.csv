@@ -1,126 +1,88 @@
-UNITID,OPEID6,INSTNM,CONTROL,MAIN,CIPCODE,CIPDESC,CREDLEV,CREDDESC,IPEDSCOUNT1,IPEDSCOUNT2,EARN_COUNT_NWNE_5YR,EARN_COUNT_WNE_5YR,EARN_MDN_5YR,EARN_GT_THRESHOLD_5YR,EARN_COUNT_PELL_WNE_5YR,EARN_PELL_WNE_MDN_5YR,EARN_COUNT_NOPELL_WNE_5YR,EARN_NOPELL_WNE_MDN_5YR,EARN_COUNT_MALE_WNE_5YR,EARN_MALE_WNE_MDN_5YR,EARN_COUNT_NOMALE_WNE_5YR,EARN_NOMALE_WNE_MDN_5YR,EARN_COUNT_HIGH_CRED_5YR,EARN_IN_STATE_5YR,EARN_COUNT_WNE_4YR_NAT,EARN_MDN_4YR_NAT,EARN_P25_4YR_NAT,EARN_P75_4YR_NAT
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,100,"Agriculture, General.",3,Bachelor's Degree,28.0,31.0,2,21,68350,19,PS,PS,PS,PS,PS,PS,PS,PS,PS,18,2405,53676,39047,70551
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,100,"Agriculture, General.",5,Master's Degree,15.0,19.0,0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,263,61941,47560,79387
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,101,Agricultural Business and Management.,3,Bachelor's Degree,120.0,126.0,5,106,93186,97,63,92113,43,94927,63,100413,43,80810,PS,89,5347,66647,48591,90381
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,101,Agricultural Business and Management.,5,Master's Degree,0.0,0.0,0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,102,Agricultural Mechanization.,3,Bachelor's Degree,40.0,31.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,421,71278,51640,88997
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,106,Applied Horticulture and Horticultural Business Services.,3,Bachelor's Degree,1.0,0.0,0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,108,Agricultural Public Services.,3,Bachelor's Degree,32.0,29.0,0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,539,54152,40418,73302
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,109,Animal Sciences.,3,Bachelor's Degree,165.0,159.0,7,132,62117,115,80,60621,53,64236,21,77244,111,57818,34,105,6104,49634,36349,66880
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,109,Animal Sciences.,5,Master's Degree,0.0,0.0,0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,412,75394,54391,104637
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,110,Food Science and Technology.,3,Bachelor's Degree,101.0,81.0,1,20,82237,19,PS,PS,PS,PS,PS,PS,PS,PS,PS,16,1301,70873,54113,88238
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,110,Food Science and Technology.,5,Master's Degree,7.0,5.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,111,Plant Sciences.,3,Bachelor's Degree,49.0,55.0,4,91,74094,75,56,78198,35,73430,54,86807,37,64516,PS,80,2130,56567,41837,73901
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,112,Soil Sciences.,3,Bachelor's Degree,0.0,0.0,1,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,268,62122,49335,87382
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,301,Natural Resources Conservation and Research.,3,Bachelor's Degree,0.0,0.0,0,26,88015,26,PS,PS,PS,PS,PS,PS,PS,PS,PS,24,PS,PS,PS,PS
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,301,Natural Resources Conservation and Research.,5,Master's Degree,18.0,17.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,302,Environmental/Natural Resources Management and Policy.,3,Bachelor's Degree,127.0,129.0,1,38,69368,35,21,63628,17,75010,20,67594,19,71721,PS,29,1553,56185,41328,74677
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,305,Forestry.,3,Bachelor's Degree,39.0,46.0,0,29,73077,25,PS,PS,PS,PS,PS,PS,PS,PS,PS,24,1389,58784,44916,73142
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,305,Forestry.,5,Master's Degree,1.0,0.0,0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,247,67466,53860,91955
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,402,Architecture.,3,Bachelor's Degree,0.0,0.0,4,105,77718,98,73,82847,35,73675,60,79275,47,76631,PS,79,4504,66914,54236,78634
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,402,Architecture.,5,Master's Degree,5.0,0.0,0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,2395,74139,62872,86117
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,403,"City/Urban, Community, and Regional Planning.",3,Bachelor's Degree,36.0,36.0,0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,768,66874,50087,86436
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,403,"City/Urban, Community, and Regional Planning.",5,Master's Degree,15.0,2.0,0,22,99106,22,PS,PS,PS,PS,PS,PS,PS,PS,PS,16,1584,79665,64057,98223
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,406,Landscape Architecture.,3,Bachelor's Degree,27.0,48.0,1,29,61334,22,PS,PS,PS,PS,PS,PS,PS,PS,PS,25,784,66387,52079,78585
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,409,Architectural Sciences and Technology.,3,Bachelor's Degree,180.0,126.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,502,"Ethnic, Cultural Minority, Gender, and Group Studies.",3,Bachelor's Degree,20.0,10.0,0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,5420,51710,34946,68128
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,901,Communication and Media Studies.,3,Bachelor's Degree,77.0,71.0,3,46,67009,37,20,66163,28,70811,PS,PS,PS,PS,PS,38,61357,56359,39575,76115
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,904,Journalism.,3,Bachelor's Degree,58.0,51.0,2,42,67804,35,20,66442,22,69425,PS,PS,PS,PS,PS,36,13928,56278,40588,73923
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1003,Graphic Communications.,3,Bachelor's Degree,83.0,75.0,4,58,87135,54,27,77877,31,93623,PS,PS,PS,PS,PS,50,3496,43283,27166,64326
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1003,Graphic Communications.,5,Master's Degree,0.0,0.0,0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1101,"Computer and Information Sciences, General.",3,Bachelor's Degree,,,0,79,192621,78,42,189254,37,183893,PS,PS,PS,PS,PS,63,41037,92374,64179,128180
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1107,Computer Science.,3,Bachelor's Degree,163.0,202.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,28067,107009,74830,152038
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1107,Computer Science.,5,Master's Degree,37.0,32.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,2450,145571,108475,208641
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1301,"Education, General.",5,Master's Degree,0.0,0.0,3,64,72996,61,32,74080,30,69964,PS,PS,PS,PS,PS,58,22487,65824,52724,82084
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1303,Curriculum and Instruction.,5,Master's Degree,14.0,11.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1304,Educational Administration and Supervision.,5,Master's Degree,21.0,9.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1310,Special Education and Teaching.,5,Master's Degree,18.0,4.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,21493,64397,52390,79764
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1311,Student Counseling and Personnel Services.,5,Master's Degree,17.0,20.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,15495,60111,48192,74890
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1312,"Teacher Education and Professional Development, Specific Levels and Methods.",3,Bachelor's Degree,57.0,52.0,4,34,54410,27,PS,PS,PS,PS,PS,PS,PS,PS,PS,32,50018,47382,38431,56096
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1313,"Teacher Education and Professional Development, Specific Subject Areas.",3,Bachelor's Degree,0.0,0.0,3,78,76020,69,48,72929,31,77746,35,84592,43,72445,28,51,22867,51389,40539,63098
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1313,"Teacher Education and Professional Development, Specific Subject Areas.",5,Master's Degree,44.0,43.0,2,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,19074,63707,51487,78905
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1401,"Engineering, General.",3,Bachelor's Degree,,,1,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,3262,89359,73449,108835
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1401,"Engineering, General.",5,Master's Degree,2.0,0.0,0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,1455,120215,97333,152041
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1402,"Aerospace, Aeronautical, and Astronautical/Space Engineering.",3,Bachelor's Degree,106.0,110.0,4,48,112671,46,25,110055,23,106231,PS,PS,PS,PS,PS,30,3795,98207,81638,115917
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1402,"Aerospace, Aeronautical, and Astronautical/Space Engineering.",5,Master's Degree,15.0,24.0,0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,1079,122434,103582,146717
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1403,Agricultural Engineering.,3,Bachelor's Degree,18.0,37.0,0,17,89957,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,1167,84624,67932,103936
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1404,Architectural Engineering.,3,Bachelor's Degree,39.0,27.0,1,42,97098,36,19,87610,23,100262,25,95624,17,96652,PS,31,725,89406,76962,103117
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1404,Architectural Engineering.,5,Master's Degree,2.0,0.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,104,98356,85298,115493
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1405,Biomedical/Medical Engineering.,3,Bachelor's Degree,104.0,71.0,2,40,111260,39,16,123754,24,110643,PS,PS,PS,PS,PS,32,5726,93451,74134,113859
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1405,Biomedical/Medical Engineering.,5,Master's Degree,29.0,21.0,0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,1704,106375,84793,130445
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1408,Civil Engineering.,3,Bachelor's Degree,130.0,148.0,2,125,101618,120,76,99459,48,106757,92,100045,33,110178,PS,107,15798,86517,73883,101174
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1408,Civil Engineering.,5,Master's Degree,45.0,41.0,0,27,103431,27,PS,PS,PS,PS,PS,PS,PS,PS,PS,22,3258,98323,84186,116108
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1409,Computer Engineering.,3,Bachelor's Degree,158.0,129.0,3,97,146406,95,41,143969,56,147127,79,140860,18,191173,PS,80,10329,109015,86299,145170
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1410,"Electrical, Electronics, and Communications Engineering.",3,Bachelor's Degree,136.0,159.0,3,86,116692,82,56,117319,30,114778,PS,PS,PS,PS,PS,68,16532,100647,84635,122440
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1410,"Electrical, Electronics, and Communications Engineering.",5,Master's Degree,31.0,26.0,2,19,158506,20,PS,PS,PS,PS,PS,PS,PS,PS,PS,17,3090,133654,107420,171817
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1413,Engineering Science.,3,Bachelor's Degree,7.0,14.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,464,93782,69219,118979
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1414,Environmental/Environmental Health Engineering.,3,Bachelor's Degree,29.0,39.0,3,33,86311,30,PS,PS,PS,PS,PS,PS,PS,PS,PS,22,1579,81171,68911,95232
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1418,Materials Engineering.,3,Bachelor's Degree,48.0,46.0,0,26,107726,26,PS,PS,PS,PS,PS,PS,PS,PS,PS,23,1151,91449,76710,109151
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1419,Mechanical Engineering.,3,Bachelor's Degree,272.0,278.0,7,133,110675,131,73,109808,60,112085,106,113045,27,105978,PS,110,36057,92135,77715,109121
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1419,Mechanical Engineering.,5,Master's Degree,55.0,40.0,0,16,119479,17,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,3775,115974,97429,140629
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1433,Construction Engineering.,3,Bachelor's Degree,0.0,0.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1435,Industrial Engineering.,3,Bachelor's Degree,72.0,76.0,2,48,121125,48,22,131766,26,113151,32,122740,16,111194,PS,39,4636,98442,81158,121691
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1435,Industrial Engineering.,5,Master's Degree,13.0,1.0,0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,758,119184,96708,151168
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1436,Manufacturing Engineering.,3,Bachelor's Degree,23.0,17.0,0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,538,88451,72634,102217
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1499,"Engineering, Other.",5,Master's Degree,0.0,0.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,809,129974,100673,169304
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1499,"Engineering, Other.",8,Graduate/Professional Certificate,2.0,0.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1506,Industrial Production Technologies/Technicians.,3,Bachelor's Degree,52.0,36.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,3050,80890,61191,99266
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1515,Engineering-Related Fields.,5,Master's Degree,26.0,32.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,1847,125651,97217,158811
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1515,Engineering-Related Fields.,8,Graduate/Professional Certificate,0.0,0.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1601,"Linguistic, Comparative, and Related Language Studies and Services.",3,Bachelor's Degree,2.0,2.0,1,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,4565,49984,32888,69881
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1609,"Romance Languages, Literatures, and Linguistics.",3,Bachelor's Degree,7.0,6.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1905,"Foods, Nutrition, and Related Services.",3,Bachelor's Degree,,,5,67,68469,55,39,65019,28,70192,PS,PS,PS,PS,18,53,3824,54945,39143,70678
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,1907,"Human Development, Family Studies, and Related Services.",3,Bachelor's Degree,0.0,0.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,2301,"English Language and Literature, General.",3,Bachelor's Degree,60.0,49.0,3,39,64041,34,PS,PS,PS,PS,PS,PS,PS,PS,PS,32,33025,48590,33654,63810
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,2301,"English Language and Literature, General.",5,Master's Degree,2.0,14.0,1,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,3708,55512,39177,72721
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,2301,"English Language and Literature, General.",8,Graduate/Professional Certificate,0.0,0.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,2313,Rhetoric and Composition/Writing Studies.,3,Bachelor's Degree,0.0,0.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,2401,"Liberal Arts and Sciences, General Studies and Humanities.",3,Bachelor's Degree,107.0,116.0,2,67,64390,61,29,63516,37,65608,PS,PS,PS,PS,28,62,50554,53072,35750,73322
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,2601,"Biology, General.",3,Bachelor's Degree,160.0,163.0,10,94,73422,83,50,70169,44,77291,37,76105,56,71321,22,81,57101,57214,38929,79199
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,2601,"Biology, General.",5,Master's Degree,10.0,13.0,1,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,3962,69830,50928,96355
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,2602,"Biochemistry, Biophysics and Molecular Biology.",3,Bachelor's Degree,39.0,37.0,1,23,72627,21,PS,PS,PS,PS,PS,PS,PS,PS,PS,20,6319,65466,44889,88432
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,2605,Microbiological Sciences and Immunology.,3,Bachelor's Degree,16.0,24.0,0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,2108,62582,44047,83205
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,2701,Mathematics.,3,Bachelor's Degree,62.0,51.0,0,45,78202,41,24,79654,21,73668,27,75813,17,82450,PS,36,15976,69562,49058,97414
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,2701,Mathematics.,5,Master's Degree,14.0,11.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,1525,72654,54453,100369
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,2705,Statistics.,3,Bachelor's Degree,41.0,41.0,1,21,97279,20,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,2476,92425,64564,125467
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,3019,Nutrition Sciences.,3,Bachelor's Degree,74.0,74.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,2790,60053,43153,76798
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,3019,Nutrition Sciences.,5,Master's Degree,6.0,6.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,1044,67126,52768,85484
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,3032,Marine Sciences.,3,Bachelor's Degree,12.0,26.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,137,52667,35959,68489
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,3099,"Multi/Interdisciplinary Studies, Other.",3,Bachelor's Degree,26.0,30.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,27598,55693,40311,72165
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,3101,"Parks, Recreation, and Leisure Studies.",3,Bachelor's Degree,95.0,102.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,3198,50983,37138,67192
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,3103,"Parks, Recreation, and Leisure Facilities Management.",3,Bachelor's Degree,,,2,50,73743,41,22,76522,28,73745,PS,PS,PS,PS,PS,39,3837,50468,37507,64333
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,3105,"Sports, Kinesiology, and Physical Education/Fitness.",3,Bachelor's Degree,75.0,75.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,48463,54562,39049,73020
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,3105,"Sports, Kinesiology, and Physical Education/Fitness.",5,Master's Degree,0.0,1.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,9292,62033,47943,80968
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,3801,Philosophy.,3,Bachelor's Degree,35.0,28.0,1,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,6085,54455,34926,78043
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,4005,Chemistry.,3,Bachelor's Degree,26.0,30.0,1,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,10453,65120,48307,84018
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,4005,Chemistry.,5,Master's Degree,3.0,18.0,0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,1187,82937,60941,109811
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,4006,Geological and Earth Sciences/Geosciences.,3,Bachelor's Degree,23.0,38.0,0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,6193,60190,44343,77573
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,4008,Physics.,3,Bachelor's Degree,51.0,35.0,2,19,114864,18,PS,PS,PS,PS,PS,PS,PS,PS,PS,16,5602,76786,51777,102948
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,4008,Physics.,5,Master's Degree,0.0,2.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,4201,"Psychology, General.",3,Bachelor's Degree,156.0,135.0,7,70,65762,57,39,57767,31,69943,16,56610,54,69666,19,58,102536,50706,35740,67229
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,4201,"Psychology, General.",5,Master's Degree,16.0,18.0,0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,5527,64711,45967,86199
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,4302,Fire Protection.,5,Master's Degree,10.0,27.0,0,19,141848,17,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,98,86743,62369,113179
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,4404,Public Administration.,5,Master's Degree,0.0,0.0,2,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,4405,Public Policy Analysis.,5,Master's Degree,13.0,18.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,2714,93020,70186,121540
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,4501,"Social Sciences, General.",3,Bachelor's Degree,0.0,0.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,4506,Economics.,3,Bachelor's Degree,53.0,59.0,2,51,89394,45,21,86190,30,104907,PS,PS,PS,PS,PS,42,28744,82686,58184,116323
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,4506,Economics.,5,Master's Degree,21.0,22.0,1,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,1664,100743,74382,133995
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,4510,Political Science and Government.,3,Bachelor's Degree,95.0,85.0,2,45,90264,43,27,85263,20,102685,27,87072,20,87080,PS,35,36628,63293,44760,85406
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,4511,Sociology.,3,Bachelor's Degree,64.0,66.0,2,38,75585,35,PS,PS,PS,PS,PS,PS,PS,PS,PS,30,31848,52657,37665,69502
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,4599,"Social Sciences, Other.",3,Bachelor's Degree,39.0,35.0,0,18,45522,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,1992,56812,39742,77687
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,5005,Drama/Theatre Arts and Stagecraft.,3,Bachelor's Degree,10.0,19.0,0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,14066,39775,25491,55399
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,5007,Fine and Studio Arts.,3,Bachelor's Degree,54.0,58.0,6,36,87876,29,PS,PS,PS,PS,PS,PS,PS,PS,PS,29,26935,41367,26241,56653
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,5009,Music.,3,Bachelor's Degree,12.0,15.0,0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,14715,42892,26048,58755
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,5122,Public Health.,3,Bachelor's Degree,60.0,62.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,5131,Dietetics and Clinical Nutrition Services.,3,Bachelor's Degree,0.0,0.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,5131,Dietetics and Clinical Nutrition Services.,5,Master's Degree,0.0,0.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,5201,"Business/Commerce, General.",3,Bachelor's Degree,,,13,377,104949,350,206,104553,171,105725,187,111382,190,97919,46,310,27865,68407,48204,94571
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,5201,"Business/Commerce, General.",5,Master's Degree,,,0,16,92498,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,8991,125988,83879,189086
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,5202,"Business Administration, Management and Operations.",3,Bachelor's Degree,753.0,689.0,0,48,102603,44,25,101655,22,106295,PS,PS,PS,PS,PS,44,183303,68257,47618,93584
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,5202,"Business Administration, Management and Operations.",5,Master's Degree,44.0,27.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,122193,103485,69982,153484
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,5203,Accounting and Related Services.,5,Master's Degree,2.0,0.0,1,50,124216,48,18,122788,32,124134,22,120670,28,125115,PS,46,21288,95833,74491,118338
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,5213,Management Sciences and Quantitative Methods.,5,Master's Degree,45.0,49.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,5066,124807,93429,167728
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,5216,Taxation.,5,Master's Degree,12.0,16.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,1531,114810,87970,148860
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,5220,Construction Management.,3,Bachelor's Degree,123.0,150.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,3051,95124,77072,115179
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,5401,History.,3,Bachelor's Degree,60.0,55.0,4,26,58207,19,PS,PS,PS,PS,PS,PS,PS,PS,PS,23,23671,50680,36330,66736
-110422.0,1143,California Polytechnic State University-San Luis Obispo,Public,1,5401,History.,5,Master's Degree,2.0,4.0,0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,2810,55360,40544,73546
+Major,CREDDESC,IPEDSCOUNT1,IPEDSCOUNT2,EARN_COUNT_NWNE_5YR,EARN_COUNT_WNE_5YR,EARN_MDN_5YR,EARN_GT_THRESHOLD_5YR,EARN_COUNT_PELL_WNE_5YR,EARN_PELL_WNE_MDN_5YR,EARN_COUNT_NOPELL_WNE_5YR,EARN_NOPELL_WNE_MDN_5YR,EARN_COUNT_MALE_WNE_5YR,EARN_MALE_WNE_MDN_5YR,EARN_COUNT_NOMALE_WNE_5YR,EARN_NOMALE_WNE_MDN_5YR,EARN_COUNT_HIGH_CRED_5YR,EARN_IN_STATE_5YR,EARN_COUNT_WNE_4YR_NAT,EARN_MDN_4YR_NAT,EARN_P25_4YR_NAT,EARN_P75_4YR_NAT
+Agricultural Business,Bachelor's Degree,120.0,126.0,5,106,93186,97,63,92113,43,94927,63,100413,43,80810,PS,89,5347,66647,48591,90381
+Agricultural Business,Master's Degree,0.0,0.0,0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS
+Animal Science,Bachelor's Degree,165.0,159.0,7,132,62117,115,80,60621,53,64236,21,77244,111,57818,34,105,6104,49634,36349,66880
+Animal Science,Master's Degree,0.0,0.0,0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,412,75394,54391,104637
+Food Science,Bachelor's Degree,101.0,81.0,1,20,82237,19,PS,PS,PS,PS,PS,PS,PS,PS,PS,16,1301,70873,54113,88238
+Food Science,Master's Degree,7.0,5.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS
+Plant Sciences,Bachelor's Degree,49.0,55.0,4,91,74094,75,56,78198,35,73430,54,86807,37,64516,PS,80,2130,56567,41837,73901
+Architecture,Bachelor's Degree,0.0,0.0,4,105,77718,98,73,82847,35,73675,60,79275,47,76631,PS,79,4504,66914,54236,78634
+Architecture,Master's Degree,5.0,0.0,0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,2395,74139,62872,86117
+City and Regional Planning,Bachelor's Degree,36.0,36.0,0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,768,66874,50087,86436
+City and Regional Planning,Master's Degree,15.0,2.0,0,22,99106,22,PS,PS,PS,PS,PS,PS,PS,PS,PS,16,1584,79665,64057,98223
+Landscape Architecture,Bachelor's Degree,27.0,48.0,1,29,61334,22,PS,PS,PS,PS,PS,PS,PS,PS,PS,25,784,66387,52079,78585
+Architectural Engineering,Bachelor's Degree,180.0,126.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS
+Comparative Ethnic Studies,Bachelor's Degree,20.0,10.0,0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,5420,51710,34946,68128
+Communication Studies,Bachelor's Degree,77.0,71.0,3,46,67009,37,20,66163,28,70811,PS,PS,PS,PS,PS,38,61357,56359,39575,76115
+Journalism,Bachelor's Degree,58.0,51.0,2,42,67804,35,20,66442,22,69425,PS,PS,PS,PS,PS,36,13928,56278,40588,73923
+Graphic Communication,Bachelor's Degree,83.0,75.0,4,58,87135,54,27,77877,31,93623,PS,PS,PS,PS,PS,50,3496,43283,27166,64326
+Graphic Communication,Master's Degree,0.0,0.0,0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS
+Computer Science,Bachelor's Degree,,,0,79,192621,78,42,189254,37,183893,PS,PS,PS,PS,PS,63,41037,92374,64179,128180
+Computer Science,Bachelor's Degree,163.0,202.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,28067,107009,74830,152038
+Computer Science,Master's Degree,37.0,32.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,2450,145571,108475,208641
+General Engineering,Bachelor's Degree,,,1,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,3262,89359,73449,108835
+General Engineering,Master's Degree,2.0,0.0,0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,1455,120215,97333,152041
+Aerospace Engineering,Bachelor's Degree,106.0,110.0,4,48,112671,46,25,110055,23,106231,PS,PS,PS,PS,PS,30,3795,98207,81638,115917
+Aerospace Engineering,Master's Degree,15.0,24.0,0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,1079,122434,103582,146717
+BioResource and Agricultural Engineering,Bachelor's Degree,18.0,37.0,0,17,89957,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,1167,84624,67932,103936
+Architectural Engineering,Bachelor's Degree,39.0,27.0,1,42,97098,36,19,87610,23,100262,25,95624,17,96652,PS,31,725,89406,76962,103117
+Architectural Engineering,Master's Degree,2.0,0.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,104,98356,85298,115493
+Biomedical Engineering,Bachelor's Degree,104.0,71.0,2,40,111260,39,16,123754,24,110643,PS,PS,PS,PS,PS,32,5726,93451,74134,113859
+Biomedical Engineering,Master's Degree,29.0,21.0,0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,1704,106375,84793,130445
+Civil Engineering,Bachelor's Degree,130.0,148.0,2,125,101618,120,76,99459,48,106757,92,100045,33,110178,PS,107,15798,86517,73883,101174
+Civil Engineering,Master's Degree,45.0,41.0,0,27,103431,27,PS,PS,PS,PS,PS,PS,PS,PS,PS,22,3258,98323,84186,116108
+Computer Engineering,Bachelor's Degree,158.0,129.0,3,97,146406,95,41,143969,56,147127,79,140860,18,191173,PS,80,10329,109015,86299,145170
+Electrical Engineering,Bachelor's Degree,136.0,159.0,3,86,116692,82,56,117319,30,114778,PS,PS,PS,PS,PS,68,16532,100647,84635,122440
+Electrical Engineering,Master's Degree,31.0,26.0,2,19,158506,20,PS,PS,PS,PS,PS,PS,PS,PS,PS,17,3090,133654,107420,171817
+Environmental Engineering,Bachelor's Degree,29.0,39.0,3,33,86311,30,PS,PS,PS,PS,PS,PS,PS,PS,PS,22,1579,81171,68911,95232
+Materials Engineering,Bachelor's Degree,48.0,46.0,0,26,107726,26,PS,PS,PS,PS,PS,PS,PS,PS,PS,23,1151,91449,76710,109151
+Mechanical Engineering,Bachelor's Degree,272.0,278.0,7,133,110675,131,73,109808,60,112085,106,113045,27,105978,PS,110,36057,92135,77715,109121
+Mechanical Engineering,Master's Degree,55.0,40.0,0,16,119479,17,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,3775,115974,97429,140629
+Industrial Engineering,Bachelor's Degree,72.0,76.0,2,48,121125,48,22,131766,26,113151,32,122740,16,111194,PS,39,4636,98442,81158,121691
+Industrial Engineering,Master's Degree,13.0,1.0,0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,758,119184,96708,151168
+Manufacturing Engineering,Bachelor's Degree,23.0,17.0,0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,538,88451,72634,102217
+Nutrition,Bachelor's Degree,,,5,67,68469,55,39,65019,28,70192,PS,PS,PS,PS,18,53,3824,54945,39143,70678
+Child Development,Bachelor's Degree,0.0,0.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS
+English,Bachelor's Degree,60.0,49.0,3,39,64041,34,PS,PS,PS,PS,PS,PS,PS,PS,PS,32,33025,48590,33654,63810
+English,Master's Degree,2.0,14.0,1,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,3708,55512,39177,72721
+English,Graduate/Professional Certificate,0.0,0.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS
+English,Bachelor's Degree,0.0,0.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS
+Liberal Studies,Bachelor's Degree,107.0,116.0,2,67,64390,61,29,63516,37,65608,PS,PS,PS,PS,28,62,50554,53072,35750,73322
+Biological Sciences,Bachelor's Degree,160.0,163.0,10,94,73422,83,50,70169,44,77291,37,76105,56,71321,22,81,57101,57214,38929,79199
+Biological Sciences,Master's Degree,10.0,13.0,1,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,3962,69830,50928,96355
+Biochemistry,Bachelor's Degree,39.0,37.0,1,23,72627,21,PS,PS,PS,PS,PS,PS,PS,PS,PS,20,6319,65466,44889,88432
+Microbiology,Bachelor's Degree,16.0,24.0,0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,2108,62582,44047,83205
+Mathematics,Bachelor's Degree,62.0,51.0,0,45,78202,41,24,79654,21,73668,27,75813,17,82450,PS,36,15976,69562,49058,97414
+Mathematics,Master's Degree,14.0,11.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,1525,72654,54453,100369
+Statistics,Bachelor's Degree,41.0,41.0,1,21,97279,20,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,2476,92425,64564,125467
+Nutrition,Bachelor's Degree,74.0,74.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,2790,60053,43153,76798
+Nutrition,Master's Degree,6.0,6.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,1044,67126,52768,85484
+Marine Sciences,Bachelor's Degree,12.0,26.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,137,52667,35959,68489
+Interdisciplinary Studies,Bachelor's Degree,26.0,30.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,27598,55693,40311,72165
+Kinesiology,Bachelor's Degree,75.0,75.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,48463,54562,39049,73020
+Kinesiology,Master's Degree,0.0,1.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,9292,62033,47943,80968
+Philosophy,Bachelor's Degree,35.0,28.0,1,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,6085,54455,34926,78043
+Chemistry,Bachelor's Degree,26.0,30.0,1,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,10453,65120,48307,84018
+Chemistry,Master's Degree,3.0,18.0,0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,1187,82937,60941,109811
+Environmental Earth and Soil Sciences,Bachelor's Degree,23.0,38.0,0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,6193,60190,44343,77573
+Physics,Bachelor's Degree,51.0,35.0,2,19,114864,18,PS,PS,PS,PS,PS,PS,PS,PS,PS,16,5602,76786,51777,102948
+Physics,Master's Degree,0.0,2.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS
+Psychology,Bachelor's Degree,156.0,135.0,7,70,65762,57,39,57767,31,69943,16,56610,54,69666,19,58,102536,50706,35740,67229
+Psychology,Master's Degree,16.0,18.0,0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,5527,64711,45967,86199
+Economics,Bachelor's Degree,53.0,59.0,2,51,89394,45,21,86190,30,104907,PS,PS,PS,PS,PS,42,28744,82686,58184,116323
+Economics,Master's Degree,21.0,22.0,1,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,1664,100743,74382,133995
+Political Science,Bachelor's Degree,95.0,85.0,2,45,90264,43,27,85263,20,102685,27,87072,20,87080,PS,35,36628,63293,44760,85406
+Sociology,Bachelor's Degree,64.0,66.0,2,38,75585,35,PS,PS,PS,PS,PS,PS,PS,PS,PS,30,31848,52657,37665,69502
+Theatre Arts,Bachelor's Degree,10.0,19.0,0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,14066,39775,25491,55399
+Art and Design,Bachelor's Degree,54.0,58.0,6,36,87876,29,PS,PS,PS,PS,PS,PS,PS,PS,PS,29,26935,41367,26241,56653
+Music,Bachelor's Degree,12.0,15.0,0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,14715,42892,26048,58755
+Public Health,Bachelor's Degree,60.0,62.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS
+Nutrition,Bachelor's Degree,0.0,0.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS
+Nutrition,Master's Degree,0.0,0.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS
+Business Administration,Bachelor's Degree,,,13,377,104949,350,206,104553,171,105725,187,111382,190,97919,46,310,27865,68407,48204,94571
+Business Administration,Master's Degree,,,0,16,92498,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,8991,125988,83879,189086
+Business Administration,Bachelor's Degree,753.0,689.0,0,48,102603,44,25,101655,22,106295,PS,PS,PS,PS,PS,44,183303,68257,47618,93584
+Business Administration,Master's Degree,44.0,27.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,122193,103485,69982,153484
+Construction Management,Bachelor's Degree,123.0,150.0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,3051,95124,77072,115179
+History,Bachelor's Degree,60.0,55.0,4,26,58207,19,PS,PS,PS,PS,PS,PS,PS,PS,PS,23,23671,50680,36330,66736
+History,Master's Degree,2.0,4.0,0,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,PS,2810,55360,40544,73546

@@ -1,3 +1,8 @@
+"""
+This script calculates the median values for pay
+and benefits across majors for CalPoly Faculty.
+"""
+
 import pandas as pd
 
 df = pd.read_csv("Steel Thread/for_analysis/calpoly_salary_data.csv")
