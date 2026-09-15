@@ -21,7 +21,7 @@ ca_df = df[df["INSTNM"].isin(ca_schools) ]
 
 ca_df = ca_df.drop(columns=df.columns[
     df.columns.get_loc("DEBT_ALL_STGP_ANY_N"):
-    df.columns.get_loc("EARN_COUNT_NWNE_5YR")
+    df.columns.get_loc("EARN_COUNT_NWNE_HI_1YR")
 ])
 
 print(f"Includes {len(ca_df['INSTNM'].unique())} colleges")
