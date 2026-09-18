@@ -1,3 +1,5 @@
+# Lossless data processing for provided downloaded from Transparent Califronia
+
 import polars as pl
 
 def main():
@@ -5,29 +7,27 @@ def main():
     
     # Numerical cols
     financial_cols = [
-        "base", "overtime", "other", "ual", "benefitsee", 
-        "benefitser", "benefitsdc", "totalpay", "totalbenefits", 
+        "base", "overtime", "other", "totalpay", "totalbenefits", 
         "totalpaybenefits"
     ]
     
     df = pl.scan_csv(
         "../data/raw/**/*.csv",
-        schema_overrides={col: pl.String for col in financial_cols},
         include_file_paths="filepath"
     )
+    # Empty Cols
+    df = df.drop(['ual', 'benefitsee', 'benefitser', 'benefitsdc'], strict=False)
     
-    # Helper function to currency text into Floats
+    # Helper function to currency text into Ints!
     def clean_currency(col_name):
-        return (
-            pl.col(col_name)
-            .str.replace_all(r"[\$,]", "") 
-            .str.strip_chars()
-            .replace(["", "-", "—", "Not provided", "not provided"], None)
-            .cast(pl.Float64, strict=False)
-        )
+        return ( pl.col(col_name) .cast(pl.Int32, strict=False))
+        
+    df = df.rename(str.lower)
     
     # Apply typing and data transformations
     df = df.with_columns(
+        pl.selectors.string().str.to_lowercase()
+    ).with_columns(
         # Get Year From Filename
         pl.col("filepath").str.extract(r"-(\d{4})\.csv$", 1).cast(pl.Int16).alias("year"),
         
@@ -41,10 +41,9 @@ def main():
     
     df = df.drop(["filepath"])
     
-    
     final_df = df.collect()
     final_df.write_parquet("../data/faculty-salaries.parquet", compression="zstd")
-    
+        
     print(f"Processed {final_df.height:,} records.")
     schema = final_df.schema
     for col_name, dtype in schema.items():
