@@ -11,7 +11,7 @@ def main():
     ]
     
     df = pl.scan_csv(
-        "data/raw/**/*.csv",
+        "../data/raw/**/*.csv",
         schema_overrides={col: pl.String for col in financial_cols},
         include_file_paths="filepath"
     )
@@ -42,9 +42,8 @@ def main():
     df = df.drop(["filepath"])
     
     
-    # .collect() triggers the multi-threaded processing across all files
     final_df = df.collect()
-    final_df.write_parquet("data/faculty-salaries.parquet", compression="zstd")
+    final_df.write_parquet("../data/faculty-salaries.parquet", compression="zstd")
     
     print(f"Processed {final_df.height:,} records.")
     schema = final_df.schema

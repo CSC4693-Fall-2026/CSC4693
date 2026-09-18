@@ -6,7 +6,7 @@ def main():
     print("Scanning xlsx files...")
     
     
-    df_dict = pl.read_excel("data/raw/**/*.xlsx",sheet_id=0)
+    df_dict = pl.read_excel("../data/raw/**/*.xlsx",sheet_id=0)
     df = pl.concat(df_dict.values())
     df = df.rename(str.lower)
     
@@ -29,15 +29,13 @@ def main():
     )
     
     
-    df.write_parquet("data/uc-faculty.parquet")
+    df.write_parquet("../data/uc-faculty.parquet")
     
     print(f"Processed {df.height:,} records.")
+    schema = df.schema
+    for col_name, dtype in schema.items():
+        print(f"{col_name}: {dtype}")
     
-    print(df.head(5))
-    
-    print(df.describe())
-    
-    print(df.schema)
 
 if __name__ == "__main__":
     main()
