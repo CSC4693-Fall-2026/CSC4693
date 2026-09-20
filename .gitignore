@@ -219,6 +219,8 @@ __marimo__/
 
 # Raw Data
 Faculty/data/raw/**
+Faculty/Data/*
+Faculty/output/*
 Faculty/data/faculty-salaries.parquet
 
 # Excess large data
