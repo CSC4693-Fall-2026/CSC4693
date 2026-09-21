@@ -220,6 +220,7 @@ __marimo__/
 # Raw Data
 Faculty/data/raw/**
 Faculty/data/faculty-salaries.parquet
-
+Faculty/data/2024_CaliforniaStateUniversity.csv
+Faculty/data/*.parquet
 # Excess large data
 Most-Recent-Cohorts-Field-of-Study.csv
