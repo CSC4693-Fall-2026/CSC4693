@@ -1,6 +1,10 @@
 # Scrollable data visualizations
 
-This Vite workspace contains scroll-driven data visualizations built with D3 and Scrollama. 
+This Vite workspace contains scroll-driven data visualizations built with D3 and Scrollama.
+
+Visualizations are designed to emulate these stories:
+[scrollable map inspo](https://www.wsj.com/finance/investing/what-we-know-about-americas-billionaires-1-135-and-counting-98d22268)
+[scrollable pay gap inspo](https://pudding.cool/2018/08/pockets/)
 
 [`scrollable_map/`](scrollable_map/): **California's graduate earnings**.
 
@@ -27,6 +31,6 @@ Open the `scrollable_map/` link shown by Vite.
 
 The statewide gap is explicitly a proof-of-concept comparison, not an estimate of faculty pay at each institution. Faculty pay data is currently only available from Cal Poly so that is used for comparisons and visualizations.
 
-The preparation script reads `ca_collegescore.csv`, `calpoly_salary_data.csv`, `calpoly_major_medians.csv`, and `calpoly_scorecard.csv` from `Steel Thread/for_analysis/`. 
+The preparation script reads `ca_collegescore.csv`, `calpoly_salary_data.csv`, `calpoly_major_medians.csv`, and `calpoly_scorecard.csv` from `Steel Thread/for_analysis/`.
 
 The map draws California from the bundled `us-atlas` TopoJSON dataset through `topojson-client` and has no runtime external-data dependency.
