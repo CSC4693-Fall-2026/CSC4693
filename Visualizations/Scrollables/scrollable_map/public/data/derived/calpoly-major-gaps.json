@@ -1,0 +1,72 @@
+[
+  {
+    "major": "Economics",
+    "facultyCompensation": 217111,
+    "graduateEarnings": 89394,
+    "gap": 127717,
+    "comparisonGroup": "Largest faculty-over-graduate gaps"
+  },
+  {
+    "major": "Animal Science",
+    "facultyCompensation": 185261,
+    "graduateEarnings": 62117,
+    "gap": 123144,
+    "comparisonGroup": "Largest faculty-over-graduate gaps"
+  },
+  {
+    "major": "Agricultural Business",
+    "facultyCompensation": 211051,
+    "graduateEarnings": 93186,
+    "gap": 117865,
+    "comparisonGroup": "Largest faculty-over-graduate gaps"
+  },
+  {
+    "major": "English",
+    "facultyCompensation": 178697,
+    "graduateEarnings": 64041,
+    "gap": 114656,
+    "comparisonGroup": "Largest faculty-over-graduate gaps"
+  },
+  {
+    "major": "Biochemistry",
+    "facultyCompensation": 187158,
+    "graduateEarnings": 72627,
+    "gap": 114531,
+    "comparisonGroup": "Largest faculty-over-graduate gaps"
+  },
+  {
+    "major": "Computer Science",
+    "facultyCompensation": 176325,
+    "graduateEarnings": 192621,
+    "gap": -16296,
+    "comparisonGroup": "Smallest or negative gaps"
+  },
+  {
+    "major": "Computer Engineering",
+    "facultyCompensation": 192314,
+    "graduateEarnings": 146406,
+    "gap": 45908,
+    "comparisonGroup": "Smallest or negative gaps"
+  },
+  {
+    "major": "Graphic Communication",
+    "facultyCompensation": 135715,
+    "graduateEarnings": 87135,
+    "gap": 48580,
+    "comparisonGroup": "Smallest or negative gaps"
+  },
+  {
+    "major": "Art and Design",
+    "facultyCompensation": 140957,
+    "graduateEarnings": 87876,
+    "gap": 53081,
+    "comparisonGroup": "Smallest or negative gaps"
+  },
+  {
+    "major": "Materials Engineering",
+    "facultyCompensation": 168104,
+    "graduateEarnings": 107726,
+    "gap": 60378,
+    "comparisonGroup": "Smallest or negative gaps"
+  }
+]
