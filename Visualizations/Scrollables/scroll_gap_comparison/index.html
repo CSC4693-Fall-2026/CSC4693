@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Two sides of the same major</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css?v=20260921-3">
+</head>
+<body>
+  <header class="masthead">
+    <p class="eyebrow">Cal Poly San Luis Obispo · major by major</p>
+    <h1>Did faculty teach their<br>students to <em>outearn them?</em></h1>
+    <p class="dek">Major-level cases, one shared scale, and the distance between five-year student earnings and faculty compensation.</p>
+    <p class="scroll-cue"><span></span> Scroll to compare</p>
+  </header>
+
+  <main>
+    <section class="scrolly" aria-label="Cal Poly major pay gap story">
+      <div class="graphic" aria-live="polite">
+      <div class="visual-header">
+        <div>
+          <p class="visual-kicker" id="visual-kicker">Five-year gap by major</p>
+          <h2 id="visual-title">The spread</h2>
+        </div>
+        <div class="legend" id="legend"></div>
+      </div>
+      <div id="chart" class="chart" aria-label="Interactive major gap comparison"></div>
+      <p class="chart-note" id="chart-note">Loading major-level median gaps...</p>
+      </div>
+
+    <div class="steps">
+    <article class="step chapter-intro" data-step="spread">
+      <div class="chapter-copy">
+        <p class="chapter-number">01 / The spread</p>
+        <h2>Every line is a major.</h2>
+        <p>Each horizontal line shows the five-year gap for one major. The zero line is the point where student and faculty medians meet.</p>
+      </div>
+    </article>
+    <article class="step" data-step="converge">
+      <div class="chapter-copy">
+        <p class="chapter-number">02 / Convergence</p>
+        <h2>The lines come together.</h2>
+        <p>The major-level gaps collapse toward one shared position. The color remains so the individual cases do not disappear into the summary.</p>
+      </div>
+    </article>
+    <article class="step" data-step="average">
+      <div class="chapter-copy">
+        <p class="chapter-number">03 / The average</p>
+        <h2>One average, many majors.</h2>
+        <p>The converged marks become the average of the valid major-level median gaps. It is a summary of gaps, not an average salary.</p>
+      </div>
+    </article>
+    <article class="step" data-step="separate">
+      <div class="chapter-copy">
+        <p class="chapter-number">04 / Pull apart</p>
+        <h2>The average hides the range.</h2>
+        <p>The full set of major gaps returns, making the distance between the extremes visible again.</p>
+      </div>
+    </article>
+    <article class="step" data-step="extremes">
+      <div class="chapter-copy">
+        <p class="chapter-number">05 / The extremes</p>
+        <h2>Largest versus smallest.</h2>
+        <p>The final bars isolate the single largest and smallest five-year gaps side by side.</p>
+      </div>
+    </article>
+    <article class="step" data-step="compare">
+      <div class="chapter-copy">
+        <p class="chapter-number">06 / Unpacking the extremes</p>
+        <h2>Where the distance comes from.</h2>
+        <p>The same largest- and smallest-gap majors become vertical ranges: student five-year median earnings at one endpoint, faculty total compensation at the other.</p>
+      </div>
+    </article>
+    </div>
+    </section>
+
+  </main>
+
+  <footer class="footer">
+    <p><strong>How to read it.</strong> The gap is faculty median total compensation (`totalpaybenefits`) minus student median earnings five years after entry (`EARN_MDN_5YR`). The average is the mean of valid major-level median gaps; the populations and time scales are different.</p>
+    <p class="source">Sources · <span>calpoly_scorecard.csv</span> · <span>calpoly_major_medians.csv</span></p>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+  <script src="https://unpkg.com/scrollama@3.2.0/build/scrollama.min.js"></script>
+  <script src="app.js?v=20260921-10"></script>
+</body>
+</html>
