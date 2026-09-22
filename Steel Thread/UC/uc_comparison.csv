@@ -1,0 +1,139 @@
+campus,unitid,department,series,faculty_n,faculty_median_base,faculty_median_gross,grad_n_1yr,grad_earn_1yr,grad_n_5yr,grad_earn_5yr,ratio_1yr,ratio_5yr,ratio_5yr_base,meets_min_n
+berkeley,110635,"Agriculture, Food & Animal",ladder,14,144312.5,195500.5,50,35161.0,33,77253.0,0.18,0.395,0.535,true
+davis,110644,"Agriculture, Food & Animal",ladder,72,130125.0,154546.5,479,36400.0,437,61414.0,0.236,0.397,0.472,true
+santa cruz,110714,"Agriculture, Food & Animal",ladder,1,40750.0,45225.0,,,16,61102.0,,1.351,1.499,false
+berkeley,110635,Architecture & Environmental Design,ladder,43,153900.0,172848.0,373,47956.0,194,86948.0,0.277,0.503,0.565,true
+davis,110644,Architecture & Environmental Design,ladder,27,140067.0,184258.0,282,36481.0,191,65697.0,0.198,0.357,0.469,true
+irvine,110653,Architecture & Environmental Design,ladder,20,119491.5,130215.5,38,36304.0,19,59960.0,0.279,0.46,0.502,true
+los angeles,110662,Architecture & Environmental Design,ladder,32,158632.0,201971.0,65,31944.0,67,74911.0,0.158,0.371,0.472,true
+riverside,110671,Architecture & Environmental Design,ladder,9,108192.0,135234.0,94,30604.0,44,61938.0,0.226,0.458,0.572,false
+san diego,110680,Architecture & Environmental Design,ladder,11,118567.0,153150.0,54,37524.0,38,74028.0,0.245,0.483,0.624,true
+santa barbara,110705,Architecture & Environmental Design,ladder,27,148308.0,156725.0,253,33759.0,148,66752.0,0.215,0.426,0.45,true
+santa cruz,110714,Architecture & Environmental Design,ladder,21,160350.0,187367.0,221,29152.0,198,60229.0,0.156,0.321,0.376,true
+berkeley,110635,"Business, Economics & Finance",ladder,134,268517.0,338700.0,399,84784.0,389,134448.0,0.25,0.397,0.501,true
+davis,110644,"Business, Economics & Finance",ladder,85,202450.0,239911.0,766,51799.0,766,89019.0,0.216,0.371,0.44,true
+irvine,110653,"Business, Economics & Finance",ladder,33,214550.0,234417.0,818,46476.0,455,80572.0,0.198,0.344,0.376,true
+los angeles,110662,"Business, Economics & Finance",ladder,131,321867.0,412606.0,462,63674.0,416,104012.0,0.154,0.252,0.323,true
+merced,445188,"Business, Economics & Finance",ladder,15,180967.0,206222.0,247,46789.0,201,63910.0,0.227,0.31,0.353,true
+riverside,110671,"Business, Economics & Finance",ladder,22,142517.5,145676.5,1131,41214.0,945,71833.0,0.283,0.493,0.504,true
+san diego,110680,"Business, Economics & Finance",ladder,90,248212.5,317658.0,296,53571.0,478,84811.0,0.169,0.267,0.342,true
+santa barbara,110705,"Business, Economics & Finance",ladder,37,231767.0,277050.0,339,66308.0,376,106955.0,0.239,0.386,0.461,true
+santa cruz,110714,"Business, Economics & Finance",ladder,27,172550.0,180400.0,366,51629.0,317,89630.0,0.286,0.497,0.519,true
+berkeley,110635,Computer Science,ladder,57,163933.0,210069.0,441,132619.0,145,225140.0,0.631,1.072,1.373,true
+davis,110644,Computer Science,ladder,40,158750.0,186761.0,241,84343.0,209,143465.0,0.452,0.768,0.904,true
+irvine,110653,Computer Science,ladder,87,162167.0,227383.0,711,77488.0,222,130250.0,0.341,0.573,0.803,true
+los angeles,110662,Computer Science,ladder,53,175397.0,233222.0,144,136099.0,102,218770.0,0.584,0.938,1.247,true
+riverside,110671,Computer Science,ladder,71,148950.0,200344.0,181,80542.0,,,0.402,,,false
+san diego,110680,Computer Science,ladder,141,164725.0,229442.0,502,101496.0,385,160463.0,0.442,0.699,0.974,true
+santa barbara,110705,Computer Science,ladder,78,182991.5,224023.5,62,107776.0,91,145485.0,0.481,0.649,0.795,true
+santa cruz,110714,Computer Science,ladder,44,142670.5,176678.5,678,71492.0,269,118928.0,0.405,0.673,0.834,true
+berkeley,110635,Education & Public Administration,ladder,50,197200.0,244234.0,140,43886.0,59,78127.0,0.18,0.32,0.396,true
+davis,110644,Education & Public Administration,ladder,33,133292.0,171150.0,53,44593.0,66,63217.0,0.261,0.369,0.474,true
+irvine,110653,Education & Public Administration,ladder,46,192208.5,211934.0,326,27848.0,141,58011.0,0.131,0.274,0.302,true
+los angeles,110662,Education & Public Administration,ladder,56,178325.0,224611.5,,,,,,,,false
+riverside,110671,Education & Public Administration,ladder,1,90792.0,132703.0,182,30935.0,64,61890.0,0.233,0.466,0.682,false
+san diego,110680,Education & Public Administration,ladder,39,198617.0,252650.0,,,,,,,,false
+santa barbara,110705,Education & Public Administration,ladder,1,99817.0,107817.0,,,,,,,,false
+santa cruz,110714,Education & Public Administration,ladder,14,115900.0,129479.0,209,34944.0,119,60506.0,0.27,0.467,0.522,true
+berkeley,110635,Engineering,ladder,125,174564.0,226433.0,463,107132.0,248,171937.0,0.473,0.759,0.985,true
+davis,110644,Engineering,ladder,166,163004.5,195064.0,709,76254.0,750,109774.0,0.391,0.563,0.673,true
+irvine,110653,Engineering,ladder,51,157258.0,194600.0,978,71265.0,395,102130.0,0.366,0.525,0.649,true
+los angeles,110662,Engineering,ladder,148,192125.5,270662.0,341,77234.0,326,118017.0,0.285,0.436,0.614,true
+merced,445188,Engineering,ladder,50,135892.0,164824.0,396,61628.0,211,90399.0,0.374,0.548,0.665,true
+riverside,110671,Engineering,ladder,63,137017.0,178178.0,476,64049.0,527,99567.0,0.359,0.559,0.727,true
+san diego,110680,Engineering,ladder,133,162967.0,221375.0,709,70949.0,841,108455.0,0.32,0.49,0.666,true
+santa barbara,110705,Engineering,ladder,72,206141.5,253143.0,102,83587.0,188,113382.0,0.33,0.448,0.55,true
+santa cruz,110714,Engineering,ladder,78,155233.0,198858.5,191,72581.0,113,123365.0,0.365,0.62,0.795,true
+berkeley,110635,Humanities & Languages,ladder,311,146033.0,156988.0,628,29576.0,439,59365.0,0.188,0.378,0.407,true
+davis,110644,Humanities & Languages,ladder,251,132617.0,137317.0,881,27986.0,698,53513.0,0.204,0.39,0.404,true
+irvine,110653,Humanities & Languages,ladder,341,135450.0,147288.0,509,23008.0,354,50791.0,0.156,0.345,0.375,true
+los angeles,110662,Humanities & Languages,ladder,443,167791.0,179067.0,1048,27444.0,1017,58592.0,0.153,0.327,0.349,true
+merced,445188,Humanities & Languages,ladder,45,114958.0,121617.0,36,27543.0,,,0.226,,,false
+riverside,110671,Humanities & Languages,ladder,185,127433.0,133450.0,852,24030.0,711,51238.0,0.18,0.384,0.402,true
+san diego,110680,Humanities & Languages,ladder,216,135050.0,140842.0,331,22251.0,231,49969.0,0.158,0.355,0.37,true
+santa barbara,110705,Humanities & Languages,ladder,313,146217.0,154925.0,655,27041.0,575,56250.0,0.175,0.363,0.385,true
+santa cruz,110714,Humanities & Languages,ladder,167,136425.0,145542.0,740,24540.0,632,42925.0,0.169,0.295,0.315,true
+berkeley,110635,Science & Mathematics,ladder,311,181483.0,221650.0,975,52429.0,403,92390.0,0.237,0.417,0.509,true
+davis,110644,Science & Mathematics,ladder,316,165833.0,184521.5,1210,39097.0,1114,78116.0,0.212,0.423,0.471,true
+irvine,110653,Science & Mathematics,ladder,291,151167.0,182470.0,882,30510.0,323,72437.0,0.167,0.397,0.479,true
+los angeles,110662,Science & Mathematics,ladder,283,201975.0,254548.0,1376,36902.0,809,80563.0,0.145,0.316,0.399,true
+merced,445188,Science & Mathematics,ladder,96,118012.5,139474.0,311,37609.0,221,68589.0,0.27,0.492,0.581,true
+riverside,110671,Science & Mathematics,ladder,197,129633.0,152839.0,915,27794.0,551,63375.0,0.182,0.415,0.489,true
+san diego,110680,Science & Mathematics,ladder,386,156433.5,197300.0,1589,40499.0,840,75111.0,0.205,0.381,0.48,true
+santa barbara,110705,Science & Mathematics,ladder,213,170250.0,199499.0,720,42370.0,466,81428.0,0.212,0.408,0.478,true
+santa cruz,110714,Science & Mathematics,ladder,174,158845.5,187212.0,886,37470.0,537,66893.0,0.2,0.357,0.421,true
+berkeley,110635,Social Sciences & Communication,ladder,183,167100.0,193869.0,1753,46189.0,1110,83981.0,0.238,0.433,0.503,true
+davis,110644,Social Sciences & Communication,ladder,128,150667.0,157485.5,2200,34505.0,1860,64543.0,0.219,0.41,0.428,true
+irvine,110653,Social Sciences & Communication,ladder,147,142317.0,156800.0,2314,31641.0,1172,61200.0,0.202,0.39,0.43,true
+los angeles,110662,Social Sciences & Communication,ladder,205,198050.0,236067.0,2438,33051.0,1873,67294.0,0.14,0.285,0.34,true
+merced,445188,Social Sciences & Communication,ladder,72,123012.5,140320.5,521,30719.0,473,53538.0,0.219,0.382,0.435,true
+riverside,110671,Social Sciences & Communication,ladder,110,122458.5,140554.0,1471,27957.0,1263,53738.0,0.199,0.382,0.439,true
+san diego,110680,Social Sciences & Communication,ladder,192,138237.5,161325.0,2189,36339.0,1336,66437.0,0.225,0.412,0.481,true
+santa barbara,110705,Social Sciences & Communication,ladder,170,145158.5,166736.0,2069,36871.0,1745,66066.0,0.221,0.396,0.455,true
+santa cruz,110714,Social Sciences & Communication,ladder,110,136058.5,150684.5,1417,29311.0,1064,58435.0,0.195,0.388,0.429,true
+berkeley,110635,"Agriculture, Food & Animal",lecturer,3,59697.0,59697.0,50,35161.0,33,77253.0,0.589,1.294,1.294,false
+davis,110644,"Agriculture, Food & Animal",lecturer,4,64656.0,71169.5,479,36400.0,437,61414.0,0.511,0.863,0.95,false
+berkeley,110635,Architecture & Environmental Design,lecturer,7,45343.0,45343.0,373,47956.0,194,86948.0,1.058,1.918,1.918,false
+davis,110644,Architecture & Environmental Design,lecturer,3,46067.0,46067.0,282,36481.0,191,65697.0,0.792,1.426,1.426,false
+los angeles,110662,Architecture & Environmental Design,lecturer,14,73758.5,81043.0,65,31944.0,67,74911.0,0.394,0.924,1.016,true
+san diego,110680,Architecture & Environmental Design,lecturer,5,65878.0,80987.0,54,37524.0,38,74028.0,0.463,0.914,1.124,false
+santa barbara,110705,Architecture & Environmental Design,lecturer,3,118246.0,118246.0,253,33759.0,148,66752.0,0.285,0.565,0.565,false
+santa cruz,110714,Architecture & Environmental Design,lecturer,2,54655.0,64427.5,221,29152.0,198,60229.0,0.452,0.935,1.102,false
+berkeley,110635,"Business, Economics & Finance",lecturer,59,110749.0,122329.0,399,84784.0,389,134448.0,0.693,1.099,1.214,true
+davis,110644,"Business, Economics & Finance",lecturer,37,60359.0,70969.0,766,51799.0,766,89019.0,0.73,1.254,1.475,true
+irvine,110653,"Business, Economics & Finance",lecturer,6,65347.5,69483.0,818,46476.0,455,80572.0,0.669,1.16,1.233,false
+los angeles,110662,"Business, Economics & Finance",lecturer,24,92959.0,96741.5,462,63674.0,416,104012.0,0.658,1.075,1.119,true
+merced,445188,"Business, Economics & Finance",lecturer,3,69100.0,77773.0,247,46789.0,201,63910.0,0.602,0.822,0.925,false
+san diego,110680,"Business, Economics & Finance",lecturer,34,100629.0,120638.0,296,53571.0,478,84811.0,0.444,0.703,0.843,true
+santa barbara,110705,"Business, Economics & Finance",lecturer,15,98521.0,108628.0,339,66308.0,376,106955.0,0.61,0.985,1.086,true
+santa cruz,110714,"Business, Economics & Finance",lecturer,7,80413.0,91682.0,366,51629.0,317,89630.0,0.563,0.978,1.115,false
+berkeley,110635,Computer Science,lecturer,21,59934.0,59934.0,441,132619.0,145,225140.0,2.213,3.756,3.756,true
+davis,110644,Computer Science,lecturer,5,82068.0,82068.0,241,84343.0,209,143465.0,1.028,1.748,1.748,false
+irvine,110653,Computer Science,lecturer,15,114212.0,122067.0,711,77488.0,222,130250.0,0.635,1.067,1.14,true
+los angeles,110662,Computer Science,lecturer,4,61946.0,61946.0,144,136099.0,102,218770.0,2.197,3.532,3.532,false
+riverside,110671,Computer Science,lecturer,12,79690.5,108769.5,181,80542.0,,,0.74,,,false
+san diego,110680,Computer Science,lecturer,14,84638.0,101925.0,502,101496.0,385,160463.0,0.996,1.574,1.896,true
+santa barbara,110705,Computer Science,lecturer,1,67015.0,67015.0,62,107776.0,91,145485.0,1.608,2.171,2.171,false
+santa cruz,110714,Computer Science,lecturer,13,99797.0,99797.0,678,71492.0,269,118928.0,0.716,1.192,1.192,true
+berkeley,110635,Education & Public Administration,lecturer,37,88368.0,92585.0,140,43886.0,59,78127.0,0.474,0.844,0.884,true
+davis,110644,Education & Public Administration,lecturer,27,92865.0,99496.0,53,44593.0,66,63217.0,0.448,0.635,0.681,true
+los angeles,110662,Education & Public Administration,lecturer,39,110954.0,110954.0,,,,,,,,false
+san diego,110680,Education & Public Administration,lecturer,7,48662.0,50213.0,,,,,,,,false
+santa barbara,110705,Education & Public Administration,lecturer,7,86661.0,104702.0,,,,,,,,false
+santa cruz,110714,Education & Public Administration,lecturer,1,72942.0,72942.0,209,34944.0,119,60506.0,0.479,0.83,0.83,false
+berkeley,110635,Engineering,lecturer,11,68536.0,70757.0,463,107132.0,248,171937.0,1.514,2.43,2.509,true
+davis,110644,Engineering,lecturer,1,136376.0,145442.0,709,76254.0,750,109774.0,0.524,0.755,0.805,false
+irvine,110653,Engineering,lecturer,8,89434.5,101649.0,978,71265.0,395,102130.0,0.701,1.005,1.142,false
+los angeles,110662,Engineering,lecturer,8,50581.0,50780.5,341,77234.0,326,118017.0,1.521,2.324,2.333,false
+merced,445188,Engineering,lecturer,1,52579.0,57234.0,396,61628.0,211,90399.0,1.077,1.579,1.719,false
+riverside,110671,Engineering,lecturer,3,90664.0,107996.0,476,64049.0,527,99567.0,0.593,0.922,1.098,false
+san diego,110680,Engineering,lecturer,6,59815.5,59815.5,709,70949.0,841,108455.0,1.186,1.813,1.813,false
+santa barbara,110705,Engineering,lecturer,1,87534.0,94882.0,102,83587.0,188,113382.0,0.881,1.195,1.295,false
+santa cruz,110714,Engineering,lecturer,7,44303.0,44303.0,191,72581.0,113,123365.0,1.638,2.785,2.785,false
+berkeley,110635,Humanities & Languages,lecturer,158,75245.0,80106.0,628,29576.0,439,59365.0,0.369,0.741,0.789,true
+davis,110644,Humanities & Languages,lecturer,140,75509.0,80264.5,881,27986.0,698,53513.0,0.349,0.667,0.709,true
+irvine,110653,Humanities & Languages,lecturer,104,73599.5,75175.0,509,23008.0,354,50791.0,0.306,0.676,0.69,true
+los angeles,110662,Humanities & Languages,lecturer,173,73308.0,78476.0,1048,27444.0,1017,58592.0,0.35,0.747,0.799,true
+merced,445188,Humanities & Languages,lecturer,51,73308.0,77773.0,36,27543.0,,,0.354,,,false
+riverside,110671,Humanities & Languages,lecturer,91,82174.0,87408.0,852,24030.0,711,51238.0,0.275,0.586,0.624,true
+san diego,110680,Humanities & Languages,lecturer,79,67087.0,75148.0,331,22251.0,231,49969.0,0.296,0.665,0.745,true
+santa barbara,110705,Humanities & Languages,lecturer,116,81418.0,87484.5,655,27041.0,575,56250.0,0.309,0.643,0.691,true
+santa cruz,110714,Humanities & Languages,lecturer,86,76535.5,78374.5,740,24540.0,632,42925.0,0.313,0.548,0.561,true
+berkeley,110635,Science & Mathematics,lecturer,40,80707.0,85939.5,975,52429.0,403,92390.0,0.61,1.075,1.145,true
+davis,110644,Science & Mathematics,lecturer,31,85752.0,98599.0,1210,39097.0,1114,78116.0,0.397,0.792,0.911,true
+irvine,110653,Science & Mathematics,lecturer,12,73308.0,81114.0,882,30510.0,323,72437.0,0.376,0.893,0.988,true
+los angeles,110662,Science & Mathematics,lecturer,36,88211.5,99466.0,1376,36902.0,809,80563.0,0.371,0.81,0.913,true
+merced,445188,Science & Mathematics,lecturer,26,69412.0,80543.5,311,37609.0,221,68589.0,0.467,0.852,0.988,true
+riverside,110671,Science & Mathematics,lecturer,2,71997.5,75247.5,915,27794.0,551,63375.0,0.369,0.842,0.88,false
+san diego,110680,Science & Mathematics,lecturer,18,74496.5,79872.0,1589,40499.0,840,75111.0,0.507,0.94,1.008,true
+santa barbara,110705,Science & Mathematics,lecturer,18,82303.0,110866.5,720,42370.0,466,81428.0,0.382,0.734,0.989,true
+santa cruz,110714,Science & Mathematics,lecturer,13,80156.0,80156.0,886,37470.0,537,66893.0,0.467,0.835,0.835,true
+berkeley,110635,Social Sciences & Communication,lecturer,28,69178.5,76404.5,1753,46189.0,1110,83981.0,0.605,1.099,1.214,true
+davis,110644,Social Sciences & Communication,lecturer,15,67087.0,82501.0,2200,34505.0,1860,64543.0,0.418,0.782,0.962,true
+irvine,110653,Social Sciences & Communication,lecturer,11,67087.0,77548.0,2314,31641.0,1172,61200.0,0.408,0.789,0.912,true
+los angeles,110662,Social Sciences & Communication,lecturer,15,75616.0,76211.0,2438,33051.0,1873,67294.0,0.434,0.883,0.89,true
+merced,445188,Social Sciences & Communication,lecturer,14,67941.0,81431.0,521,30719.0,473,53538.0,0.377,0.657,0.788,true
+riverside,110671,Social Sciences & Communication,lecturer,7,56746.0,73965.0,1471,27957.0,1263,53738.0,0.378,0.727,0.947,false
+san diego,110680,Social Sciences & Communication,lecturer,30,64713.0,74168.0,2189,36339.0,1336,66437.0,0.49,0.896,1.027,true
+santa barbara,110705,Social Sciences & Communication,lecturer,9,84388.0,91957.0,2069,36871.0,1745,66066.0,0.401,0.718,0.783,false
+santa cruz,110714,Social Sciences & Communication,lecturer,14,64061.5,66090.0,1417,29311.0,1064,58435.0,0.443,0.884,0.912,true
