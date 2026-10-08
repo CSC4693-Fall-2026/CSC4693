@@ -1,0 +1,3598 @@
+Able Seaman 2
+Able Seaman 2 Pd
+Able Seaman 2 Su
+Absolute Returns Inv Dir
+Absolute Returns Inv Mgr 3
+Acad Achievement Cnslr 2
+Acad Achievement Cnslr 3
+Acad Achievement Cnslr 4
+Acad Achievement Cnslr 5
+Acad Achievement Mgr 1
+Acad Achievement Supv 2
+Acad Hr Anl 1
+Acad Hr Anl 2
+Acad Hr Anl 3
+Acad Hr Anl 4
+Acad Hr Anl 5
+Acad Hr Mgr 1
+Acad Hr Mgr 2
+Acad Hr Mgr 3
+Acad Hr Supv 2
+Acad Personnel Anl 2
+Acad Personnel Anl 3
+Acad Personnel Anl 4
+Acad Personnel Anl 5
+Acad Personnel Mgr 1
+Acad Personnel Mgr 2
+Acad Personnel Mgr 3
+Acad Personnel Supv 2
+Acad Prg Mgr 1
+Acad Prg Mgr 2
+Acad Prg Mgt Ofcr 3
+Acad Prg Mgt Ofcr 3 Gf
+Acad Prg Mgt Ofcr 4
+Acad Prg Mgt Ofcr 5
+Acad Prg Mgt Supv 2
+Academic Administrator Ii
+Academic Administrator Iii
+Academic Administrator Iv
+Academic Administrator V
+Academic Administrator V Nex
+Academic Administrator Vi
+Academic Administrator Vii
+Academic Administrator Vii Nex
+Academic Coord I-Ay
+Academic Coord I-Fy
+Academic Coord I-Fy Nex
+Academic Coord Ii-Ay
+Academic Coord Ii-Fy
+Academic Coord Ii-Fy Nex
+Academic Coord Iii-Ay
+Academic Coord Iii-Fy
+Academic Coord Iii-Fy Nex
+Academic Dean
+Academic Program Coordinator
+Access And Engmt Mgr 1
+Access And Engmt Mgr 2
+Access And Engmt Profl 2
+Access And Engmt Profl 3
+Access And Engmt Profl 4
+Access And Engmt Profl 5
+Access Repr
+Access Repr Pd
+Access Repr Prn
+Access Repr Prn Pd
+Access Repr Sr
+Accountant
+Accountant I
+Accountant Supv 2 Gf
+Accounting Mgr 1
+Accounting Mgr 1 Hc
+Accounting Mgr 2
+Accounting Mgr 2 Hc
+Accounting Mgr 3
+Accounting Mgr 3 Hc
+Accounting Mgr 4
+Accounting Mgr 4 Hc
+Accounting Supv 1
+Accounting Supv 2
+Accounting Technician
+Acquisitions Editor 3
+Acquisitions Editor 4
+Acquisitions Editor 5
+Acquisitions Mgr 1
+Acquisitions Mgr 2
+Act Assoc Prof-Ay
+Act Assoc Prof-Ay-1/9
+Act Assoc Prof-Ay-B/E/E
+Act Asst Prof Of Teach-Ay
+Act Asst Prof Teach-Ay-B/E/E
+Act Asst Prof-Ay
+Act Asst Prof-Sft-Vm
+Act Prof Of Teach-Ay-Law
+Act Prof-Ay
+Act Prof-Ay-1/9
+Act Prof-Ay-Law
+Act Prof-Hcomp
+Act/Interim Assoc Vice Chanc
+Act/Interim Dean
+Act/Interim Director
+Act/Interim Vice Provost
+Acupuncturist 3
+Acupuncturist 3 Gf
+Addl Comp-Hgh&Olive View Mcs
+Adj Instr-Ay
+Adj Instr-Fy
+Adj Instr-Hcomp
+Adj Prof-Ay
+Adj Prof-Ay-1/10-Bee
+Adj Prof-Ay-1/9
+Adj Prof-Ay-1/9-B/E/E
+Adj Prof-Ay-B/E/E
+Adj Prof-Fy
+Adj Prof-Fy-B/E/E
+Adj Prof-Hcomp
+Adj Prof-Sft-Vm
+Adjunct Professor
+Adm Crd Ofcr
+Admin Anl
+Admin Anl Ast
+Admin Anl Prn 1
+Admin Anl Prn 2
+Admin Anl Prn Supv
+Admin Anl Sr
+Admin Ast 1
+Admin Ast 2
+Admin Ast 3
+Admin Care Clin Partner
+Admin Care Clin Partner Pd
+Admin Care Partner
+Admin Mgr 1
+Admin Mgr 2
+Admin Mgr 3
+Admin Mgr 4
+Admin Nurse 1
+Admin Nurse 2 Nex
+Admin Nurse 3
+Admin Nurse 4
+Admin Nurse Shs Profl 4
+Admin Ofcr 2
+Admin Ofcr 2 Cx
+Admin Ofcr 3
+Admin Ofcr 3 Gf
+Admin Ofcr 4
+Admin Ofcr 4 Gf
+Admin Spec
+Admin Spec Supv
+Admin Stipend
+Admin Supv 1
+Admin Supv 2
+Admin Supv 2 Gf
+Administrative Analyst
+Administrative Assistant
+Administrative Specialist
+Administrative Support Coord
+Administrator
+Admissions Evaluator 3
+Admissions Recrmt Mgr 1
+Admissions Recrmt Mgr 2
+Admissions Recrmt Mgr 3
+Admissions Recrmt Mgr 4
+Admissions Recrmt Spec 1
+Admissions Recrmt Spec 2
+Admissions Recrmt Spec 3
+Admissions Recrmt Spec 4
+Admissions Recrmt Spec 4 Gf
+Admissions Recrmt Spec 5
+Admissions Recrmt Supv 1
+Admissions Recrmt Supv 2
+Admitting Worker
+Admitting Worker Pd
+Admitting Worker Prn
+Admitting Worker Prn Pd
+Admitting Worker Sr
+Admitting Worker Sr Pd
+Adv Practice Mgr 1
+Adv Practice Mgr 2
+Adv Practice Mgr 3
+Advanced Prac Supv 2
+Advisor To President Me
+Advocacy Mgr 1
+Advocacy Supv 2
+Advocate 3
+Advocate 4
+Aerospace Engr 2
+Aerospace Engr 3
+Aerospace Engr 4
+Aerospace Engr 5
+Aerospace Mgr 1
+Aerospace Mgr 2
+Aerospace Mgr 3
+Affiliated Scholar
+Agricultural Tchn
+Agricultural Tchn Prn
+Agricultural Tchn Sr
+Agriculture Mgr 1
+Agriculture Supv 1
+Agriculture Supv 2
+Agron Aes
+Agron Aes-Ay
+Agron Aes-B/E/E
+Agron Aes-B/E/E-Ay
+Agron Aes-Sft-Vm
+Alarm Electrn Ld
+Alumni External Rel Mgr 1
+Alumni External Rel Mgr 2
+Alumni External Rel Mgr 3
+Alumni External Rel Mgr 4
+Alumni External Rel Spec 1
+Alumni External Rel Spec 2
+Alumni External Rel Spec 3
+Alumni External Rel Spec 4
+Alumni External Rel Spec 5
+Alumni External Rel Supv 1
+Alumni External Rel Supv 2
+Alumni/External Rel Spec I
+Alumni/External Rel Spec Iii
+Ambul Care Admstn Crd 2
+Ambul Care Admstn Crd 2 Cx
+Ambul Care Admstn Crd 3
+Ambul Care Admstn Crd 3 Cx
+Ambul Care Admstn Crd 4
+Ambul Care Admstn Crd 4 Cx
+Ambul Care Admstn Crd 4 Gf
+Ambul Care Admstn Crd 5
+Ambul Care Admstn Mgr 1
+Ambul Care Admstn Mgr 2
+Ambul Care Admstn Mgr 3
+Ambul Care Admstn Mgr 4
+Ambul Care Admstn Supv 1
+Ambul Care Admstn Supv 2
+Ambul Care Admstn Supv 2 Gf
+Ambul Care Pat Mgr 1
+Ambul Care Pat Mgr 2
+Ambul Care Pat Mgr 3
+Ambul Care Pat Supv 1
+Ambul Care Pat Supv 2
+Americorp Member
+Anatomical Svc Mgr 1
+Anatomical Svc Profl 2
+Anatomical Svc Profl 4
+Anes Or Clin Supp Mgr 1
+Anes Or Clin Supp Supv 1
+Anes Or Clin Supp Supv 2
+Anesthesia Tchn
+Anesthesia Tchn 2
+Anesthesia Tchn 2 Pd
+Anesthesia Tchn 3
+Anesthesia Tchn 3 Pd
+Anesthesia Tchn Ld
+Anesthesia Tchn Pd
+Anesthetist Nurse
+Anesthetist Nurse Sr Ex
+Anesthetist Nurse Sr Nex
+Anesthetist Nurse Sr Pd
+Angiography Tchno
+Angiography Tchno Ld
+Angiography Tchno Pd
+Anl 1
+Anl 2
+Anl 3
+Anl 4
+Anl 5
+Anl 6
+Applications Prg Supv 2
+Applications Progm Mgr 1
+Applications Progm Mgr 2
+Applications Progm Mgr 3
+Applications Progr 1
+Applications Progr 2
+Applications Progr 3
+Applications Progr 3 Gf
+Applications Progr 4
+Applications Progr 5
+Art Model
+Art Therapist
+Art Therapist 2
+Art Therapist Pd
+Artist
+Artist Prn
+Artist Sr
+Artist Sr Supv
+Asc Head Coach Crd 4
+Asc Physcn
+Asc Physcn Diplomate
+Asc Vp Acad Prg And Strat
+Asc Vp Bus Ops Anr
+Asc Vp Cap Prg Sustain
+Asc Vp Cfpa
+Asc Vp Chf Clin Strat Ofcr
+Asc Vp Chf Transfmtn Ofcr
+Asc Vp Cpo
+Asc Vp Cro
+Asc Vp Federal Govt Rel
+Asc Vp Hs
+Asc Vp Natl Lab
+Asc Vp State Govt Rel
+Asc Vp Syswide Controller
+Assistant Dean (Staff)
+Assistant Director
+Assistant Director, Admin Sys
+Assoc Adj Prof-Ay
+Assoc Adj Prof-Ay-1/9
+Assoc Adj Prof-Ay-B/E/E
+Assoc Adj Prof-Fy
+Assoc Adj Prof-Fy-B/E/E
+Assoc Adj Prof-Hcomp
+Assoc Adj Prof-Sft-Vm
+Assoc Agron Aes
+Assoc Agron Aes-Ay
+Assoc Agron Aes-Ay-B/E/E
+Assoc Clin Prof-Vol
+Assoc Coop Ext Advisor
+Assoc Coord Pub Prog Non Rep
+Assoc Coord Public Prog
+Assoc Coord Public Prog Nex
+Assoc Curator
+Assoc Dean
+Assoc Dean-Ay
+Assoc Director
+Assoc Fld Prog Supv
+Assoc In __ -Ay-1/10-Gship
+Assoc In __ -Ay-1/9-Gship
+Assoc In ____-Ay-Gship
+Assoc In__-Ay- 1/10 -Non-Gship
+Assoc In__-Ay- 1/9 -Non-Gship
+Assoc Librarian -Career Status
+Assoc Librarian-Career Non Rep
+Assoc Librarian-Potlcar Nonrep
+Assoc Librarian-Potntl Career
+Assoc Librarian-Temp Nex
+Assoc Librarian-Temp Status
+Assoc Prof In Res-Ay
+Assoc Prof In Res-Ay-B/E/E
+Assoc Prof In Res-Fy
+Assoc Prof In Res-Hcomp
+Assoc Prof Of Clin-Fy
+Assoc Prof Of Clin-Hcomp
+Assoc Prof Of Clin-Sft-Vm
+Assoc Prof Of Teach-Ay
+Assoc Prof Of Teach-Ay-B/E/E
+Assoc Prof Of Teach-Fy
+Assoc Prof Of Teach-Hcomp
+Assoc Prof-Ay
+Assoc Prof-Ay-B/E/E
+Assoc Prof-Fy
+Assoc Prof-Fy-B/E/E
+Assoc Prof-Hcomp
+Assoc Prof-Sft-Vm
+Assoc Proj Sci-Fy Non Rep
+Assoc Proj Sci-Fy-B/E/E Nonrep
+Assoc Proj Scientist-Fy
+Assoc Proj Scientist-Fy Nex
+Assoc Proj Scientist-Fy-B/E/E
+Assoc Proj Scntst-Fy-B/E/E Nex
+Assoc Res (Wos)
+Assoc Res Scripps-Ay
+Assoc Res-Fy
+Assoc Res-Fy Nex
+Assoc Res-Fy-B/E/E
+Assoc Res-Fy-B/E/E-Non Rep
+Assoc Res-Fy-Non Rep
+Assoc Res-Lr Scl-Ay
+Assoc Res-Lr Scl-Ay-1/9
+Assoc Res-Lr Scl-Ay-1/9-B/E/E
+Assoc Specialist
+Assoc Specialist Coop Ext
+Assoc Specialist Nex
+Assoc Univ Librarian
+Assoc Vice Chanc
+Assoc Vice Provost
+Assoc, Environ Svcs I Pla-0
+Assoc. Librarian
+Associate Director (Mgmt)
+Associate Director (Prof)
+Associate Director, Per Diem
+Associate Law Librarian
+Associate Professor Of Law
+Asst Adj Prof-Ay
+Asst Adj Prof-Ay-1/9
+Asst Adj Prof-Ay-1/9-B/E/E
+Asst Adj Prof-Ay-B/E/E
+Asst Adj Prof-Fy
+Asst Adj Prof-Hcomp
+Asst Adj Prof-Sft-Vm
+Asst Agron Aes
+Asst Agron Aes-Ay
+Asst Agron Aes-Ay-B/E/E
+Asst Clin Prof-Vol
+Asst Coop Ext Advisor
+Asst Coord Public Prog
+Asst Curator
+Asst Dean
+Asst Director
+Asst Law Librarian
+Asst Librarian-Potntl Career
+Asst Librarian-Temp Status
+Asst Prof In Res-Ay
+Asst Prof In Res-Fy
+Asst Prof In Res-Hcomp
+Asst Prof In Res-Sft-Vm
+Asst Prof Of Clin-Fy
+Asst Prof Of Clin-Hcomp
+Asst Prof Of Clin-Sft-Vm
+Asst Prof Of Teach-Ay
+Asst Prof Of Teach-Ay-B/E/E
+Asst Prof Of Teach-Fy
+Asst Prof Of Teach-Hcomp
+Asst Prof Teach-Ay-1/9-B/E/E
+Asst Prof-Ay
+Asst Prof-Ay-1/9
+Asst Prof-Ay-1/9-B/E/E
+Asst Prof-Ay-B/E/E
+Asst Prof-Fy
+Asst Prof-Hcomp
+Asst Prof-Sft-Vm
+Asst Proj Sci-Fy Non Rep
+Asst Proj Scientist-Fy
+Asst Proj Scientist-Fy Nex
+Asst Proj Scientist-Fy-B/E/E
+Asst Proj Scntst-Fy-B/E/E Nex
+Asst Res (Wos)
+Asst Res-Fy
+Asst Res-Fy Nex
+Asst Res-Fy Nex Non Rep
+Asst Res-Fy-B/E/E
+Asst Res-Fy-B/E/E Nex
+Asst Res-Fy-B/E/E-Non Rep
+Asst Res-Fy-Non Rep
+Asst Res-Lr Scl-Ay
+Asst Res-Lr Scl-Ay-1/9
+Asst Specialist
+Asst Specialist Coop Ext
+Asst Specialist Nex
+Asst Specialist Non Rep
+Asst Teacher-Unex
+Asst Univ Librarian
+Asst, Cert Medical Cpe
+Asst, Executive Pla
+Asst, Laboratory Ii Pla
+Asst, Laboratory Lak
+Asst, Lic Phys Therapy Fvr
+Asst, Lic Phys Therapy Lom
+Asst, Medical Lead (Cma) Cpe
+Asst, Nursing Cert Fvr-0
+Asst, Nursing Cert Fvr-1
+Asst, Nursing Cert Lak
+Asst, Nursing Cert Lom-0
+Asst, Nursing Cert Pla
+Asst, Nursing Fvr
+Asst, Nursing Pla-0
+Asst, Nursing Pla-1
+Ast Fire Chf Mgr 1
+Ast Physcn
+Ast Plt Oper
+Ast Supt Mgr 2
+Ast To Dean Dir Chair 1
+Astronomer
+Ath Mgr 1
+Ath Mgr 1 Pac12
+Ath Mgr 2
+Ath Mgr 2 Pac12
+Ath Mgr 3
+Ath Mgr 3 Pac12
+Ath Mgr 4
+Ath Mgr 4 Pac12
+Ath Profl 1
+Ath Profl 1 Bya
+Ath Profl 2
+Ath Profl 2 Bya
+Ath Profl 3
+Ath Profl 3 Bya
+Ath Profl 4
+Ath Profl 4 Bya
+Ath Supv 1
+Ath Supv 2
+Ath Trainer 1
+Ath Trainer 2
+Ath Trainer 3
+Ath Trainer 4
+Ath Training Mgr 1
+Ath Training Supv 2
+Attorney
+Audiologist Ex
+Audiologist Pd
+Audiologist Sr Ex
+Audiologist Sr Pd
+Audit Mgr 1
+Audit Mgr 2
+Audit Mgr 3
+Audit Mgr 4
+Audit Profl 2
+Audit Profl 3
+Audit Profl 4
+Audit Profl 5
+Auto Attendant
+Auto Engr
+Auto Equip Opr
+Auto Equip Opr Prn
+Auto Equip Opr Sr
+Auto Equip Opr Sr Pd
+Auto Tchn
+Auto Tchn Ast
+Auto Tchn Ld
+Av It Engr 3
+Av It Engr 4
+Av It Engr Mgr 1
+Avp Empl And Labor Relation Me
+Avp Ppl Strat Tlnt & Cltre Me
+Avp Total Rewards Me
+Baker
+Baker Ast
+Baker Sr
+Bar Preparation Instructors
+Beh Health Cnslng Mgr 1
+Beh Health Cnslng Mgr 2
+Beh Health Cnslng Supv 1
+Beh Health Cnslng Supv 2
+Beh Health Counselor 1 Hx
+Beh Health Counselor 2
+Beh Health Counselor 2 Hx
+Beh Health Counselor 3
+Beh Health Counselor 3 Hx
+Beh Health Counselor 4
+Beh Health Counselor 4 Hx
+Beh Health Psychiatric Mgr 1
+Beh Health Psychiatric Mgr 2
+Beh Health Psychiatric Mgr 3
+Beh Health Psychiatric Mgr 4
+Beh Health Psychiatric Profl 2
+Beh Health Psychiatric Profl 3
+Beh Health Psychiatric Profl 4
+Beh Health Psychiatric Profl 5
+Beh Health Psychiatric Supv 1
+Beh Health Psychiatric Supv 2
+Beh Health Psychtrc Profl 1 Hx
+Beh Health Psychtrc Profl 2 Hx
+Beh Health Psychtrc Profl 3 Hx
+Beh Health Psychtrc Profl 4 Hx
+Bell Attendant
+Benefits Anl 1
+Benefits Anl 2
+Benefits Anl 3
+Benefits Anl 4
+Benefits Anl 5
+Benefits Mgr 1
+Benefits Mgr 2
+Benefits Prg Strat Anl 3
+Benefits Prg Strat Anl 4
+Benefits Prg Strat Anl 5
+Benefits Prg Strat Mgr 1
+Benefits Prg Strat Mgr 2
+Benefits Prg Strat Mgr 3
+Benefits Prg Strat Mgr 4
+Benefits Supv 2
+Bioinformatics Mgr 1
+Bioinformatics Progr 1
+Bioinformatics Progr 2
+Bioinformatics Progr 3
+Bioinformatics Progr 3 Gf
+Bioinformatics Progr 4
+Bioinformatics Progr 5
+Bioinformatics Supv 2
+Biomed Equip Tchn 1
+Biomed Equip Tchn 2
+Biomed Equip Tchn 3
+Biomed Equip Tchn 4
+Blank Appr
+Blank Ast 1
+Blank Ast 1 Pd
+Blank Ast 2
+Blank Ast 2 Pd
+Blank Ast 2 Supv
+Blank Ast 3
+Blank Ast 3 Pd
+Blank Ast 3 Supv
+Blank Ast 4
+Bldg Auto Cntrl Tchn
+Bldg Maint Worker
+Bldg Maint Worker Ld
+Bldg Maint Worker Sr
+Boat Engr
+Boat Opr 1 Pd
+Boat Opr Sr 1
+Boat Opr Sr 1 Pd
+Boatswain 3
+Boatswain 3 Pd
+Broadcast Comm Mgr 1
+Broadcast Comm Spec 1
+Broadcast Comm Spec 2
+Broadcast Comm Spec 3
+Broadcast Comm Spec 4
+Bus Dev Hc Mgr 1
+Bus Dev Hc Mgr 2
+Bus Dev Hc Mgr 3
+Bus Dev Hc Mgr 4
+Bus Dev Hc Profl 3
+Bus Dev Hc Profl 3 Gf
+Bus Dev Hc Profl 4
+Bus Dev Hc Profl 5
+Bus Dev Profl 4
+Bus Intel Mgr 1
+Bus Intel Mgr 2
+Bus Intel Mgr 3
+Bus Intel Mgr 4
+Bus Intel Spec 2
+Bus Intel Spec 3
+Bus Intel Spec 3 Gf
+Bus Intel Spec 4
+Bus Intel Spec 5
+Bus Intel Supv 2
+Bus Sys Anl 1
+Bus Sys Anl 2
+Bus Sys Anl 3
+Bus Sys Anl 3 Gf
+Bus Sys Anl 4
+Bus Sys Anl 5
+Bus Sys Anl Mgr 1
+Bus Sys Anl Mgr 2
+Bus Sys Anl Mgr 3
+Bus Sys Anl Supv 2
+Bus Tchl Supp Anl 2 Tx
+Bus Tchl Supp Anl 3 Tx
+Bus Tchl Supp Mgr 1
+Bus Tchl Supp Mgr 2
+Bus Tchl Supp Mgr 3
+Bus Tchl Supp Supv 1
+Bus Tchl Supp Supv 2
+Bus Tchl Supp Supv 2 Gf
+Business & Financial Analyst
+Buyer
+C Suite
+Cabinet Maker
+Camp Cnslr L3
+Capital Markets Fin Mgr 2
+Capital Markets Fin Ofcr 3
+Capital Markets Fin Ofcr 4
+Cardiovascular Mgr 1
+Cardiovascular Mgr 2
+Cardiovascular Mgr 3
+Cardiovascular Supv 1
+Cardiovascular Supv 2
+Cardiovascular Tchn
+Cardiovascular Tchn Pd
+Care Advocate
+Care Hosp Supv 1
+Care Mgr 1
+Care Mgr 2
+Care Mgr 3
+Care Mgr 4
+Care Supv 1
+Care Supv 2
+Career Counselor
+Career Svc Mgr 1
+Career Svc Mgr 2
+Career Svc Mgr 3
+Career Svc Spec 2
+Career Svc Spec 3
+Career Svc Spec 4
+Career Svc Spec 5
+Career Svc Supv 1
+Career Svc Supv 2
+Carpenter
+Carpenter Appr
+Carpenter Ld
+Carpenter Locksmith
+Carpenter Locksmith Worker Ld
+Carpenter Spec
+Cart Captionist
+Case Manager, Rn I Fvr-1
+Case Manager, Rn I Lom-0
+Case Manager, Rn Tra Sfz
+Case Mgr Ex
+Case Mgr Nex
+Case Mgr Pd
+Case Mgr Social Worker
+Case Mgr Social Worker Pd
+Case Mgr Sr
+Case Mgr Sr Pd
+Case Mgt Hc Mgr 1
+Case Mgt Hc Mgr 2
+Case Mgt Hc Mgr 3
+Case Mgt Hc Supv 2
+Cath Lab Radlg Tchno
+Cath Lab Radlg Tchno Prn
+Cath Lab Radlg Tchno Sr
+Cement Mason
+Cement Mason Floorer
+Cement Mason Ld
+Center Associate
+Center Senior Associate
+Ceo Med Ctr
+Cert Nurse Midwife 2
+Cert Phlebotomy Tchn 1
+Cert Phlebotomy Tchn 1 Pd
+Cert Phlebotomy Tchn 2
+Cert Phlebotomy Tchn 2 Pd
+Cert Phlebotomy Tchn 3
+Cfo Med Ctr
+Chair-Sen Asmbly&Academic Cncl
+Chan
+Chancellor And Dean
+Charge Desc Anl 3
+Charge Desc Anl 4
+Charge Desc Anl 4 Gf
+Charge Desc Mgr 1
+Charge Nurse Lom-1
+Charge Nurse Pla
+Chef 2
+Chf Adm Ofcr Som Me
+Chf Campus Counsel
+Chf Comm Ofcr Me
+Chf Engr Mgr 1
+Chf Financial Ofcr Hc Me
+Chf Hosp Adm Hc Me
+Chf Hr Exec Me
+Chf Hr Ofcr Campus Me
+Chf Hr Ofcr Hc Me
+Chf Info Exec Me
+Chf Info Ofcr Campus Me
+Chf Info Ofcr Hc Me
+Chf Inv Ofcr
+Chf Legl Cnsl Health Svc
+Chf Pharmacy Exec Me
+Chf Real Estate Ofcr Me
+Chf Strat Ofcr Hc Me
+Chief Financial Officer
+Chief Information Officer
+Chief Resid Phys-Rep
+Child Dev Asc
+Child Dev Ctr Ast
+Child Dev Ctr Ast Pd
+Child Dev Ctr Teacher 1
+Child Dev Ctr Teacher 1 Pd
+Child Dev Ctr Teacher 2
+Child Dev Ctr Teacher 2 Ld
+Child Dev Demo Lect
+Child Dev Demo Lect-Continuing
+Child Life Mgr 1
+Child Life Mgr 2
+Child Life Spec 1 Ex
+Child Life Spec 1 Nex
+Child Life Spec 1 Pd
+Child Life Spec 2 Ex
+Child Life Spec 2 Nex
+Child Life Spec 2 Pd
+Child Life Spec 3
+Child Life Spec 3 Nex
+Child Life Supv 2
+Child Life Teacher 1 Pd
+Child Life Teacher 2
+Child Life Teacher 3
+Cio Med Ctr
+City And Campus Fire Chf Mgr 3
+Clerk
+Clerk Pd
+Clerk Sr Or Secr
+Clerk Sr Secr Pd
+Clin Appl Trainer 2
+Clin Appl Trainer 3
+Clin Appl Trainer 4
+Clin Appl Trainer 5
+Clin Appl Trng Mgr 1
+Clin Applications Mgr 1
+Clin Applications Mgr 2
+Clin Applications Mgr 3
+Clin Applications Mgr 4
+Clin Applications Profl 1
+Clin Applications Profl 2
+Clin Applications Profl 3
+Clin Applications Profl 3 Gf
+Clin Applications Profl 4
+Clin Applications Profl 5
+Clin Applications Supv 2
+Clin Care Partner
+Clin Care Partner Pd
+Clin Doc Mgr 1
+Clin Doc Mgr 2
+Clin Doc Mgr 3
+Clin Doc Spec 2
+Clin Doc Spec 3
+Clin Doc Spec 3 Gf
+Clin Doc Spec 4
+Clin Doc Supv 2
+Clin Engr 2
+Clin Engr 3
+Clin Engr 4
+Clin Engr Mgr 1
+Clin Engr Mgr 2
+Clin Engr Mgr 3
+Clin Engr Supv 1
+Clin Engr Supv 2
+Clin Img It Mgr 2
+Clin Img It Spec 1
+Clin Img It Spec 2
+Clin Img It Spec 3
+Clin Img It Spec 4
+Clin Img It Spec 5
+Clin Img It Supv 2
+Clin Informatics Mgr 1
+Clin Informatics Mgr 2
+Clin Informatics Mgr 3
+Clin Informatics Mgr 4 Md
+Clin Informatics Mgr 4 Nmd
+Clin Informatics Spec 2
+Clin Informatics Spec 3
+Clin Informatics Spec 4
+Clin Informatics Spec 5
+Clin Informatics Supv 2
+Clin Instr-Vol
+Clin Lab Mgr 1
+Clin Lab Mgr 2
+Clin Lab Mgr 3
+Clin Lab Sci
+Clin Lab Sci Appr
+Clin Lab Sci Pd
+Clin Lab Sci Spec
+Clin Lab Sci Spec Pd
+Clin Lab Sci Spec Sr
+Clin Lab Sci Spec Supv Sr Ex
+Clin Lab Shs Mgr 1
+Clin Lab Shs Supv 2
+Clin Lab Supv 2
+Clin Lic Social Worker
+Clin Lic Social Worker Pd
+Clin Nurse 1
+Clin Nurse 2
+Clin Nurse 3
+Clin Nurse 4
+Clin Nurse Educ 3
+Clin Nurse Educ 3 Gf
+Clin Nurse Educ 4
+Clin Nurse Educ 5
+Clin Nurse Educ Mgr 2
+Clin Nurse Or Adv Pract Spec 4
+Clin Nurse Or Adv Pract Spec 5
+Clin Nurse Shs Mgr 1
+Clin Nurse Shs Supv 2
+Clin Ops Shs Adm 4
+Clin Ops Shs Supv 1
+Clin Ops Shs Supv 2
+Clin Prof-Vol
+Clin Profl Svc Mgr 1
+Clin Profl Svc Mgr 2
+Clin Profl Svc Mgr 3
+Clin Profl Svc Mgr 4
+Clin Regis Anl 2
+Clin Regis Anl 3
+Clin Regis Anl 4
+Clin Regis Mgr 1
+Clin Regis Mgr 2
+Clin Regis Supv 1
+Clin Regis Supv 2
+Clin Rsch Anl 4
+Clin Rsch Anl 5
+Clin Rsch Crd
+Clin Rsch Crd Ast
+Clin Rsch Crd Sr Ex
+Clin Rsch Crd Sr Nex
+Clin Rsch Mgr 1
+Clin Rsch Mgr 2
+Clin Rsch Mgr 3
+Clin Rsch Supv 1
+Clin Rsch Supv 2
+Clin Social Worker 1 Ex
+Clin Social Worker 1 Nex
+Clin Social Worker 2
+Clin Social Worker 2 Pd
+Clin Social Worker 3
+Clin Social Worker Chf Asc
+Clin Social Worker Supv
+Clin Spec Ex
+Clin Spec Nex
+Clin Spec Supv Ex
+Clinical Professor Of Law
+Clinician Pd
+Cmo Med Ctr
+Cmptl And Data Sci Rsch Mgr 1
+Cmptl And Data Sci Rsch Mgr 2
+Cmptl And Data Sci Rsch Mgr 3
+Cmptl And Data Sci Rsch Spec 1
+Cmptl And Data Sci Rsch Spec 2
+Cmptl And Data Sci Rsch Spec 3
+Cmptl And Data Sci Rsch Spec 4
+Cmptl And Data Sci Rsch Spec 5
+Cmptl And Data Sci Rsch Supv 2
+Cmty Educ Mgr 1
+Cmty Educ Spec 1
+Cmty Educ Spec 2
+Cmty Educ Spec 3
+Cmty Educ Spec 4
+Cmty Educ Spec 4 Gf
+Cmty Educ Supv 1
+Cmty Educ Supv 2
+Cmty Health Outr Mgr 1
+Cmty Health Outr Profl 2
+Cmty Health Outr Profl 3
+Cmty Health Outr Profl 4
+Cmty Health Outr Supv 1
+Cmty Health Outr Supv 2
+Cmty Health Prg Repr Ast
+Cmty Health Prg Supv
+Cmty Svc Case Mgr
+Cndr Instructor
+Cno Med Ctr
+Cnslng Psychologist 2 Hx
+Cnslng Psychologist 3 Hx
+Cnslng Psychologist 4 Hx
+Cnslng Therapist 2 Hx Gf
+Cnslng Therapist 3 Hx Gf
+Coach Ast 1
+Coach Ast 2
+Coach Ast 3
+Coach Spec
+Coder Pd
+Cogen Instrument Cntrl Tchn
+Cogen Opr
+Cogen Opr Ld
+Coll Repr
+Coll Repr Sr
+College Provost
+Comm And Network Tchl Anl 2
+Comm And Network Tchl Anl 3
+Comm And Network Tchl Anl 3 Gf
+Comm And Network Tchl Anl 4
+Comm And Network Tchl Anl 5
+Comm And Network Tchl Mgr 1
+Comm And Network Tchl Mgr 2
+Comm And Network Tchl Mgr 3
+Comm And Network Tchl Supv 1
+Comm And Network Tchl Supv 2
+Comm Hc Mgr 4
+Comm Mgr 1
+Comm Mgr 2
+Comm Mgr 3
+Comm Mgr 4
+Comm Spec 3
+Comm Spec 4
+Comm Spec 5
+Comm Supv 2
+Communications Assistant
+Compensation Anl 2
+Compensation Anl 3
+Compensation Anl 3 Gf
+Compensation Anl 4
+Compensation Anl 5
+Compensation Mgr 1
+Compensation Mgr 2
+Compensation Supv 2
+Computer Exam Specialist
+Computer Lab Assistant
+Computer Opr Sr
+Computer Resc Spec 1
+Computer Resc Spec 2
+Computer Support Specialist
+Concierge 3
+Concierge 4
+Concierge Mgr 2
+Conservator 4
+Const Insp 3
+Const Insp 4
+Const Insp 5
+Const Insp Asc
+Const Insp Sr
+Constant Observer Pla
+Continuing Appt-Temp Aug-1/9
+Continuing Appt-Temp Aug-Ay
+Continuing Appt-Temp Aug-Fy
+Continuing Appt-Temp-Aug-1/10
+Continuing Educator I
+Continuing Educator I Nex
+Continuing Educator Ii
+Continuing Educator Iii
+Contract Adm 1
+Contract Adm 2
+Contract Adm 3
+Contract Adm 4
+Contract Adm 5
+Contract Admstn Mgr 1
+Contract Admstn Mgr 2
+Contract Admstn Supv 1
+Contract Admstn Supv 2
+Contracts And Grants Mgr 1
+Contracts And Grants Mgr 2
+Contracts And Grants Mgr 3
+Contracts And Grants Supv 1
+Contracts And Grants Supv 2
+Contracts And Grants Supv 2 Gf
+Controller
+Coo Inv Svc Ocio
+Coo Med Ctr
+Coo Physcn Network
+Cook
+Cook Ast
+Cook Pd
+Cook Sr
+Coop Ext Advisor
+Coord Fld Wk-Fy
+Coord Fld Wk-Fy-Continuing
+Coord Pub Prog Non Rep
+Coord Public Prog
+Coordinator
+Cord, Billing Tpr-South Cpe
+Cord, Human Resources Lak-0
+Cord, Practice Cpe
+Cord, Quality/Pi Lom-3
+Counsel 1
+Counsel 2
+Counsel 3
+Counsel 4
+Counsel 5
+Course Author-Unex
+Cso Med Ctr
+Ct Tchno
+Ct Tchno Ld
+Ct Tchno Pd
+Ct Tchno Prn
+Ct Tchno Sr
+Ct Tchno Sr Pd
+Ctrl Heat Cooling Plt Opr
+Ctrl Sterile Mgr 1
+Ctrl Sterile Mgr 2
+Ctrl Sterile Supv 1
+Ctrl Sterile Supv 2
+Ctrl Svc Tchn 1
+Ctrl Svc Tchn 1 Pd
+Ctrl Svc Tchn 2
+Ctrl Svc Tchn 2 Pd
+Ctrl Svc Tchn Ld 3
+Ctrl Utility Plt Opr
+Ctrl Utility Plt Opr Ld
+Curator
+Curator 4
+Curator 4 Gf
+Curatorial Mgr 1
+Curatorial Mgr 2
+Curatorial Mgr 3
+Curatorial Supv 2
+Curriculum Plnr 2
+Curriculum Plnr 3
+Curriculum Plnr 4
+Custodial Hc Mgr 1
+Custodial Hc Mgr 2
+Custodial Hc Mgr 3
+Custodial Hc Supv 1 Ex
+Custodial Hc Supv 1 Nex
+Custodial Hc Supv 2 Ex
+Custodial Hc Supv 2 Nex
+Custodial Mgr 1
+Custodial Mgr 2
+Custodial Supv 1
+Custodial Supv 2
+Custodian
+Custodian Ld
+Custodian Leader
+Custodian Leader Sr
+Custodian Pd
+Custodian Sr
+Customer Svc Mgr 1
+Customer Svc Mgr 2
+Customer Svc Mgr 3
+Customer Svc Supv 1
+Customer Svc Supv 2
+Cwsp - Off Campus
+Cwsp-On Campus
+Cyto Tchno
+Cyto Tchno Pd
+Cyto Tchno Sr
+Cyto Tchno Sr Pd
+Cytogenetic Tchno 1
+Cytogenetic Tchno 2
+Cytogenetic Tchno Pd
+Data Analysis Mgr 1
+Data Analysis Supv 2
+Data Sys Anl 1
+Data Sys Anl 2
+Data Sys Anl 3
+Data Sys Anl 3 Gf
+Data Sys Anl 4
+Data Sys Anl 5
+Data Sys Mgr 1
+Data Sys Mgr 2
+Data Sys Mgr 3
+Data Sys Mgr 4
+Data Sys Supv 2
+Database Adm 1
+Database Adm 2
+Database Adm 3
+Database Adm 3 Gf
+Database Adm 4
+Database Adm 5
+Database Supv 2
+Database Technician
+Datatel Systems Administrator
+Datatel User Support Analyst
+Deaf Translator Interpreter
+Dean
+Dean Univ Ext
+Decision Supp Mgr 1
+Decision Supp Mgr 2
+Decision Supp Mgr 3
+Decision Supp Mgr 4
+Decision Supp Spec 3
+Decision Supp Spec 3 Gf
+Decision Supp Spec 4
+Decision Supp Spec 5
+Decision Supp Supv 2
+Delivery Worker
+Demo Teacher
+Demo Teacher-Continuing
+Dental Ast
+Dental Hygienist
+Dental Hygienist Pd
+Dentist Asc
+Dentist Shs Supv 2
+Dentist Sr
+Department Chair
+Department Vice Chair
+Deputy Gen Counsel
+Design And Const Hc Mgr 3
+Design And Const Mgr 1
+Design And Const Mgr 2
+Design And Const Mgr 3
+Design And Const Mgr 4
+Design And Const Mgt Spec 2
+Design And Const Mgt Spec 3
+Design And Const Mgt Spec 4
+Design And Const Mgt Spec 5
+Dev Engr Asc
+Dev Tchn 1
+Dev Tchn 2
+Dev Tchn 3
+Dev Tchn 4
+Dev Tchn 5
+Dialysis Me Tchn 2 Pd
+Dialysis Profl 4
+Dietetic Ast
+Dietetic Ast Pd
+Dietitian 1 Ex
+Dietitian 1 Nex
+Dietitian 1 Pd
+Dietitian 2
+Dietitian 2 Supv
+Dietitian Hc Spec 4
+Dietitian Hc Spec 4 Hx
+Dietitian Pd
+Dietitian Sr
+Dietitian Sr Supv
+Digital Comm Mgr 1
+Digital Comm Mgr 2
+Digital Comm Spec 3
+Digital Comm Spec 4
+Digital Comm Spec 5
+Digital Comm Supv 2
+Dir
+Dir Asc
+Dir Ast
+Dir Exec
+Dir, Nursing Procedural Fvr-0
+Dir, Pharmacy Services Lak
+Dir, Revenue Analysis Lak
+Director
+Director I
+Director Ii
+Director Iii
+Director Of Acad Support Pgm
+Director Of Alumni
+Director Of Drp
+Director, Per Diem
+Disabled Students/Admin Assist
+Discharge Planner Lak
+Discharge Planner Lom
+Discussion Group Leader
+Divisional Dean
+Dosimetrist
+Dosimetrist Sr
+Dosimetrist Sr Pd
+Dosimetry Supv 2
+Drafting Tchn
+Driver
+Early Childhood Educ Mgr 2
+Early Childhood Educ Supv 2
+Early Childhood Site Crd 4
+Echocardiographic Tchn
+Echocardiographic Tchn Pd
+Echocardiographic Tchn Prn
+Echocardiographic Tchn Sr
+Editor
+Editor Ast
+Editor Sr
+Educ Tchl Mgr 1
+Educ Tchl Mgr 2
+Educ Tchl Spec 3
+Educ Tchl Spec 3 Tx
+Educ Tchl Spec 4 Tx
+Educ Tchl Supv 1
+Educ Tchl Supv 2
+Educator 2 Bya
+Educator 3 Bya
+Educator, Clinical Lom-0
+Educator, Clinical Lom-2
+Eeg Tchno
+Eeg Tchno Pd
+Eeg Tchno Prn
+Eeg Tchno Prn Pd
+Eeg Tchno Sr
+Eeg Tchno Sr Pd
+Eeg Tchno Supv Ex
+Eeo Mgr 1
+Eeo Repr 2
+Eeo Repr 3
+Eeo Repr 4
+Eeo Repr 5
+Ehs Mgr 1
+Ehs Mgr 2
+Ehs Mgr 3
+Ehs Mgr 4
+Ehs Spec 1 Nex
+Ehs Spec 2 Nex
+Ehs Spec 3
+Ehs Spec 4
+Ehs Spec 5
+Ehs Supv 1
+Ehs Supv 2
+Ehs Tchn
+Ehs Tchn Prn
+Ehs Tchn Sr
+Elected Ofcr Stdt Govt
+Electr Tchn
+Electr Tchn Prn
+Electr Tchn Sr
+Electrn
+Electrn Appr
+Electrn Ast Supv
+Electrn Ld
+Electrn Opr 3
+Electrn Opr 3 Pd
+Electrn Spec
+Electrn Worker Ld
+Electrocardiograph Tchn
+Electrocardiograph Tchn Pd
+Electrocardiograph Tchn Sr
+Elevator Mech
+Elevator Mech Ld
+Embryologist 4
+Embryologist 5
+Emergency Med Tchn
+Emergency Med Tchn Ld
+Emergency Med Tchn Sr
+Emergency Trauma Tchn
+Emergency Trauma Tchn Pd
+Emergency Trauma Tchn Sr
+Emergency Trauma Tchn Sr Pd
+Employee Health Svc Rn Supv 2
+Employee Rel Mgr 1
+Employee Rel Mgr 2
+Employee Rel Mgr 3
+Employee Rel Repr 2
+Employee Rel Repr 3
+Employee Rel Repr 4
+Employee Rel Repr 5
+Employee Svc Asc 2
+Employee Svc Asc 3
+Employment Mgr 1
+Employment Mgr 2
+Employment Repr 1
+Employment Repr 2
+Employment Repr 3
+Employment Repr 4
+Employment Repr 5
+Employment Supv 1
+Employment Supv 2
+Energy Mgr 1
+Energy Mgr 2
+Energy Mgt Anl 2
+Energy Mgt Anl 3
+Energy Mgt Anl 4
+Energy Mgt Anl 5
+Energy Mgt Supv 2
+Engr Spec 2
+Engr Tchn Supv 2
+Enrollment Mgr 4
+Enterprise Risk Mgr 1
+Enterprise Risk Mgr 2
+Enterprise Risk Mgr 3
+Enterprise Risk Mgr 4
+Enterprise Risk Mgt Anl 1
+Enterprise Risk Mgt Anl 2
+Enterprise Risk Mgt Anl 3
+Enterprise Risk Mgt Anl 4
+Enterprise Risk Mgt Anl 5
+Enterprise Risk Supv 2
+Equip Opr
+Equip Ops Engr
+Er Tech Pct/Emt-Wh
+Ethics And Cmplnc Mgr 1
+Ethics And Cmplnc Mgr 2
+Ethics And Cmplnc Mgr 3
+Ethics And Cmplnc Mgr 4
+Ethics And Cmplnc Profl 1
+Ethics And Cmplnc Profl 2
+Ethics And Cmplnc Profl 3
+Ethics And Cmplnc Profl 4
+Ethics And Cmplnc Profl 5
+Events Crd 2
+Events Crd 3
+Events Mgr 1
+Events Mgr 2
+Events Spec 1
+Events Spec 2
+Events Spec 3
+Events Spec 3 Gf
+Events Spec 4
+Events Spec 5
+Events Supv 1
+Events Supv 2
+Evp Coo
+Examing Physcn
+Exec Advisor 3
+Exec Advisor 3 Gf
+Exec Advisor 4
+Exec Advisor 5
+Exec Advisor Mgr 1
+Exec Advisor Mgr 2
+Exec Advisor Mgr 3
+Exec Asst To The C&D
+Exec Ast 3
+Exec Ast 3 Cx
+Exec Ast 4
+Exec Ast 4 Gf
+Exec Ast 5
+Exec Chef 4
+Exec Chef 5
+Exec Vc And Provost
+Exec Vp Cfo
+Exec Vp Uc Health
+Executive Assistant
+Executive Director - Hr
+Executive Director, Operations
+Exhibitions Mgr 1
+Exhibitions Spec 4
+Exhibitions Supv 2
+Fac Mech
+Fac Mech Ld
+Fac Mgr 1
+Fac Mgr 2
+Fac Mgr 3
+Fac Mgr 4
+Fac Mgt Spec 1 Cx
+Fac Mgt Spec 2
+Fac Mgt Spec 2 Cx
+Fac Mgt Spec 3
+Fac Mgt Spec 3 Cx
+Fac Mgt Spec 4
+Fac Mgt Spec 5
+Fac Project Mgr 1
+Fac Project Mgr 1 Hc
+Fac Project Mgr 2
+Fac Project Mgr 2 Hc
+Fac Project Mgr 3
+Fac Project Mgr 3 Hc
+Fac Project Mgr 4
+Fac Project Mgr 4 Hc
+Fac Project Mgt Spec 2
+Fac Project Mgt Spec 2 Hc
+Fac Project Mgt Spec 3
+Fac Project Mgt Spec 3 Gf
+Fac Project Mgt Spec 3 Hc
+Fac Project Mgt Spec 4
+Fac Project Mgt Spec 4 Hc
+Fac Project Mgt Spec 5
+Fac Project Mgt Spec 5 Hc
+Fac Project Supv 2
+Fac Project Supv 2 Hc
+Fac Supv 1
+Fac Supv 2
+Fac Supv 2 Gf
+Fac Worker
+Faculty Admin Transition Lv-Ay
+Faculty Admin Transition Lv-Fy
+Faculty Advisor
+Faculty Asst To Chanc
+Faculty Asst To Provost/Dean
+Faculty Consultant
+Faculty Recruitment Allow
+Farm Laborer
+Farm Mach Mech
+Farm Mach Mech Ast
+Farm Mach Mech Sr
+Farm Maint Worker
+Farm Maint Worker Sr
+Farm Seasonal Worker Pd
+Federal Govt Rel Mgr 2
+Federal Govt Rel Profl 3
+Federal Govt Rel Profl 5
+Field Researcher 2
+Field Researcher 3
+Field Researcher 4
+Field Rsch Mgr 1
+Field Rsch Supv 1
+Field Rsch Supv 2
+Field Veterinarian 2
+Field Veterinarian 3
+Field Veterinarian 4
+Financial Aid Mgr 1
+Financial Aid Mgr 2
+Financial Aid Mgr 3
+Financial Aid Ofcr 2
+Financial Aid Ofcr 3
+Financial Aid Ofcr 4
+Financial Aid Supv 1
+Financial Aid Supv 2
+Financial Aid Supv 2 Gf
+Financial Anl 1
+Financial Anl 2
+Financial Anl 3
+Financial Anl 3 Gf
+Financial Anl 4
+Financial Anl 5
+Financial Anl Hc Mgr 4
+Financial Anl Mgr 1
+Financial Anl Mgr 2
+Financial Anl Mgr 3
+Financial Anl Mgr 4
+Financial Anl Supv 1
+Financial Anl Supv 2
+Financial Svc Anl 1
+Financial Svc Anl 1 Cx
+Financial Svc Anl 2
+Financial Svc Anl 2 Cx
+Financial Svc Anl 3
+Financial Svc Anl 4
+Financial Svc Anl 4 Gf
+Financial Svc Anl 5
+Financial Svc Mgr 1
+Financial Svc Mgr 2
+Financial Svc Mgr 3
+Financial Svc Mgr 4
+Financial Svc Supv 1
+Financial Svc Supv 2
+Financial Svc Supv 2 Gf
+Fire Alarm Tchn
+Fire Alarm Tchn Ld
+Fire And Scrty Spec
+Fire And Scrty Sys Supv Ast
+Fire And Scrty Sys Tchn
+Fire Captain 40 Hrs
+Fire Captain 56 Hrs
+Fire Fighter Stdt Rsdt
+Fire Fighter Stdt Rsdt Sr
+Fire Mech
+Fire Spec 1 56 Hrs
+Fire Spec 1 56 Hrs Non Hzmt
+Fire Spec 2 40 Hrs
+Fire Spec 2 56 Hrs
+First Engr Ast
+First Ofcr
+First Ofcr Pd
+Fixed Income Inv Dir
+Fixed Income Inv Mgr 3
+Fld Prog Supv
+Fld Wk Consult-Ay
+Fld Wk Consult-Ay-Continuing
+Fld Wk Consult-Fy-Continuing
+Fld Wk Supv-Ay
+Fld Wk Supv-Fy
+Fld Wk Supv-Fy-Continuing
+Fleet Svc Mgr 1
+Fleet Svc Supv 1
+Fleet Svc Supv 2
+Flooring Installer
+Flooring Installer Ld
+Food Line Worker-Wh-Pd
+Food Svc Hc Supv 1
+Food Svc Hc Supv 2
+Food Svc Mech
+Food Svc Mech Ast
+Food Svc Mech Ld
+Food Svc Mgr 1
+Food Svc Mgr 2
+Food Svc Mgr 3
+Food Svc Mgr Ast
+Food Svc Supv 1
+Food Svc Supv 2
+Food Svc Worker
+Food Svc Worker Ld
+Food Svc Worker Pd
+Food Svc Worker Prn
+Food Svc Worker Sr
+Food Svc Worker Sr Pd
+Fundraiser 1 Nex
+Fundraiser 2 Nex
+Fundraiser 3
+Fundraiser 3 Gf
+Fundraiser 4
+Fundraiser 5
+Fundraising Hc Mgr 4
+Fundraising Mgr 1
+Fundraising Mgr 2
+Fundraising Mgr 3
+Fundraising Mgr 4
+Fundraising Supv 1
+Fundraising Supv 2
+Gardener Groundskeeper
+Geffen K-12 Instr Summer Prog
+Geffen K-12 Instructor-Ay
+Geffen K-12 Instructor-Ay-1/10
+Geffen K-12 Instructor-Ay-Cont
+Gen Accountant 1
+Gen Accountant 2
+Gen Accountant 3
+Gen Accountant 4
+Gen Accountant 4 Gf
+Gen Accountant 5
+Gen Accountant 5 Hc
+Gen Counsel Svp Legal Affairs
+General Counsel/Board Scrtry
+General Svc Other Supv 1
+Genetic Cnslng Hc Mgr 1
+Genetic Cnslng Hc Mgr 2
+Genetic Cnslng Hc Supv 2
+Genetic Cnslr 1 Nex
+Genetic Cnslr 2 Ex
+Genetic Cnslr 2 Nex
+Genetic Cnslr 3 Ex
+Genetic Cnslr 3 Nex
+Genetic Cnslr Pd
+Geographic Info Sys Progr 1
+Geographic Info Sys Progr 2
+Geographic Info Sys Progr 3
+Geographic Info Sys Progr 4
+Geographic Info Sys Supv 2
+Gi Endoscopy Tchn 1
+Gi Endoscopy Tchn 1 Pd
+Gi Endoscopy Tchn 2
+Gi Endoscopy Tchn 2 Pd
+Gi Endoscopy Tchn 3
+Glazier
+Glazier Worker Ld
+Govt Rel Mgr 1
+Govt Rel Mgr 2
+Govt Rel Mgr 3
+Govt Rel Spec 3
+Govt Rel Spec 4
+Govt Rel Spec 5
+Graduate Fellow
+Graduate Research Fellow
+Grounds Equip Opr
+Groundskeeper
+Groundskeeper Ld
+Groundskeeper Sr Ld
+Gsr Trainee/Fellow Supplement
+Gsr-Fellow-No Rem
+Gsr-Fellow-Tuit Rem
+Gsr-Fellowship-Tuit&Fee Rem
+Gsr-Full Fee Rem
+Gsr-No Rem
+Gsr-Partial Fee Rem
+Gsr-Trainee-No Rem
+Gsr-Trainee-Tuit Rem
+Gsr-Tuit & Fee Rem
+Gsr-Tuit & Fee Rem-Ucsd-Grp B
+Gsr-Tuit & Fee Rem-Ucsd-Grp C
+Gsr-Tuit & Fee Rem-Ucsd-Grp D
+Gsr-Tuit & Fee Rem-Ucsd-Grp E
+Gsr-Tuit & Fee Rem-Ucsd-Grp F
+Gsr-Tuit & Fee Rem-Ucsd-Grp G
+Hc Adm Shs Mgr 1
+Hc Adm Shs Mgr 2
+Hc Adm Shs Mgr 3
+Head Coach 5
+Heal Oth Post-Md 4-6/Rep
+Health Educ Mgr 1
+Health Educ Supv 1
+Health Educ Supv 2
+Health Educator 1
+Health Educator 2
+Health Educator 3
+Health Educator 3 Pd
+Health Educator 4
+Health Educator 4 Gf
+Health Educator 5
+Health Info Coder 1
+Health Info Coder 2
+Health Info Coder 3
+Health Info Coder 4
+Health Info Mgt Mgr 1
+Health Info Mgt Mgr 2
+Health Info Mgt Mgr 3
+Health Info Mgt Prof 4 Gf
+Health Info Mgt Supv 1
+Health Info Mgt Supv 2
+Health Plan Admin Mgr 3
+Health Plan Admin Mgr 4
+Health Profns Educ Mgr 1
+Health Profns Educ Mgr 2
+Health Profns Educ Mgr 3
+Health Profns Educ Spec 2
+Health Profns Educ Spec 2 Cx
+Health Profns Educ Spec 3
+Health Profns Educ Spec 4
+Health Profns Educ Spec 4 Gf
+Health Profns Educ Spec 5
+Health Profns Educ Supv 1
+Health Profns Educ Supv 2
+Health Profns Educ Supv 2 Gf
+Health Sciences Adm 1
+Health Sciences Adm 2
+Health Sciences Adm 3
+Health Sciences Adm 4
+Health Tchn 1
+Health Tchn 2
+Health Tchn 3
+Health Tchn 4 Nex
+Hhmi Investigator
+High Volt Electrn
+High Volt Electrn Appr
+High Volt Electrn Ld
+Histo Tchno 1
+Histo Tchno 1 Pd
+Histo Tchno 2
+Histo Tchno 2 Pd
+Histo Tchno 3
+Histo Tchno Ld
+Home Health Aide
+Home Health Aide Pd
+Home Health Mgr 2
+Home Health Nurse 2
+Home Health Nurse 3
+Home Health Nurse Pd
+Home Health Supv 2
+Hosp Ast
+Hosp Ast 1 Pd
+Hosp Ast 2 Pd
+Hosp Ast 3 Pd
+Hosp Ast Pd
+Hosp Ast Sr
+Hosp Blank Aid
+Hosp Blank Ast 1
+Hosp Blank Ast 2
+Hosp Blank Ast 2 Pd
+Hosp Blank Ast 3
+Hosp Blank Ast 3 Pd
+Hosp Blank Ast 4
+Hosp Lab Tchn 1
+Hosp Lab Tchn 1 Pd
+Hosp Lab Tchn 2
+Hosp Lab Tchn 2 Pd
+Hosp Lab Tchn 3
+Hosp Lab Tchn 3 Pd
+Hosp Lab Tchn 4
+Hosp Med Transcriber
+Hosp Med Transcriber Pd
+Hosp Med Transcriber Sr
+Hosp Med Transcriber Sr Pd
+Hosp Rad Physicist Ast
+Hosp Rad Physicist Ex
+Hosp Unit Svc Crd 2
+Hosp Unit Svc Crd 3
+Hosp Unit Svc Crd Pd
+House Shift Admin 4 Nex
+House Shift Admin 5
+Hr Ast 2
+Hr Ast 3
+Hr Business Partner Lak
+Hr Generalist 1
+Hr Generalist 2
+Hr Generalist 3
+Hr Generalist 4
+Hr Generalist 5
+Hr Generalist Fvr
+Hr Generalist Pla
+Hr Mgr 1
+Hr Mgr 2
+Hr Mgr 3
+Hr Mgr 4
+Hr Supv 1
+Hr Supv 2
+Hs Assoc Clin Prof-Ay
+Hs Assoc Clin Prof-Fy
+Hs Assoc Clin Prof-Hcomp
+Hs Assoc Clin Prof-Sft-Vm
+Hs Asst Clin Prof-Ay
+Hs Asst Clin Prof-Fy
+Hs Asst Clin Prof-Hcomp
+Hs Asst Clin Prof-Sft-Vm
+Hs Clin Instr-Ay
+Hs Clin Instr-Fy
+Hs Clin Instr-Hcomp
+Hs Clin Prof-Ay
+Hs Clin Prof-Fy
+Hs Clin Prof-Hcomp
+Hs Clin Prof-Sft-Vm
+Hvac Ast Supv
+Hvac Cntrl Tchn
+Hvac Mech
+Hvac Mech Ld
+Hvac Spec
+Hvy Duty Equip Tchn
+Hvy Offroad Equip Mech
+Illustrator Sr
+Industry Allns Mgr 1
+Industry Allns Mgr 2
+Industry Allns Mgr 3
+Industry Allns Spec 2
+Industry Allns Spec 3
+Industry Allns Spec 4
+Industry Allns Spec 5
+Industry Allns Supv 2
+Infection Prevention Crd 1
+Infection Prevention Crd 2
+Infection Prevention Crd 3
+Infection Prevention Crd 4
+Infection Prevention Crd 5
+Infection Prevention Mgr 1
+Infection Prevention Mgr 2
+Infection Prevention Mgr 3
+Infection Prevention Supv 2
+Info Sys Anl 1
+Info Sys Anl 2
+Info Sys Anl 3
+Info Sys Anl 3 Gf
+Info Sys Anl 4
+Info Sys Anl 5
+Info Sys Hc Mgr 3
+Info Sys Hc Mgr 4
+Info Sys Mgr 1
+Info Sys Mgr 2
+Info Sys Mgr 3
+Info Sys Mgr 4
+Info Sys Supv 1
+Info Sys Supv 2
+Insp Supv 2 Gf
+Inspection Mgr 1
+Inspection Mgr 3
+Institutional Rsch Anl 1
+Institutional Rsch Anl 2
+Institutional Rsch Anl 3
+Institutional Rsch Anl 4
+Institutional Rsch Anl 5
+Institutional Rsch Mgr 1
+Institutional Rsch Mgr 2
+Institutional Rsch Mgr 3
+Instr-Hcomp
+Instructional Design Mgr 1
+Instructional Design Mgr 2
+Instructional Design Supv 2
+Instructional Designer 1
+Instructional Designer 2
+Instructional Designer 3
+Instructional Designer 4
+Instructional Designer 4 Gf
+Instructional Designer 5
+Insulation Worker
+Insulation Worker Ld
+Insurance Verifier Lom
+Intern-Clin Psych-Gen Camp Nex
+Intern-Clin Psych-Genl Camp
+Intern-Clinical Psychology
+Intern-Clinical Psychology Nex
+Interventnl Radlg Tchno
+Interventnl Radlg Tchno Ld
+Interventnl Radlg Tchno Pd
+Interventnl Radlg Tchno Pri
+Interventnl Radlg Tchno Prn Pd
+Interventnl Radlg Tchno Sr
+Interventnl Radlg Tchno Sr Pd
+Intrm Postdoc Scholar-Employee
+Inv Risk Dir
+Inv Risk Ofcr
+Ionm Tchno
+Ionm Tchno Sr
+Ip Mgr 1
+Ip Mgr 2
+Ip Mgr 3
+Ip Mgr 4
+Ip Ofcr 1
+Ip Ofcr 2
+Ip Ofcr 3
+Ip Ofcr 4
+Ip Ofcr 5
+Ip Supv 2
+Irrigation Ast Supv
+Irrigation Mech
+Irrigation Mech Ld
+Irrigation Spec
+Irrigation Spec Ld
+It Architect 3
+It Architect 3 Gf
+It Architect 4
+It Architect 5
+It Architect Mgr 1
+It Architect Mgr 2
+It Architect Mgr 3
+It Architect Supv 2
+It Scrty Anl 2
+It Scrty Anl 3
+It Scrty Anl 3 Gf
+It Scrty Anl 4
+It Scrty Anl 5
+It Scrty Mgr 1
+It Scrty Mgr 2
+It Scrty Mgr 3
+It Scrty Mgr 4
+It Scrty Supv 2
+Jr Specialist
+Jr Specialist (Wos)
+Jr Specialist Nex
+Jr Specialist Nex Non Rep
+K To 12 Educator 1
+K To 12 Educator 2
+K To 12 Educator 3
+K To 12 Educator 4
+K To 12 Educator 5
+K To 12 Educator Mgr 1
+K To 12 Educator Mgr 2
+K To 14 Acad Prep Mgr 1
+K To 14 Acad Prep Mgr 2
+K To 14 Acad Prep Mgr 3
+K To 14 Acad Prep Spec 1
+K To 14 Acad Prep Spec 2
+K To 14 Acad Prep Spec 3
+K To 14 Acad Prep Spec 4
+K To 14 Acad Prep Spec 5
+K To 14 Acad Prep Supv 1
+K To 14 Acad Prep Supv 2
+K-12 Asst-Non Gship/Nonrep
+K-12 Daily Substitute/Nonrep
+K-12 Instructor-Ay
+Key Entry Opr
+Key Entry Opr Ld
+Lab Ast 1
+Lab Ast 2
+Lab Ast 3
+Lab Ast 4
+Lab Glassblower Prn
+Lab Helper
+Lab Instruction Supv 1
+Lab Instruction Supv 2
+Lab Mechn
+Lab Mechn Helper
+Lab Mechn Prn
+Lab Mechn Sr
+Lab Processing Supv 1
+Lab Processing Supv 2
+Lab Rsch Mgr 1
+Lab Rsch Spec 5
+Lab Rsch Supv 1
+Lab Rsch Supv 2
+Lab Rsch Supv 2 Gf
+Labor Rel Mgr 1
+Labor Rel Mgr 2
+Labor Rel Mgr 3
+Labor Rel Mgr 4
+Labor Rel Repr 2
+Labor Rel Repr 3
+Labor Rel Repr 4
+Labor Rel Repr 5
+Laborer
+Laborer Ld
+Laborer Sr Ld
+Lactation Consultant 3
+Lactation Consultant 3 Pd
+Landscape Grounds Mgr 1
+Landscape Grounds Supv 1
+Landscape Grounds Supv 2
+Language Ast
+Laundry Mach Opr
+Laundry Supv 1
+Law Librarian
+Lead Admin Assist / Fac Supp
+Leave Of Absence Mgr 1
+Leave Of Absence Spec 2
+Leave Of Absence Spec 3
+Leave Of Absence Spec 4
+Leave Of Absence Spec 4 Gf
+Leave Of Absence Supv 2
+Lect In Summer Session
+Lect-Ay
+Lect-Ay-1/10
+Lect-Ay-1/10-Continuing
+Lect-Ay-1/9
+Lect-Ay-1/9-Continuing
+Lect-Ay-Continuing
+Lect-Fy
+Lect-Fy-Continuing
+Lect-Miscellaneous/Part Time
+Lecturer - 12 Month
+Lecturer - 9 Month
+Legal Ops Mgr 1
+Legal Ops Supv 2
+Legal Secr
+Legal Secr Sr
+Legal Secretary
+Legal Supp Spec 3
+Legal Supp Spec 4
+Legal Svc Advisor 2
+Leop Coordinator
+Leop/Lwr Tutor
+Librarian
+Librarian-Career Non Rep
+Librarian-Career Status
+Librarian-Potntl Career Status
+Librarian-Potntlcareer Non Rep
+Librarian-Temp Status
+Library Assistant V
+Library Ast 1
+Library Ast 2
+Library Ast 3
+Library Ast 4
+Library Bookbinder
+Library Bookbinder Prn
+Library Bookbinder Sr
+Library Mgr 1
+Library Mgr 2
+Library Mgr 3
+Library Profl 3
+Library Profl 3 Cx
+Library Profl 4
+Library Profl 4 Cx
+Library Supv 1
+Library Supv 2
+Lifeguard
+Lifeguard Pd
+Lift Team Tchn 2
+Lift Team Tchn 2 Pd
+Lift Team Tchn Ld 3
+Lighting Tech
+Lighting Tech Ld
+Linen Svc Head Sr
+Linen Svc Head Worker
+Linen Svc Worker
+Linen Svc Worker Sr
+Loan Origination Mgr 1
+Loan Origination Mgr 2
+Loan Origination Ofcr 2
+Loan Origination Ofcr 3
+Loan Origination Ofcr 4
+Loan Svc Anl 2
+Loan Svc Anl 4
+Loan Svc Mgr 1
+Locksmith
+Locksmith Ld
+Locksmith Spec
+Locksmith Spec Bc
+Lrng Skls Cnslr
+Lvn Supv 1
+Lvn/Lpn Fvr-0
+Lvn/Lpn Lak-1
+Lw&R Intructor I
+Machinist
+Machinist Worker Ld
+Mail Clerk
+Mail Processor
+Mail Processor Prn
+Mail Processor Sr
+Mail Svc Mgr 1
+Mail Svc Mgr 2
+Mail Svc Supv 1
+Maint A Ld
+Maint B Ld
+Maint Mech
+Maint Mech Ld
+Mammography Tchno
+Mammography Tchno Ld
+Mammography Tchno Pd
+Mammography Tchno Prn
+Mammography Tchno Sr
+Mammography Tchno Sr Pd
+Mammography Tech-Wh-Pd
+Manager
+Managing Director
+Marine Cook 2
+Marine Cook 2 Pd
+Marine Cook 3
+Marine Cook 3 Pd
+Marine Cook 3 Su
+Marine Mechn
+Marine Mechn Prn
+Marine Mechn Sr
+Marine Ops Mgr 4
+Marine Tchn 1
+Marine Tchn 2
+Marine Tchn 2 Nex
+Marine Tchn 3
+Marine Tchn 3 Nex
+Marketing Hc Mgr 4
+Marketing Mgr 1
+Marketing Mgr 2
+Marketing Mgr 3
+Marketing Spec 1
+Marketing Spec 2
+Marketing Spec 3
+Marketing Spec 4
+Marketing Spec 5
+Marketing Supv 1
+Marketing Supv 2
+Mason
+Mason Ast Supv
+Mason Ld
+Massage Therapist 2
+Materials Mgt Hc Mgr 1
+Materials Mgt Hc Mgr 2
+Materials Mgt Hc Mgr 3
+Materials Mgt Hc Mgr 4
+Materials Mgt Hc Spec 3
+Materials Mgt Hc Spec 4
+Materials Mgt Hc Supv 1
+Materials Mgt Hc Supv 2
+Mechanic, Maintenance Fvr-0
+Mechanic, Maintenance Lom
+Mechanic, Maintenance Pla
+Med Ast
+Med Ast 1
+Med Ast 1 Pd
+Med Ast 2
+Med Ast 2 Pd
+Med Ast 3
+Med Ast 4
+Med Ast Pd
+Med Ctr Bldg Maint Worker
+Med Ctr Bldg Maint Worker Ld
+Med Ctr Bldg Maint Worker Sr
+Med Ctr Cook
+Med Ctr Cook Ast
+Med Ctr Cook Pd
+Med Ctr Cook Sr
+Med Ctr Custodian
+Med Ctr Custodian Ld
+Med Ctr Custodian Pd
+Med Ctr Custodian Sr
+Med Ctr Custodian Sr Pd
+Med Ctr Dev Tchn 2
+Med Ctr Dev Tchn 3
+Med Ctr Electr Tchn
+Med Ctr Electr Tchn Prn
+Med Ctr Electr Tchn Sr
+Med Ctr Electr Tchn Trainee
+Med Ctr Envir Svc Worker 1
+Med Ctr Envir Svc Worker 2
+Med Ctr Food Svc Worker
+Med Ctr Food Svc Worker Ld
+Med Ctr Food Svc Worker Pd
+Med Ctr Food Svc Worker Prn
+Med Ctr Food Svc Worker Prn Pd
+Med Ctr Food Svc Worker Sr
+Med Ctr Food Svc Worker Sr Pd
+Med Ctr Lab Mechn
+Med Ctr Lab Mechn Helper
+Med Ctr Lab Mechn Prn
+Med Ctr Lab Mechn Sr
+Med Ctr Parking Ast
+Med Ctr Parking Repr Ld
+Med Ctr Scrty Ofcr
+Med Ctr Scrty Ofcr Pd
+Med Ctr Scrty Ofcr Sr
+Med Ctr Storekeeper
+Med Ctr Storekeeper Ast
+Med Ctr Storekeeper Ld
+Med Ctr Storekeeper Sr
+Med Ctr Storekeeper Sr Ld
+Med Ctr Stores Worker
+Med Dir Stdt Health
+Med Esthetician 3
+Med Interpreter 1
+Med Interpreter 2
+Med Interpreter Pd
+Med Interpreter Svc Mgr 1
+Med Interpreter Svc Supv 2
+Med Lab Tchn
+Med Library Hc Profl 3
+Med Library Hc Profl 4
+Med Ofc Svc Crd 1
+Med Ofc Svc Crd 2
+Med Ofc Svc Crd 2 Pd
+Med Ofc Svc Crd 3
+Med Ofc Svc Crd 3 Pd
+Med Ofc Svc Crd 4
+Med Ofc Svc Crd Ld 3
+Med Physics Spec 5
+Med Physics Supv 2
+Med Rcds Adm
+Med Rcds Ast
+Med Rcds Ast Sr
+Med Rcds Tchn Ast
+Med Stf Svc Mgr 1
+Med Stf Svc Mgr 2
+Med Stf Svc Mgr 3
+Med Stf Svc Spec 2
+Med Stf Svc Spec 3
+Med Stf Svc Spec 4
+Med Stf Svc Supv 2
+Media Comm Mgr 1
+Media Comm Mgr 2
+Media Comm Mgr 3
+Media Comm Spec 1
+Media Comm Spec 2
+Media Comm Spec 3
+Media Comm Spec 3 Gf
+Media Comm Spec 4
+Media Comm Spec 5
+Media Comm Supv 2
+Medical Scribe Tpr Cpe
+Meeting Room Captain 2
+Meeting Room Captain 3 A
+Meeting Room Captain 3 B
+Mental Health Pract
+Mental Health Pract Pd
+Mental Health Pract Sr
+Mental Health Ther 1
+Mental Health Ther 2
+Mgd Care Mgr 1
+Mgd Care Mgr 2
+Mgd Care Mgr 3
+Mgd Care Mgr 4
+Mgd Care Spec 2
+Mgd Care Spec 3
+Mgd Care Spec 3 Gf
+Mgd Care Spec 4
+Mgd Care Spec 5
+Mgd Care Supv 2
+Mgn Counsel 3
+Mgr
+Mgr, Central Supply Lak
+Mgr, Radiology Lom
+Mgt Svc Ofcr 1
+Mgt Svc Ofcr 2
+Miscellaneous
+Mri Tchno
+Mri Tchno Ld
+Mri Tchno Pd
+Mri Tchno Prn
+Mri Tchno Sr
+Mri Tchno Sr Pd
+Museum Attendant
+Museum Educ Mgr 1
+Museum Educ Supv 1
+Museum Educator 1 Tx
+Museum Educator 2 Tx
+Museum Educator 3
+Museum Educator 3 Tx
+Museum Educator 4
+Museum Preparator
+Museum Preparator Prn
+Museum Preparator Prn Pd
+Museum Preparator Sr
+Museum Sci
+Museum Sci Ast
+Museum Sci Sr
+Music Ther 3 Ex
+Music Ther Nex
+Music Therapist Pd
+Musician 1
+Musician 2
+Musician 3
+Musician 4
+Naturopathic Doctor Ex
+Network & Systems Engineer
+Neuro Tchno
+Neuro Tchno Pd
+Neuro Tchno Prn
+Neuro Tchno Sr
+Neurodiagnostic Svc Mgr 1
+Neurodiagnostic Svc Mgr 2
+Neurodiagnostic Svc Spec 4
+Neurodiagnostic Svc Spec 5
+Neurodiagnostic Svc Supv 2
+Neurodiagnostic Svc Supv 2 Ex
+Non Evaluated Msp
+Non-Phys Clin Train
+Non-Phys Clin Train Nex
+Non-Phys Clin Train-Genl Camp
+Non-Senate Acad Emeritus(Wos)
+Notetaker I - Disabled Stdnts
+Ntrtn And Dietary Hc Mgr 1
+Ntrtn And Dietary Hc Mgr 2
+Ntrtn And Dietary Hc Mgr 3
+Ntrtn And Dietary Hc Supv 1
+Ntrtn And Dietary Hc Supv 2
+Nuc Med Mgr 1
+Nuc Med Mgr 2
+Nuc Med Supv 2
+Nuc Med Tchno
+Nuc Med Tchno Fusion Prn
+Nuc Med Tchno Fusion Sr
+Nuc Med Tchno Pd
+Nuc Med Tchno Prn
+Nuc Med Tchno Sr
+Nuc Med Tchno Sr Pd
+Nuclear Med Tech-Wh-Pd
+Nurse Aid Sr
+Nurse Aid Sr Pd
+Nurse Anesthetist Mgr 1
+Nurse Anesthetist Supv 2
+Nurse Anesthetist Supv 2 Nex
+Nurse Crd
+Nurse Extern Ii-Wh-Pd
+Nurse Pd
+Nurse Prac Rsdt
+Nurse Pract 1
+Nurse Pract 2
+Nurse Pract 3
+Nurse Pract Mgr 1
+Nurse Pract Pd
+Nurse Pract Shs Supv 2
+Nurse Pract Supv 2
+Nurse Practitioner
+Nurse Practitioner Lom
+Nurse Stf Crd
+Nurse Stf Crd Pd
+Nurse Svc Mgr 1
+Nurse Svc Mgr 2
+Nurse Svc Mgr 3
+Nurse Svc Mgr 4
+Nurse Svc Supv 2
+Nursery Tchn
+Nursery Tchn Sr
+Occupational Ther 1 Ex
+Occupational Ther 1 Nex
+Occupational Ther 1 Pd
+Occupational Ther 2 Ex
+Occupational Ther 2 Nex
+Occupational Ther 2 Pd
+Occupational Ther 3 Ex
+Occupational Ther 3 Nex
+Occupational Ther Cert Ast 1
+Occupational Ther Cert Ast 2
+Occupational Ther Cert Ast 3
+Occupational Ther Cert Ast Pd
+Oiler Opr 2
+Oiler Opr 2 Pd
+Ombuds Mgr 1
+Ombudsperson 2
+Ombudsperson 3
+Ombudsperson 4
+Ombudsperson 5
+Operator Fvr-1
+Ophthalmic Tchn 1
+Ophthalmic Tchn 2
+Ophthalmic Tchn Ld 3
+Ops Room Ast 1
+Ops Room Ast 2
+Ops Room Ast 2 Pd
+Ops Room Ast Ld 3
+Ops Room Ast Pd
+Ops Room Equip Spec 1
+Ops Room Equip Spec 2
+Ops Room Supp Ast
+Ops Room Supp Ast Pd
+Optician
+Optometrist 3
+Optometrist 3 Hx
+Optometrist 4
+Optometrist 4 Hx
+Optometrist Ex Hx
+Optometrist Sr Hx
+Optometry Mgr 1
+Optometry Supv 1
+Optometry Supv 2
+Or Tech-Wh
+Ordinary Seaman 1 Pd
+Organizational Cnslt 2
+Organizational Cnslt 3
+Organizational Cnslt 4
+Organizational Cnslt 5
+Organizational Dev Mgr 1
+Organizational Dev Mgr 2
+Organizational Dev Mgr 3
+Organizational Dev Supv 2
+Orthopedic Tchn
+Orthopedic Tchn Prn
+Orthopedic Tchn Sr
+Orthoptist
+Orthoptist Sr
+Oth Post Dds/Rep
+Oth Post-Md Train 2-8/Non Rep
+Oth Post-Md Train 2-8/Rep
+Painter
+Painter Ld
+Painter Worker Ld
+Paralegal 1
+Paralegal 2
+Paralegal 3
+Paralegal 4
+Parking And Transport Mgr 2
+Parking And Transport Mgr 3
+Parking And Transport Mgr 4
+Parking Ast
+Parking Cashier/Attendant
+Parking Enforcement Spec
+Parking Ops Enforcement Mgr 1
+Parking Ops Enforcement Supv 1
+Parking Ops Enforcement Supv 2
+Parking Ops Spec 2
+Parking Repr
+Parking Repr Ld
+Parking Repr Sr
+Pat Access Svc Mgr 1
+Pat Access Svc Mgr 2
+Pat Access Svc Mgr 3
+Pat Access Svc Supv 1
+Pat Access Svc Supv 2
+Pat Access Svc Supv 2 Gf
+Pat Bill And Coll Mgr 1
+Pat Bill And Coll Mgr 2
+Pat Bill And Coll Repr 3
+Pat Bill And Coll Repr 4
+Pat Bill And Coll Supv 1
+Pat Bill And Coll Supv 2
+Pat Bill And Coll Supv 2 Gf
+Pat Biller 1
+Pat Biller 2
+Pat Biller 3
+Pat Biller 4
+Pat Care Ast
+Pat Care Ast Pd
+Pat Care Dialysis Tchn 1
+Pat Care Dialysis Tchn 2
+Pat Care Dialysis Tchn 2 Pd
+Pat Care Dialysis Tchn Pd
+Pat Care Tchn
+Pat Care Tchn Pd
+Pat Cashiering Mgr 1
+Pat Cashiering Supv 1 Ex
+Pat Cashiering Supv 1 Nex
+Pat Cashiering Supv 2
+Pat Comm Repr
+Pat Escort
+Pat Escort Pd
+Pat Escort Sr
+Pat Navgtr Clin 3
+Pat Navgtr Clin 3 Gf
+Pat Navgtr Clin 4
+Pat Navgtr Clin 5
+Pat Navgtr Non-Clin 2
+Pat Navgtr Non-Clin 2 Cx
+Pat Navgtr Non-Clin 3
+Pat Navgtr Non-Clin 4
+Pat Navgtr Non-Clin Supv 2
+Pat Navgtr Non-Clin Supv 2 Gf
+Pat Rcds Abstractor 1
+Pat Rcds Abstractor 2
+Pat Rcds Abstractor 3
+Pat Rcds Abstractor 3 Pd
+Pat Rcds Abstractor 4
+Pat Rcds Abstractor 4 Pd
+Pat Rel Mgr 1
+Pat Rel Mgr 2
+Pat Rel Mgr 3
+Pat Rel Mgr 4
+Pat Rel Profl 2 Cx
+Pat Rel Profl 3 Cx
+Pat Rel Profl 4
+Pat Rel Profl 4 Cx
+Pat Rel Supv 1
+Pat Rel Supv 2
+Pat Sfty Mgr 1
+Pat Sfty Mgr 2
+Pat Sfty Mgr 3
+Pat Sfty Profl 2
+Pat Sfty Profl 3
+Pat Sfty Profl 4
+Pat Sfty Profl 5
+Pat Sfty Supv 2
+Pat Specialty Svc Tchn
+Pat Supp Ast
+Pat Supp Ast Pd
+Pat Supp Call Ctr Mgr 1
+Pat Supp Call Ctr Supv 1 Ex
+Pat Supp Call Ctr Supv 1 Nex
+Pat Supp Call Ctr Supv 2
+Pat Supp Svc Mgr 1
+Pat Supp Svc Mgr 2
+Pat Supp Svc Supv 1
+Pat Supp Svc Supv 2
+Pat Transport Supv 1
+Pat Transport Tchn 1
+Pat Transport Tchn 2
+Pat Transport Tchn 2 Pd
+Pat Transport Tchn Ld 3
+Pathology Ast 3
+Pathology Ast 3 Gf
+Pathology Ast 4
+Patient Care Tech-Wh
+Patient Care Tech-Wh-Pd
+Patient Services Rep Ard
+Payroll Anl 1
+Payroll Anl 2
+Payroll Anl 3
+Payroll Anl 4
+Payroll Anl 5
+Payroll Mgr 1
+Payroll Mgr 2
+Payroll Supv 1
+Payroll Supv 2
+Payroll Supv 2 Gf
+Perf Artist 2
+Perf Artist 3
+Perf Arts Mgr 1
+Perf Arts Mgr 2
+Perf Arts Mgr 3
+Perfusion Mgr 1
+Perfusion Supv 2
+Perfusion Supv 2 Ex
+Perfusionist Nex
+Perfusionist Pd
+Perfusionist Prn Ex
+Perfusionist Prn Nex
+Perfusionist Sr Ex
+Perfusionist Sr Nex
+Perfusionist Sr Pd Nex
+Perinatal Tchn 1
+Perinatal Tchn 2
+Permitee Interim Nurse
+Personnel Analyst
+Pest Cntrl Opr
+Pgy1 Post Pharmd Trainee
+Pgy2 Spec Post Pharmd Trainee
+Pharmacist 1 Pd
+Pharmacist 2 Pd
+Pharmacist 5
+Pharmacist 5 Hx
+Pharmacist Pd
+Pharmacist Sr Ex
+Pharmacist Sr Nex
+Pharmacist, Staff Pla
+Pharmacy Mgr 1
+Pharmacy Mgr 2
+Pharmacy Mgr 3
+Pharmacy Mgr 4
+Pharmacy Resident Pgy I Fvr
+Pharmacy Shs Mgr 1
+Pharmacy Supv 1
+Pharmacy Supv 2
+Pharmacy Tchn 1
+Pharmacy Tchn 1 Pd
+Pharmacy Tchn 2
+Pharmacy Tchn 2 Pd
+Pharmacy Tchn 3
+Pharmacy Tchn 3 Pd
+Phlebotomist Fvr-1
+Photographer
+Photographer Prn
+Photographer Sr
+Photographic Tchn Sr
+Phys Plt Laborer Gardener A
+Phys Plt Laborer Gardener B
+Phys Plt Laborer Gardener Ld
+Phys Plt Mech
+Phys Plt Mech 2
+Phys Ther 1 Ex
+Phys Ther 1 Nex
+Phys Ther 1 Pd
+Phys Ther 2 Ex
+Phys Ther 2 Nex
+Phys Ther 2 Pd
+Phys Ther 3 Ex
+Phys Ther 3 Nex
+Phys Ther 4
+Phys Ther Ast 2
+Phys Ther Ast 3
+Phys Ther Ast Pd
+Phys Ther Pd
+Physcn Adm 2
+Physcn Adm 3
+Physcn Adm 4
+Physcn Ast
+Physcn Ast Pd
+Physcn Ast Sr
+Physcn Ast Supv 2
+Physcn Diplomate Sr
+Physcn Network Dev Mgr 1
+Physcn Network Dev Mgr 2
+Physcn Network Dev Mgr 3
+Physcn Network Dev Spec 3
+Physcn Network Dev Spec 3 Gf
+Physcn Network Dev Spec 4
+Physcn Network Dev Spec 5
+Physcn Network Dev Supv 2
+Physcn Shs 5 Limited Hours
+Physcn Shs Mgr 1
+Physcn Shs Mgr 2
+Physcn Shs Mgr 3
+Physcn Sr
+Physical Therapist-Wh
+Piano Tchn
+Plng Mgr 1
+Plng Mgr 2
+Plng Mgr 3
+Plng Mgr 4
+Plng Spec 2
+Plng Spec 3
+Plng Spec 4
+Plng Spec 5
+Plng Supv 2
+Plt Opr
+Plt Opr Ld
+Plumber
+Plumber Appr
+Plumber Ast Supv
+Plumber Ld
+Plumber Pipefitter
+Plumber Pipefitter Worker Ld
+Plumber Spec
+Police Captain Mgr 2
+Police Chf Mgr 4
+Police Lieutenant Mgr 1
+Police Ofcr
+Police Ofcr 1
+Police Sergeant Supv 2
+Police Svc Supv 1
+Police Svc Supv 2
+Polysomnography Tchno
+Polysomnography Tchno Prn
+Polysomnography Tchno Sr
+Polysomnography Tchno Sr Pd
+Polysomnography Tchno Trainee
+Population Health Mgr 1
+Population Health Mgr 2
+Population Health Mgr 3
+Population Health Spec 3
+Population Health Spec 4
+Population Health Spec 5
+Post Dds I-Vi/Non Rep
+Post Dds I-Vi/Rep
+Postdoc-Employee
+Postdoc-Employee Nex
+Postdoc-Fellow
+Postdoc-Paid Direct
+Pract, Respiratory Care Fvr-1
+Pract, Respiratory Care Lak-0
+Pract, Respiratory Care Lak-1
+Pract, Respiratory Care Lom-1
+Pract, Respiratory Care Pla
+Practice Crd 1
+Practice Crd 2
+Practice Crd 3
+Pre-Six Yr Appt-Temp Supp-1/10
+Pre-Six Yr Appt-Temp Supp-1/9
+Pre-Six Yr Appt-Temp Supp-Ay
+Pre-Six Yr Appt-Temp Supp-Fy
+Pres Adult Svc
+Pres Benioff Children Hosp
+Pres Svp Chf Market Dev
+President Of The Univ
+Preuss K-12 Counselor-Ay
+Prg Repr 1
+Prg Repr 2
+Prg Repr 3
+Prin Administrative Analyst
+Privacy And Cmplnc Hc Mgr 1
+Privacy And Cmplnc Hc Mgr 2
+Privacy And Cmplnc Hc Profl 2
+Privacy And Cmplnc Hc Profl 3
+Privacy And Cmplnc Hc Profl 4
+Privacy And Cmplnc Hc Profl 5
+Private Equity Inv Anl 3
+Private Equity Inv Dir
+Private Equity Inv Ofcr
+Private Equity Mgr 3
+Proctor
+Proctor Sr
+Procurement Anl 1
+Procurement Anl 2
+Procurement Anl 3
+Procurement Anl 4
+Procurement Anl 4 Gf
+Procurement Anl 5
+Procurement Mgr 1
+Procurement Mgr 2
+Procurement Mgr 3
+Procurement Mgr 4
+Procurement Supv 1
+Procurement Supv 2
+Procurement Supv 2 Gf
+Prod Cntrl Anl 2
+Prod Cntrl Anl 3
+Prod Cntrl Mgr 1
+Prod Cntrl Supv 2
+Producer Dir
+Producer Dir Ast
+Producer Dir Sr
+Product Dev Mgr 1
+Product Dev Mgr 2
+Product Dev Profl 2
+Product Dev Profl 3
+Product Dev Profl 4
+Prof Emeritus(Wos)
+Prof In Res-Ay
+Prof In Res-Ay-1/9
+Prof In Res-Ay-B/E/E
+Prof In Res-Fy
+Prof In Res-Hcomp
+Prof In Res-Sft-Vm
+Prof Of Clin-Fy
+Prof Of Clin-Hcomp
+Prof Of Clin-Sft-Vm
+Prof Of Teach-Ay
+Prof Of Teach-Ay-B/E/E
+Prof Of Teach-Ay-Law
+Prof Of Teach-Fy
+Prof Of Teach-Hcomp
+Prof-Ay
+Prof-Ay-1/9
+Prof-Ay-1/9-B/E/E
+Prof-Ay-B/E/E
+Prof-Ay-Law
+Prof-Fy
+Prof-Fy-B/E/E
+Prof-Hcomp
+Prof-Sft-Vm
+Professor Of Law
+Profl Engr 3
+Profl Engr 3 Gf
+Profl Engr 4
+Profl Engr 5
+Profl Engr Mgr 1
+Profl Engr Mgr 2
+Progr Anl 1
+Progr Anl 2
+Progr Anl 3
+Proj Sci-Fy Nex Non Rep
+Proj Sci-Fy-B/E/E Non Rep
+Proj Scientist (Wos)
+Proj Scientist-Fy
+Proj Scientist-Fy Nex
+Proj Scientist-Fy Non Rep
+Proj Scientist-Fy-B/E/E
+Proj Scientist-Fy-B/E/E Nex
+Project Mgt Profl 3
+Project Mgt Profl 4
+Project Mgt Profl 5
+Project Policy Anl 1
+Project Policy Anl 2
+Project Policy Anl 3
+Project Policy Anl 3 Gf
+Project Policy Anl 4
+Project Policy Anl 4 Gf
+Project Policy Anl 5
+Project Policy Anl Mgr 1
+Project Policy Anl Mgr 2
+Project Policy Anl Mgr 3
+Project Policy Anl Supv 2
+Project Policy Anl Supv 2 Gf
+Projectionist
+Projectionist Sr
+Prospect Rsch Mgr 1
+Prospect Rsch Mgr 2
+Prospect Rsch Spec 2
+Prospect Rsch Spec 3
+Prospect Rsch Spec 4
+Prospect Rsch Spec 5
+Prosthetist Orthotist
+Prosthetist Orthotist Ast
+Prosthetist Orthotist Sr
+Provider Enrollment Mgr 1
+Provider Enrollment Profl 3
+Provider Enrollment Profl 4
+Provost Exec Vp Acad Affairs
+Psychiatric Tchn
+Psychiatric Tchn Pd
+Psychiatric Tchn Sr
+Psychologist 1
+Psychologist 2
+Psychologist 2 Pd
+Psychologist 3
+Psychometrist
+Psychometrist Sr
+Psychometry Supv 2
+Publ Admstn Anl
+Publ Admstn Anl Ast
+Publ Admstn Anl Prn
+Publ Admstn Anl Prn Supv
+Publ Admstn Anl Sr
+Publ Educ Mgr 1
+Publ Educ Spec 1
+Publ Educ Spec 2
+Publ Educ Spec 3
+Publ Educ Spec 3 Gf
+Publ Educ Spec 4
+Publ Educ Spec 5
+Publ Educ Supv 1
+Publ Educ Supv 2
+Publ Equity Inv Anl 3
+Publ Equity Inv Dir
+Publ Equity Inv Ofcr
+Publ Equity Mgr 3
+Publ Events Mgr Ast
+Publ Sfty Dispatcher
+Publ Sfty Dispatcher Ld
+Publications Prod Mgr 1
+Publications Prod Mgr 2
+Publications Prod Spec 2
+Publications Prod Spec 3
+Publications Prod Spec 4
+Publications Prod Supv 1
+Publications Prod Supv 2
+Pulmonary Tchn 1
+Pulmonary Tchn 3
+Pulmonary Tchn Pd
+Qa Chef 3
+Qa Release Mgt Anl 2
+Qa Release Mgt Anl 3
+Qa Release Mgt Anl 4
+Qa Release Mgt Mgr 1
+Qa Release Mgt Supv 2
+Qlty And Perf Metrics Anl 3
+Qlty And Perf Metrics Anl 4
+Qlty And Perf Metrics Mgr 1
+Qlty And Perf Metrics Supv 2
+Qlty Impv Hc Mgr 1
+Qlty Impv Hc Mgr 2
+Qlty Impv Hc Mgr 3
+Qlty Impv Hc Mgr 4 Md
+Qlty Impv Hc Mgr 4 Nmd
+Qlty Impv Hc Spec 1
+Qlty Impv Hc Spec 2
+Qlty Impv Hc Spec 3
+Qlty Impv Hc Spec 3 Gf
+Qlty Impv Hc Spec 4
+Qlty Impv Hc Spec 5
+Qlty Impv Hc Supv 1
+Qlty Impv Hc Supv 2
+Rad Ther Mgr 1
+Rad Ther Mgr 2
+Rad Ther Mgr 3
+Rad Ther Supv 2
+Rad Ther Tchno
+Rad Ther Tchno Chf Asc
+Rad Ther Tchno Pd
+Rad Ther Tchno Sr
+Radlg Ast 1
+Radlg Ast 2
+Radlg Ast Pd
+Radlg Equip Spec Sr
+Radlg Shs Supv 2
+Radlg Svc Mgr 1
+Radlg Svc Mgr 2
+Radlg Svc Mgr 3
+Radlg Svc Supv 1
+Radlg Svc Supv 2
+Radlg Tchno
+Radlg Tchno Pd
+Radlg Tchno Prn
+Radlg Tchno Prn Ld
+Radlg Tchno Prn Pd
+Radlg Tchno Sr
+Radlg Tchno Sr Pd
+Radlg Tchno Trainee
+Reader-Gship
+Reader-Non Gship
+Reader-Non Gship/Non Rep
+Reader-Non Stdnt
+Real Estate Inv Anl 2
+Real Estate Mgr 1
+Real Estate Mgr 2
+Real Estate Mgr 3
+Real Estate Ofcr 2
+Real Estate Ofcr 3
+Real Estate Ofcr 4
+Real Estate Ofcr 5
+Recall Faculty
+Recall Hcomp
+Recall Non-Faculty Acad
+Recall Non-Faculty Acad Nex
+Recall Teaching
+Recall Teaching Non-Senate
+Recalled Professor Of Law
+Recording Tchn
+Records Anl 2 Cx
+Records Anl 3
+Records Anl 4
+Records Mgr 1
+Records Supv 1
+Records Supv 2
+Recr Coach 3
+Recr Mgr 1
+Recr Mgr 2
+Recr Prg Instr
+Recr Prg Instr 1
+Recr Prg Instr 2
+Recr Prg Instr 3
+Recr Prg Leader 2
+Recr Prg Leader 2 Bya
+Recr Prg Leader 3
+Recr Prg Leader 3 Bya
+Recr Prg Leader 4
+Recr Supv 1
+Recr Supv 2
+Recr Ther 1 Ex
+Recr Ther 1 Nex
+Recr Ther 2 Ex
+Recr Ther 2 Nex
+Recr Ther 3 Ex
+Recr Ther 3 Pd
+Recr Ther Pd
+Recreational Ther Mgr 1
+Recycling Refuse Svc Mgr 1
+Recycling Refuse Svc Supv 1
+Recycling Refuse Svc Supv 2
+Refrigeration Mech
+Refrigeration Mech Ld
+Reg Dental Ast
+Reg Dental Ast Extd Func
+Reg Dietetic Tchn
+Reg Dietetic Tchn Pd
+Reg Resp Ther 1
+Reg Resp Ther Pd
+Regents' Lect
+Regents' Prof
+Registed Nurse/Staff-Wh
+Registered Nurse Fa Lom
+Registered Nurse Fvr-3
+Registered Nurse Fvr-4
+Registered Nurse Fvr-5
+Registered Nurse Fvr-7
+Registered Nurse Fvr-B
+Registered Nurse Lak-1
+Registered Nurse Lak-3
+Registered Nurse Lak-4
+Registered Nurse Lak-5
+Registered Nurse Lak-7
+Registered Nurse Lak-8
+Registered Nurse Lak-9
+Registered Nurse Lom-A
+Registered Nurse Lom-G
+Registered Nurse Lom-L
+Registered Nurse Lom-P
+Registered Nurse Lom-Q
+Registered Nurse Lom-R
+Registered Nurse Pla-0
+Registered Nurse Pla-1
+Registered Nurse Tra Sfz
+Registrar
+Registrar Coll Mgr 1
+Registrar Coll Supv 1
+Registrar Coll Supv 2
+Registrar Mgr 1
+Registrar Mgr 2
+Registrar Mgr 3
+Registrar Spec 2
+Registrar Spec 3
+Registrar Spec 4
+Registrar Supv 1
+Registrar Supv 2
+Registrar-Wh-Pd
+Regl And Cmplnc Hc Mgr 1
+Regl And Cmplnc Hc Mgr 2
+Regl And Cmplnc Hc Mgr 3
+Regl And Cmplnc Hc Mgr 4
+Regl And Cmplnc Hc Spec 2
+Regl And Cmplnc Hc Spec 3
+Regl And Cmplnc Hc Spec 4
+Regl And Cmplnc Hc Spec 5
+Regl And Cmplnc Hc Supv 2
+Regl Policy And Intel Mgr 2
+Regl Policy And Intel Mgr 3
+Regl Policy And Intel Profl 3
+Regl Policy And Intel Profl 4
+Regl Policy And Intel Profl 5
+Rehab Aid 1
+Rehab Aid 1 Pd
+Rehab Aid 2
+Rehab Aid 2 Pd
+Rehab Svc Mgr 1
+Rehab Svc Mgr 2
+Rehab Svc Mgr 3
+Rehab Svc Shs Mgr 1
+Rehab Svc Spec 1
+Rehab Svc Spec 4
+Rehab Svc Spec 4 Hx
+Rehab Svc Spec 5
+Rehab Svc Supv 1
+Rehab Svc Supv 2
+Reimb Hc Anl 1
+Reimb Hc Anl 2
+Reimb Hc Anl 3
+Reimb Hc Anl 3 Gf
+Reimb Hc Anl 4
+Reimb Hc Anl 4 Gf
+Reimb Hc Anl 5
+Reimb Hc Mgr 1
+Reimb Hc Mgr 2
+Reimb Hc Mgr 3
+Reimb Hc Supv 2
+Remd Tut I-Gship
+Remd Tut I-Non Gship
+Remd Tut Ii-Gship
+Remd Tut Ii-Non Gship
+Rep, Pa I - P1 Bes
+Rep, Pa Ii - P1 Bes
+Rep, Pa Iii - P1 Bes
+Rep, Pa Lead - P1 Bes
+Rep, Patient Access I Lak-2
+Rep, Patient Access Ii Lom-0
+Rep, Patient Access Ii Lom-1
+Rep, Patient Service Cpe
+Reprographics Tchn
+Reprographics Tchn Ld
+Reprographics Tchn Prn
+Reprographics Tchn Sr
+Res Scripps-Ay
+Res-Fy
+Res-Fy Nex
+Res-Fy-B/E/E
+Res-Fy-B/E/E Nex
+Res-Fy-B/E/E Nex Non Rep
+Res-Fy-B/E/E-Non Rep
+Res-Fy-Non Rep
+Res-Lr Scl-Ay
+Res-Lr Scl-Ay-1/9
+Res-Lr Scl-Ay-1/9-B/E/E
+Res-Lr Scl-Ay-B/E/E
+Res-Lr Scl-Fy
+Resc Nurse Pd
+Resid Phys I/Non Rep
+Resid Phys I/Rep
+Resid Phys I/Rep-Cmty
+Resid Phys I/Rep-Fno
+Resid Phys I/Rep-Ov
+Resid Phys Ii-Viii/Non Rep
+Resid Phys Ii-Viii/Rep
+Resid Phys Ii-Viii/Rep-Cmty
+Resid Phys Ii-Viii/Rep-Fno
+Resid Phys Ii-Viii/Rep-Ov
+Resid Phys Moonltg Non Rep
+Resid Phys/Subspec 4-8/Non Rep
+Resid Phys/Subspec 4-8/Rep
+Resid Phys/Subspec 4-8/Rep-Fno
+Resid Phys/Subspec 4-8/Rep-Ov
+Resid Phys/Subspec/T32/Non Rep
+Resid Phys/Subspec/T32/Rep
+Resid-Vet Med/Non Rep
+Resident Fvr
+Resident, Lak
+Residential Svc Mech
+Residential Svc Mech Ld
+Resp Care Mgr 1
+Resp Care Mgr 2
+Resp Care Pract Tchn
+Resp Care Spec 4
+Resp Care Spec 5
+Resp Care Supv 1
+Resp Care Supv 2
+Resp Ther 1
+Resp Ther 2
+Resp Ther 2 Pd
+Ret Customer Svc Repr 2
+Ret Customer Svc Repr 3
+Revenue Cycle Hc Anl 1
+Revenue Cycle Hc Anl 2
+Revenue Cycle Hc Anl 3
+Revenue Cycle Hc Anl 4
+Revenue Cycle Hc Anl 4 Gf
+Revenue Cycle Hc Mgr 1
+Revenue Cycle Hc Mgr 2
+Revenue Cycle Hc Mgr 3
+Revenue Cycle Hc Mgr 4
+Revenue Cycle Hc Supv 1
+Revenue Cycle Hc Supv 2
+Risk Mgt Hc Mgr 1
+Risk Mgt Hc Mgr 2
+Risk Mgt Hc Mgr 3
+Risk Mgt Hc Profl 2
+Risk Mgt Hc Profl 3
+Risk Mgt Hc Profl 3 Gf
+Risk Mgt Hc Profl 4
+Risk Mgt Hc Profl 5
+Rn Travel Tra Sfz
+Rn Travel, Specialty Tra Sfz
+Rn, Specialty Tra Sfz
+Roofer
+Roofer Ld
+Rsch Adm 1 Cx
+Rsch Adm 2
+Rsch Adm 2 Cx
+Rsch Adm 3
+Rsch Adm 4
+Rsch Adm 4 Gf
+Rsch Adm 5
+Rsch And Dev Engr 1
+Rsch And Dev Engr 2
+Rsch And Dev Engr 3
+Rsch And Dev Engr 4
+Rsch And Dev Engr 5
+Rsch And Dev Engr Mgr 1
+Rsch And Dev Engr Mgr 2
+Rsch And Dev Engr Supv 2
+Rsch Cmplnc Anl 1
+Rsch Cmplnc Anl 2
+Rsch Cmplnc Anl 3
+Rsch Cmplnc Anl 4
+Rsch Cmplnc Anl 4 Gf
+Rsch Cmplnc Anl 5
+Rsch Cmplnc Mgr 1
+Rsch Cmplnc Mgr 2
+Rsch Cmplnc Mgr 3
+Rsch Cmplnc Supv 2
+Rsch Cmplnc Supv 2 Gf
+Rsch Data Anl 1
+Rsch Data Anl 2
+Rsch Data Anl 3
+Rsch Data Anl 4
+Rsch Data Anl 5
+Rsch Gnt Prg Mgr 1
+Rsch Gnt Prg Mgr 2
+Rsch Gnt Prg Mgr 3
+Rsch Gnt Prg Ofcr 3
+Rsch Gnt Prg Ofcr 4
+Rsch Gnt Prg Ofcr 5
+Rsdt Advisor
+Rsdt Advisor 2
+Rsdt Ast
+Sales Spec 1
+Sales Spec 2
+Sales Spec 3
+Sales Spec 4
+Sales Supv 2
+Scene Tchn
+Scene Tchn Ast
+Scene Tchn Ast Pd
+Scene Tchn Pd
+Scene Tchn Prn
+Scene Tchn Sr
+Scene Tchn Sr Pd
+Scientist, Med Lab I Fvr-1
+Scientist, Med Lab I Lak
+Scientist, Med Lab I Lom-0
+Scientist, Med Lab I Lom-1
+Scientist, Med Lab Ii Fvr-1
+Scrty Guard
+Scrty Guard Sr
+Scrty Mgr 1
+Scrty Mgr 2
+Scrty Mgr 3
+Scrty Supv 1
+Scrty Supv 1 Hc
+Scrty Supv 2
+Scrty Supv 2 Hc
+Scrty Tchn
+Scrty Tchn Ld
+Sea Captain Mgr 2
+Second Engr Ast
+Second Engr Ast Pd
+Second Ofcr
+Second Ofcr Su
+Secr Of The Regents
+Secretary, Unit Fvr-0
+Secretary, Unit Lak
+Senior Accountant
+Senior Adminstrative Analyst
+Senior Career Counselor
+Senior Proctor
+Senior Records Technician
+Sheetmetal Mech
+Sheetmetal Worker
+Sheetmetal Worker Ld
+Ship Ops Supv 1
+Ship Ops Supv 2
+Ship Scheduler 3
+Sign Maker Spec Bc
+Signmaker
+Signmaker Ld
+Signmaker Supv Ast
+Skld Crafts Trades Mgr 1
+Skld Crafts Trades Mgr 2
+Skld Crafts Trades Supv 1
+Skld Crafts Trades Supv 2
+Skld Trades Mech
+Skyroom Assistant
+Social Work Asc
+Social Work Asc Ast
+Social Work Hc Mgr 1
+Social Work Hc Mgr 2
+Social Work Hc Supv 2
+Social Work Shs Mgr 1
+Social Worker 1
+Social Worker 2
+Social Worker 2 Pd
+Social Worker Ii Fvr-0
+Social Worker Ii Lak
+Sound Tchn
+Spc Stdt Bya
+Spc, Child Life Fvr
+Spc, Clinical Nurse Fvr
+Speaker-Unex
+Spec
+Special Reader-Ucla-Gship
+Specialist
+Specialist Coop Ext
+Specialist Nex
+Specialist Non Rep
+Spectroscopist
+Speech Pathologist 1
+Speech Pathologist 2
+Speech Pathologist 3 Hx
+Speech Pathologist Ex
+Speech Pathologist Nex
+Speech Pathologist Pd
+Speech Pathologist Sr Ex
+Speech Pathologist Sr Nex
+Speech Pathologist Sr Pd
+Spiritual Care Hc Mgr 1
+Spiritual Care Hc Mgr 2
+Spiritual Care Hc Spec 1
+Spiritual Care Hc Spec 2
+Spiritual Care Hc Spec 3
+Spiritual Care Hc Spec 4
+Spiritual Care Hc Supv 2
+Sports Ast
+Sports Med Ath Trainer 2
+Sports Med Ath Trainer 3
+Sports Med Ath Trainer 4
+Sports Med Ath Trainer Supv 2
+Sprinkler Fitter
+Sprinkler Fitter Lead
+Sr Administrative Assistant
+Sr Lect-Ay-1/9-Continuing
+Sr Lect-Ay-Continuing
+Sr Lect-Fy-Continuing
+Sr Mgn Dir Inv Ocio
+Sr. Case Manager-Wh
+Sra 1
+Sra 2
+Sra 2 Nex
+Sra 3
+Sra 4
+Sra 5
+State Govt Rel Mgr 2
+State Govt Rel Profl 2
+State Govt Rel Profl 3
+State Govt Rel Profl 4
+State Govt Rel Profl 5
+Stdt 1
+Stdt 1 Non Uc
+Stdt 1 Wksty
+Stdt 2
+Stdt 2 Non Uc
+Stdt 2 Wksty
+Stdt 3
+Stdt 3 Anr
+Stdt 3 Non Uc
+Stdt 3 Wksty
+Stdt 4
+Stdt 4 Anr
+Stdt 4 Non Uc
+Stdt Acad Advisor 1
+Stdt Acad Advisor 2
+Stdt Acad Advisor 3
+Stdt Acad Advisor 4
+Stdt Acad Mgr 1
+Stdt Acad Mgr 2
+Stdt Acad Spec 1
+Stdt Acad Spec 2
+Stdt Acad Spec 3
+Stdt Acad Spec 4
+Stdt Acad Supv 1
+Stdt Acad Supv 2
+Stdt Activities Appt Official
+Stdt Advisor Mgr 1
+Stdt Advisor Mgr 2
+Stdt Advisor Supv 1
+Stdt Advisor Supv 2
+Stdt Affairs Ofcr 3 Ex
+Stdt Aid Outside Agency
+Stdt Artist Or Perf
+Stdt Camp Prg Offsite
+Stdt Camp Prg Onsite
+Stdt Clin
+Stdt Disability Mgr 1
+Stdt Disability Mgr 2
+Stdt Disability Spec 1
+Stdt Disability Spec 2
+Stdt Disability Spec 3
+Stdt Disability Spec 4
+Stdt Disability Supv 1
+Stdt Disability Supv 2
+Stdt Events
+Stdt Health Dentist 3
+Stdt Health Physcn 3
+Stdt Health Physcn 3 Pd
+Stdt Health Physcn 4
+Stdt Health Physcn 4 Pd
+Stdt Health Physcn 5
+Stdt Health Physcn 5 Pd
+Stdt Intern
+Stdt Intern Hs Non Uc
+Stdt Intern Non Uc
+Stdt Intern Pd
+Stdt Intra Sports 1
+Stdt It
+Stdt Legal Svc Advisor 3
+Stdt Legal Svc Advisor 4
+Stdt Life Dev Mgr 1
+Stdt Life Dev Mgr 2
+Stdt Life Dev Mgr 3
+Stdt Life Dev Mgr 4
+Stdt Life Dev Spec 1
+Stdt Life Dev Spec 2
+Stdt Life Dev Spec 3
+Stdt Life Dev Spec 4
+Stdt Life Dev Spec 4 Gf
+Stdt Life Devt Supv 1
+Stdt Life Devt Supv 2
+Stdt Life Devt Supv 2 Gf
+Stdt Peer Cnslr
+Stdt Pharmacy Intern
+Stdt Recr 1
+Stdt Recr 2
+Stdt Researcher
+Stdt Rsdnc Halls
+Stdt Rsdnc Halls Bya
+Stdt Rsdnc Halls Ld
+Stdt Rsdnc Halls Ld Bya
+Stdt Svc Advisor 1
+Stdt Svc Advisor 2
+Stdt Svc Advisor 3
+Stdt Svc Advisor 4
+Stdt Svc Advisor 5
+Stdt Svc Mgr 1
+Stdt Svc Mgr 2
+Stdt Svc Mgr 3
+Stdt Svc Mgr 4
+Stdt Svc Supv 1
+Stdt Svc Supv 2
+Stdt Svc Supv 2 Gf
+Stdt Volunteer
+Steam Ops Engr
+Steam Ops Engr Appr
+Steam Ops Engr Ld
+Steamfitter
+Steamfitter Worker Ld
+Sterile Processing Tchn 1
+Sterile Processing Tchn 1 Pd
+Sterile Processing Tchn 2
+Sterile Processing Tchn 2 Pd
+Sterile Processing Tchn 3
+Sterile Processing Tchn 4
+Stf Pharmacist 1 Ex
+Stf Pharmacist 1 Nex
+Stf Pharmacist 2
+Stf Physcn
+Stf Volunteer
+Stipend-Oth Post-Md Train
+Storekeeper
+Storekeeper Ast
+Storekeeper Ld
+Storekeeper Pd
+Storekeeper Sr
+Storekeeper Sr Ld
+Storekeeping Mgr 1
+Storekeeping Supv 1
+Storekeeping Supv 2
+Stores Worker
+Strat Sourcing Mgr 1
+Strat Sourcing Mgr 2
+Strat Sourcing Mgr 3
+Strat Sourcing Profl 2
+Strat Sourcing Profl 3
+Strat Sourcing Profl 4
+Strat Sourcing Profl 5
+Student (Miscellaneous)
+Student Library Assistant
+Student Nurse Lak
+Student Research Assistant Ii
+Student Research Assistant Iii
+Student Services Program Coord
+Studio Projectionist
+Studio Projectionist Sr
+Sty Engr
+Sty Engr Worker Ld
+Substitute Teacher
+Sullivan Professor Of Law
+Supply Chain Mgr 2
+Supply Chain Mgr 3
+Supply Chain Mgr 4
+Supt Mgr 3
+Supv Teacher Ed-Ay
+Supv Teacher Ed-Ay-Continuing
+Supv, Business Office Cpe
+Supv, Pharmacist Fvr
+Surgical Tchn
+Surgical Tchn Pd
+Surgical Tchn Prn
+Surgical Tchn Sr
+Survey Researcher 2
+Survey Researcher 3
+Survey Researcher 4
+Survey Researcher Supv 1
+Survey Researcher Supv 2
+Survey Researcher Supv 2 Gf
+Survey Supv
+Survey Worker
+Survey Worker Sr
+Sustain Ofcr 2
+Sustain Ofcr 3
+Sustain Ofcr 4
+Sustain Ofcr 5
+Svc Engr
+Svc Engr Ld
+Svp Ccao
+Svp External Rel And Comm
+Sys Adm 1 Tx
+Sys Adm 2 Tx
+Sys Adm 3
+Sys Adm 3 Gf Tx
+Sys Adm 3 Tx
+Sys Adm 4
+Sys Adm 5
+Sys Admstn Mgr 1
+Sys Admstn Mgr 2
+Sys Admstn Mgr 3
+Sys Admstn Mgr 4
+Sys Admstn Supv 1
+Sys Admstn Supv 2
+Sys Integration Engr 1
+Sys Integration Engr 2
+Sys Integration Engr 3
+Sys Integration Engr 4
+Sys Integration Engr 5
+Sys Integration Mgr 1
+Sys Integration Supv 2
+Sys Opr
+Sys Opr Ld
+Syswide Acad Hr Anl 4
+Syswide Acad Hr Anl 5
+Syswide Acad Hr Mgr 2
+Syswide Acad Hr Mgr 3
+Syswide Acad Personnel Anl 3
+Syswide Acad Personnel Mgr 4
+Syswide Budget Anl 3
+Syswide Budget Anl 4
+Syswide Budget Anl 5
+Syswide Budget Mgr 2
+Syswide Budget Mgr 3
+Tax Cmplnc Anl 2
+Tax Cmplnc Anl 3
+Tax Cmplnc Anl 4
+Tax Cmplnc Mgr 2
+Tax Cmplnc Mgr 3
+Tax Cmplnc Supv 1
+Tchl Project Mgr 1
+Tchl Project Mgr 2
+Tchl Project Mgr 3
+Tchl Project Mgt Profl 1
+Tchl Project Mgt Profl 2
+Tchl Project Mgt Profl 3
+Tchl Project Mgt Profl 3 Gf
+Tchl Project Mgt Profl 4
+Tchl Project Mgt Profl 5
+Tchl Project Supv 2
+Tchn
+Tchn Ast
+Tchn Prn
+Tchn Sr
+Teacher-Spec Prog
+Teacher-Spec Prog-Continuing
+Teacher-Unex
+Teacher-Unex-Contract Yr
+Teachg Asst-1/10-Gship
+Teachg Asst-1/10-Non Gship
+Teachg Asst-Gship
+Teachg Asst-Non Gship
+Teachg Fellow-Gship
+Teachg Fellow-Non Gship
+Teaching Assistant - Stipend
+Teaching Assistant Ii
+Tech Ard
+Tech Supp Anl 2
+Tech Supp Anl 3
+Tech, Anesthesia Lak
+Tech, Cert Phlebotomy Lom
+Tech, Distrubution Lom-1
+Tech, Ekg Fvr
+Tech, Ekg Lom
+Tech, Emergency Dept I Fvr
+Tech, Emergency Dept I Pla
+Tech, Emergency Medical Lak
+Tech, Emergency Medical Lom
+Tech, Health Info I Fvr-0
+Tech, Health Info I Lak
+Tech, Health Info I Lom
+Tech, Medical Lab Tra Sfz
+Tech, Monitor Fvr
+Tech, Monitor Lak
+Tech, Monitor Pla
+Tech, Pharmacy I Fvr-0
+Tech, Pharmacy I Lak-1
+Tech, Pharmacy I Lom
+Tech, Pharmacy I Pla
+Tech, Sterile Processing Lak
+Tech, Sterile Processing Lom
+Tech, Surgical Cert Lak-1
+Tech, Surgical Fvr-3
+Tech, Surgical Fvr-4
+Tech, Surgical Lak
+Tech, Surgical Lom-0
+Techno, Ct Fvr-0
+Techno, Ct Lom
+Techno, Echo Fvr-0
+Techno, Echo Lom
+Techno, Intervention Rad Lom
+Techno, Intervention Rad Pla
+Techno, Radiologic Fvr-0
+Techno, Radiologic Lak
+Techno, Radiologic Pla-0
+Techno, Ultrasound Fvr-1
+Techno, Ultrasound Lak
+Techno, Ultrasound Lom
+Techno, Ultrasound Pla-0
+Telemetry Tchn
+Telemetry Tchn Pd
+Telescope Tchn
+Telescope Tchn Prn
+Television Engr
+Television Tchn
+Television Tchn Prn
+Television Tchn Sr
+Temporary Help
+Theater Prod Spec 2
+Theater Prod Spec 3
+Theater Prod Spec 4
+Theatrical Prod Supv 1
+Theatrical Prod Supv 2
+Therapist, Occupational Lom
+Therapist, Physical Lak-1
+Therapist, Physical Lom-1
+Therapist, Speech Fvr-1
+Therapist, Speech Lom-1
+Third Engr Ast
+Third Engr Ast Pd
+Third Ofcr
+Third Ofcr Pd
+Trainer 1
+Trainer 2
+Trainer 3
+Trainer 4
+Trainer 5
+Training Dev Mgr 1
+Training Dev Mgr 2
+Training Dev Mgr 3
+Training Dev Supv 2
+Transit Svc Mgr 1
+Transit Svc Mgr 2
+Transit Svc Supv 1
+Transit Svc Supv 2
+Translator Nontechnical
+Translator Pd
+Translator Tchl
+Transplant Crd 1
+Transplant Crd 2
+Transplant Crd 3
+Transplant Mgr 1
+Transplant Mgr 2
+Transplant Mgr 3
+Transplant Supv 2
+Transporter Fvr-0
+Transporter Fvr-1
+Transporter Fvr-2
+Transporter Lom
+Travel Mgr 1
+Travel Mgt Ofcr 2
+Travel Mgt Ofcr 3
+Travel Mgt Ofcr 4
+Treasury Anl 2
+Treasury Anl 3
+Treasury Anl 4
+Treasury Anl 5
+Treasury Mgr 1
+Treasury Mgr 2
+Tree Trim
+Tree Trim Ld
+Truck Driver
+Truck Driver Ld
+Tumor Registrar 2
+Tumor Registrar 3
+Tut-Gship
+Tut-Non Gship
+Tut-Non Stdnt
+Ucdc Educator - Ay
+Ucdc Educator - Fy
+Ucsf Evp Cco Only
+Ultrasound Tchno
+Ultrasound Tchno Ld
+Ultrasound Tchno Pd
+Ultrasound Tchno Prn
+Ultrasound Tchno Prn Pd
+Ultrasound Tchno Sr
+Ultrasound Tchno Sr Pd
+Unclassified
+Univ Librarian
+User Exp Designer 2
+User Exp Designer 3
+User Exp Designer 4
+User Exp Designer 5
+User Exp Designer Supv 2
+Utilization Mgt Mgr 1
+Utilization Mgt Mgr 2
+Utilization Mgt Supv 2
+Vc Acad Personnel
+Vc And Dean Marine Sci
+Vc And Dean Som
+Vc Bus Admstn
+Vc Bus Dev Innov And Partner
+Vc Cfo
+Vc Cfo Health And Campus
+Vc Community & Govt Rel
+Vc Dev And Univ Rel
+Vc Health Sciences
+Vc Inclusive Excellence
+Vc It Cio Campus
+Vc Rsch
+Vc Stdt Affairs
+Vc Strat Comm
+Vending Mach Tchn
+Vendor Rel Mgr 1
+Vendor Rel Spec 2
+Vendor Rel Spec 3
+Vendor Rel Spec 4
+Vendor Rel Supv 2
+Ventilation Mech
+Veterinarian 2
+Veterinarian 2 Gf
+Veterinarian 3
+Veterinarian 4
+Veterinarian 5
+Veterinarian Locum Bya
+Vice Provost
+Vice Provost Faap
+Vis Assoc Prof
+Vis Assoc Proj Scientist
+Vis Assoc Proj Scientist Nex
+Vis Assoc Res
+Vis Assoc Specialist
+Vis Assoc Specialist Nex
+Vis Asst Prof
+Vis Asst Prof-Hcomp
+Vis Asst Proj Scientist
+Vis Asst Proj Scientist Nex
+Vis Asst Res
+Vis Asst Res Nex
+Vis Asst Specialist
+Vis Asst Specialist Nex
+Vis Jr Specialist
+Vis Jr Specialist Nex
+Vis Librarian
+Vis Prof
+Vis Prof-Hcomp
+Vis Proj Scientist
+Vis Proj Scientist Nex
+Vis Res
+Vis Res Nex
+Vis Specialist
+Vis Specialist Nex
+Visiting Assistant Prof Of Law
+Visiting Professor Of Law
+Visual Comm Mgr 1
+Visual Comm Spec 4
+Visual Comm Spec 4 Gf
+Visual Comm Supv 2
+Voc Nurse
+Voc Nurse Pd
+Voc Nurse Sr
+Voc Nurse Sr Pd
+Voc Nurse Sr Supv
+Voc Rehab Spec 2
+Voc Rehab Supv 2
+Volunteer Svc Crd Ast
+Volunteer Svc Mgr 1
+Volunteer Svc Profl 3
+Volunteer Svc Profl 4
+Volunteer Svc Supv 1
+Volunteer Svc Supv 2
+Vp Anr
+Vp Guea
+Vp Ir And Acad Plng
+Vp It And Chf Info Ofcr
+Vp Rsch And Innov
+Vp Syswide Hr
+Wardrobe Tchn
+Wardrobe Tchn Prn
+Wardrobe Tchn Sr
+Water And Wastewater Opr
+Water And Wastewater Opr Appr
+Water Distribution Mech 2
+Web Developer
+Window Cleaner
+Wiper Opr 1 Pd
+Writer
+Writer Ast
+Writer Editor 3
+Writer Editor 4
+Writer Editor 4 Gf
+Writer Editor 5
+Written Comm Mgr 1
+Written Comm Mgr 2
+Written Comm Supv 2
+Zone Ld
+Zone Mech
