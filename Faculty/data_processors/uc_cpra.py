@@ -13,6 +13,8 @@ def main():
     df = df.with_columns(
         pl.selectors.string().str.to_lowercase()
     ).with_columns(
+        pl.selectors.string().str.strip_chars(),
+    ).with_columns(
         # Since we just have year I figure datetime obj isnt worth it
         pl.col('year').cast(pl.Int16),
         
