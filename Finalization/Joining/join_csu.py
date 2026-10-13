@@ -1,7 +1,10 @@
+from pathlib import Path
+
 import pandas as pd
 
-DEPT_FILENAME = "Finalization/Joining/new_csu_combined.parquet"
-PAY_FILENAME = "Finalization/FilterFaculty/csu_faculty_2024.csv"
+FINALIZATION_DIR = Path(__file__).resolve().parent.parent
+DEPT_FILENAME = FINALIZATION_DIR / "Joining" / "csu_combined_updated.parquet"
+PAY_FILENAME = FINALIZATION_DIR / "FilterFaculty" / "csu_faculty_2024.csv"
 
 dept_df = pd.read_parquet(DEPT_FILENAME)
 
@@ -17,11 +20,7 @@ combined_df = pay_df.merge(
     on = "name"
 )
 
-missing_df = pay_df.merge(
-    dept_df,
-    how = "left_anti",
-    on = "name"
-)
+missing_df = pay_df[~pay_df["name"].isin(dept_df["name"])]
 
 
 print(f"Combined records {len(combined_df)}")
