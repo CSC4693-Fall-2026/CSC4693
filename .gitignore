@@ -222,6 +222,9 @@ __marimo__/
 .streamlit/secrets.toml
 
 # Raw Data
+*.csv
+*.parquet
+*.xlsx
 Faculty/data/raw/**
 Faculty/Data/*
 Faculty/output/*
