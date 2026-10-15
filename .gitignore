@@ -218,8 +218,6 @@ __marimo__/
 .streamlit/secrets.toml
 
 # Raw Data
-Faculty/data/raw/**
-Faculty/data/2024_CaliforniaStateUniversity.csv
-Students/data/raw/**
-# Excess large data
-Most-Recent-Cohorts-Field-of-Study.csv
+*.csv
+*.parquet
+*.xlsx
