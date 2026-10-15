@@ -1,0 +1,862 @@
+[
+  {
+    "institution": "Academy of Art University",
+    "city": "San Francisco",
+    "longitude": -122.400578,
+    "latitude": 37.787943,
+    "medianEarnings": 39532,
+    "programCount": 9,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -74682
+  },
+  {
+    "institution": "Azusa Pacific University",
+    "city": "Azusa",
+    "longitude": -117.888375,
+    "latitude": 34.130047,
+    "medianEarnings": 53787,
+    "programCount": 25,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -60427
+  },
+  {
+    "institution": "Biola University",
+    "city": "La Mirada",
+    "longitude": -118.014374,
+    "latitude": 33.906203,
+    "medianEarnings": 52705,
+    "programCount": 16,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -61509
+  },
+  {
+    "institution": "Cal Poly Maritime Academy",
+    "city": "Vallejo",
+    "longitude": -122.231551,
+    "latitude": 38.069061,
+    "medianEarnings": 114735,
+    "programCount": 3,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": 521
+  },
+  {
+    "institution": "California Baptist University",
+    "city": "Riverside",
+    "longitude": -117.425619,
+    "latitude": 33.929321,
+    "medianEarnings": 55626,
+    "programCount": 27,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -58588
+  },
+  {
+    "institution": "California College of the Arts",
+    "city": "San Francisco",
+    "longitude": -122.399451,
+    "latitude": 37.767485,
+    "medianEarnings": 55230,
+    "programCount": 4,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -58984
+  },
+  {
+    "institution": "California Institute of Integral Studies",
+    "city": "San Francisco",
+    "longitude": -122.416102,
+    "latitude": 37.774924,
+    "medianEarnings": 57056,
+    "programCount": 1,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -57158
+  },
+  {
+    "institution": "California Institute of the Arts",
+    "city": "Valencia",
+    "longitude": -118.566837,
+    "latitude": 34.39327,
+    "medianEarnings": 35299,
+    "programCount": 3,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -78915
+  },
+  {
+    "institution": "California Lutheran University",
+    "city": "Thousand Oaks",
+    "longitude": -118.878924,
+    "latitude": 34.224566,
+    "medianEarnings": 65117,
+    "programCount": 11,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -49097
+  },
+  {
+    "institution": "California Polytechnic State University-San Luis Obispo",
+    "city": "San Luis Obispo",
+    "longitude": -120.657311,
+    "latitude": 35.299513,
+    "medianEarnings": 82237,
+    "programCount": 45,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -31977
+  },
+  {
+    "institution": "California State Polytechnic University-Humboldt",
+    "city": "Arcata",
+    "longitude": -124.078293,
+    "latitude": 40.877481,
+    "medianEarnings": 48912,
+    "programCount": 28,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -65302
+  },
+  {
+    "institution": "California State Polytechnic University-Pomona",
+    "city": "Pomona",
+    "longitude": -117.821476,
+    "latitude": 34.057912,
+    "medianEarnings": 65641,
+    "programCount": 45,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -48573
+  },
+  {
+    "institution": "California State University-Bakersfield",
+    "city": "Bakersfield",
+    "longitude": -119.104711,
+    "latitude": 35.350005,
+    "medianEarnings": 59179,
+    "programCount": 20,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -55035
+  },
+  {
+    "institution": "California State University-Chico",
+    "city": "Chico",
+    "longitude": -121.844859,
+    "latitude": 39.729712,
+    "medianEarnings": 59510,
+    "programCount": 47,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -54704
+  },
+  {
+    "institution": "California State University-Dominguez Hills",
+    "city": "Carson",
+    "longitude": -118.255917,
+    "latitude": 33.864766,
+    "medianEarnings": 55014,
+    "programCount": 28,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -59200
+  },
+  {
+    "institution": "California State University-East Bay",
+    "city": "Hayward",
+    "longitude": -122.054135,
+    "latitude": 37.657694,
+    "medianEarnings": 64973,
+    "programCount": 19,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -49241
+  },
+  {
+    "institution": "California State University-Fresno",
+    "city": "Fresno",
+    "longitude": -119.744569,
+    "latitude": 36.811154,
+    "medianEarnings": 57642,
+    "programCount": 48,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -56572
+  },
+  {
+    "institution": "California State University-Fullerton",
+    "city": "Fullerton",
+    "longitude": -117.885446,
+    "latitude": 33.881506,
+    "medianEarnings": 58041,
+    "programCount": 39,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -56173
+  },
+  {
+    "institution": "California State University-Long Beach",
+    "city": "Long Beach",
+    "longitude": -118.11204,
+    "latitude": 33.782818,
+    "medianEarnings": 62561,
+    "programCount": 59,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -51653
+  },
+  {
+    "institution": "California State University-Los Angeles",
+    "city": "Los Angeles",
+    "longitude": -118.168965,
+    "latitude": 34.066927,
+    "medianEarnings": 56580,
+    "programCount": 31,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -57634
+  },
+  {
+    "institution": "California State University-Monterey Bay",
+    "city": "Seaside",
+    "longitude": -121.796178,
+    "latitude": 36.652397,
+    "medianEarnings": 55522,
+    "programCount": 16,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -58692
+  },
+  {
+    "institution": "California State University-Northridge",
+    "city": "Northridge",
+    "longitude": -118.529319,
+    "latitude": 34.240126,
+    "medianEarnings": 59426,
+    "programCount": 51,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -54788
+  },
+  {
+    "institution": "California State University-Sacramento",
+    "city": "Sacramento",
+    "longitude": -121.423549,
+    "latitude": 38.559415,
+    "medianEarnings": 61913,
+    "programCount": 45,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -52301
+  },
+  {
+    "institution": "California State University-San Bernardino",
+    "city": "San Bernardino",
+    "longitude": -117.323801,
+    "latitude": 34.182622,
+    "medianEarnings": 54852,
+    "programCount": 39,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -59362
+  },
+  {
+    "institution": "California State University-Stanislaus",
+    "city": "Turlock",
+    "longitude": -120.852511,
+    "latitude": 37.52577,
+    "medianEarnings": 58874,
+    "programCount": 18,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -55340
+  },
+  {
+    "institution": "Chapman University",
+    "city": "Orange",
+    "longitude": -117.852518,
+    "latitude": 33.79302,
+    "medianEarnings": 69077,
+    "programCount": 22,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -45137
+  },
+  {
+    "institution": "Claremont McKenna College",
+    "city": "Claremont",
+    "longitude": -117.711188,
+    "latitude": 34.102154,
+    "medianEarnings": 151744,
+    "programCount": 1,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": 37530
+  },
+  {
+    "institution": "Dominican University of California",
+    "city": "San Rafael",
+    "longitude": -122.512051,
+    "latitude": 37.981279,
+    "medianEarnings": 99168,
+    "programCount": 4,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -15046
+  },
+  {
+    "institution": "Fresno Pacific University",
+    "city": "Fresno",
+    "longitude": -119.735199,
+    "latitude": 36.726831,
+    "medianEarnings": 55844,
+    "programCount": 5,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -58370
+  },
+  {
+    "institution": "Golden Gate University",
+    "city": "San Francisco",
+    "longitude": -122.398969,
+    "latitude": 37.789374,
+    "medianEarnings": 98754,
+    "programCount": 1,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -15460
+  },
+  {
+    "institution": "Harvey Mudd College",
+    "city": "Claremont",
+    "longitude": -117.709837,
+    "latitude": 34.106515,
+    "medianEarnings": 172049,
+    "programCount": 2,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": 57835
+  },
+  {
+    "institution": "Hope International University",
+    "city": "Fullerton",
+    "longitude": -117.88573,
+    "latitude": 33.87616,
+    "medianEarnings": 55025,
+    "programCount": 2,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -59189
+  },
+  {
+    "institution": "Humphreys University",
+    "city": "Stockton",
+    "longitude": -121.316918,
+    "latitude": 38.011489,
+    "medianEarnings": 39430,
+    "programCount": 3,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -74784
+  },
+  {
+    "institution": "La Sierra University",
+    "city": "Riverside",
+    "longitude": -117.500054,
+    "latitude": 33.910704,
+    "medianEarnings": 55888,
+    "programCount": 6,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -58326
+  },
+  {
+    "institution": "Laguna College of Art and Design",
+    "city": "Laguna Beach",
+    "longitude": -117.772564,
+    "latitude": 33.561448,
+    "medianEarnings": 59402,
+    "programCount": 2,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -54812
+  },
+  {
+    "institution": "Life Pacific University",
+    "city": "San Dimas",
+    "longitude": -117.829388,
+    "latitude": 34.098705,
+    "medianEarnings": 40508,
+    "programCount": 2,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -73706
+  },
+  {
+    "institution": "Loma Linda University",
+    "city": "Loma Linda",
+    "longitude": -117.260605,
+    "latitude": 34.051241,
+    "medianEarnings": 97622,
+    "programCount": 5,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -16592
+  },
+  {
+    "institution": "Loyola Marymount University",
+    "city": "Los Angeles",
+    "longitude": -118.415744,
+    "latitude": 33.97085,
+    "medianEarnings": 70036,
+    "programCount": 23,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -44178
+  },
+  {
+    "institution": "Menlo College",
+    "city": "Atherton",
+    "longitude": -122.190797,
+    "latitude": 37.453475,
+    "medianEarnings": 93801,
+    "programCount": 2,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -20413
+  },
+  {
+    "institution": "Mount Saint Mary's University",
+    "city": "Los Angeles",
+    "longitude": -118.482879,
+    "latitude": 34.085315,
+    "medianEarnings": 60707,
+    "programCount": 8,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -53507
+  },
+  {
+    "institution": "National University",
+    "city": "San Diego",
+    "longitude": -117.127296,
+    "latitude": 32.829299,
+    "medianEarnings": 65188,
+    "programCount": 19,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -49026
+  },
+  {
+    "institution": "Notre Dame de Namur University",
+    "city": "Belmont",
+    "longitude": -122.284794,
+    "latitude": 37.517111,
+    "medianEarnings": 65823,
+    "programCount": 5,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -48391
+  },
+  {
+    "institution": "Occidental College",
+    "city": "Los Angeles",
+    "longitude": -118.210908,
+    "latitude": 34.127124,
+    "medianEarnings": 67384,
+    "programCount": 9,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -46830
+  },
+  {
+    "institution": "Otis College of Art and Design",
+    "city": "Los Angeles",
+    "longitude": -118.416615,
+    "latitude": 33.956607,
+    "medianEarnings": 63969,
+    "programCount": 3,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -50245
+  },
+  {
+    "institution": "Pacific Oaks College",
+    "city": "Pasadena",
+    "longitude": -118.151323,
+    "latitude": 34.153382,
+    "medianEarnings": 50353,
+    "programCount": 2,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -63861
+  },
+  {
+    "institution": "Pacific Union College",
+    "city": "Angwin",
+    "longitude": -122.440308,
+    "latitude": 38.570585,
+    "medianEarnings": 67066,
+    "programCount": 3,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -47148
+  },
+  {
+    "institution": "Palo Alto University",
+    "city": "Palo Alto",
+    "longitude": -122.187437,
+    "latitude": 37.382216,
+    "medianEarnings": 79360,
+    "programCount": 2,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -34854
+  },
+  {
+    "institution": "Pepperdine University",
+    "city": "Malibu",
+    "longitude": -118.707077,
+    "latitude": 34.037786,
+    "medianEarnings": 71170,
+    "programCount": 12,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -43044
+  },
+  {
+    "institution": "Point Loma Nazarene University",
+    "city": "San Diego",
+    "longitude": -117.250265,
+    "latitude": 32.718391,
+    "medianEarnings": 59916,
+    "programCount": 12,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -54298
+  },
+  {
+    "institution": "Pomona College",
+    "city": "Claremont",
+    "longitude": -117.714556,
+    "latitude": 34.099027,
+    "medianEarnings": 131742,
+    "programCount": 1,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": 17528
+  },
+  {
+    "institution": "Saint Mary's College of California",
+    "city": "Moraga",
+    "longitude": -122.109031,
+    "latitude": 37.840731,
+    "medianEarnings": 67807,
+    "programCount": 13,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -46407
+  },
+  {
+    "institution": "Samuel Merritt University",
+    "city": "Oakland",
+    "longitude": -122.266331,
+    "latitude": 37.82029,
+    "medianEarnings": 148857,
+    "programCount": 1,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": 34643
+  },
+  {
+    "institution": "San Diego State University",
+    "city": "San Diego",
+    "longitude": -117.071228,
+    "latitude": 32.77525,
+    "medianEarnings": 60998,
+    "programCount": 44,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -53216
+  },
+  {
+    "institution": "San Francisco Conservatory of Music",
+    "city": "San Francisco",
+    "longitude": -122.420292,
+    "latitude": 37.775543,
+    "medianEarnings": 27321,
+    "programCount": 1,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -86893
+  },
+  {
+    "institution": "San Francisco State University",
+    "city": "San Francisco",
+    "longitude": -122.476799,
+    "latitude": 37.721224,
+    "medianEarnings": 65570,
+    "programCount": 56,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -48644
+  },
+  {
+    "institution": "San Jose State University",
+    "city": "San Jose",
+    "longitude": -121.880621,
+    "latitude": 37.336569,
+    "medianEarnings": 75904,
+    "programCount": 39,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -38310
+  },
+  {
+    "institution": "Santa Clara University",
+    "city": "Santa Clara",
+    "longitude": -121.93784,
+    "latitude": 37.348362,
+    "medianEarnings": 91342,
+    "programCount": 19,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -22872
+  },
+  {
+    "institution": "Simpson University",
+    "city": "Redding",
+    "longitude": -122.332981,
+    "latitude": 40.61334,
+    "medianEarnings": 52299,
+    "programCount": 5,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -61915
+  },
+  {
+    "institution": "Soka University of America",
+    "city": "Aliso Viejo",
+    "longitude": -117.735344,
+    "latitude": 33.554546,
+    "medianEarnings": 49249,
+    "programCount": 1,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -64965
+  },
+  {
+    "institution": "Sonoma State University",
+    "city": "Rohnert Park",
+    "longitude": -122.677066,
+    "latitude": 38.340274,
+    "medianEarnings": 61775,
+    "programCount": 21,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -52439
+  },
+  {
+    "institution": "Southern California Institute of Architecture",
+    "city": "Los Angeles",
+    "longitude": -118.232799,
+    "latitude": 34.044215,
+    "medianEarnings": 71955,
+    "programCount": 1,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -42259
+  },
+  {
+    "institution": "Stanford University",
+    "city": "Stanford",
+    "longitude": -122.167359,
+    "latitude": 37.429434,
+    "medianEarnings": 122212,
+    "programCount": 13,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": 7998
+  },
+  {
+    "institution": "Thomas Aquinas College",
+    "city": "Santa Paula",
+    "longitude": -119.087141,
+    "latitude": 34.429009,
+    "medianEarnings": 49029,
+    "programCount": 1,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -65185
+  },
+  {
+    "institution": "Touro University California",
+    "city": "Vallejo",
+    "longitude": -122.263949,
+    "latitude": 38.085479,
+    "medianEarnings": 95304,
+    "programCount": 1,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -18910
+  },
+  {
+    "institution": "United States University",
+    "city": "San Diego",
+    "longitude": -117.162166,
+    "latitude": 32.761148,
+    "medianEarnings": 89963,
+    "programCount": 2,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -24251
+  },
+  {
+    "institution": "University of California-Berkeley",
+    "city": "Berkeley",
+    "longitude": -122.260463,
+    "latitude": 37.871918,
+    "medianEarnings": 78070,
+    "programCount": 43,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -36144
+  },
+  {
+    "institution": "University of California-Davis",
+    "city": "Davis",
+    "longitude": -121.749567,
+    "latitude": 38.539667,
+    "medianEarnings": 67848,
+    "programCount": 55,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -46366
+  },
+  {
+    "institution": "University of California-Irvine",
+    "city": "Irvine",
+    "longitude": -117.841248,
+    "latitude": 33.648434,
+    "medianEarnings": 69342,
+    "programCount": 41,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -44872
+  },
+  {
+    "institution": "University of California-Los Angeles",
+    "city": "Los Angeles",
+    "longitude": -118.442179,
+    "latitude": 34.07178,
+    "medianEarnings": 77443,
+    "programCount": 48,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -36771
+  },
+  {
+    "institution": "University of California-Merced",
+    "city": "Merced",
+    "longitude": -120.424944,
+    "latitude": 37.366237,
+    "medianEarnings": 65714,
+    "programCount": 14,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -48500
+  },
+  {
+    "institution": "University of California-Riverside",
+    "city": "Riverside",
+    "longitude": -117.32741,
+    "latitude": 33.97246,
+    "medianEarnings": 61749,
+    "programCount": 35,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -52465
+  },
+  {
+    "institution": "University of California-San Diego",
+    "city": "La Jolla",
+    "longitude": -117.235866,
+    "latitude": 32.877749,
+    "medianEarnings": 70456,
+    "programCount": 41,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -43758
+  },
+  {
+    "institution": "University of California-Santa Barbara",
+    "city": "Santa Barbara",
+    "longitude": -119.846426,
+    "latitude": 34.416297,
+    "medianEarnings": 71720,
+    "programCount": 35,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -42494
+  },
+  {
+    "institution": "University of California-Santa Cruz",
+    "city": "Santa Cruz",
+    "longitude": -122.058801,
+    "latitude": 36.995584,
+    "medianEarnings": 63156,
+    "programCount": 32,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -51058
+  },
+  {
+    "institution": "University of La Verne",
+    "city": "La Verne",
+    "longitude": -117.773262,
+    "latitude": 34.100855,
+    "medianEarnings": 61175,
+    "programCount": 14,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -53039
+  },
+  {
+    "institution": "University of Massachusetts Global",
+    "city": "Aliso Viejo",
+    "longitude": -117.727737,
+    "latitude": 33.582886,
+    "medianEarnings": 59101,
+    "programCount": 9,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -55113
+  },
+  {
+    "institution": "University of Redlands",
+    "city": "Redlands",
+    "longitude": -117.163218,
+    "latitude": 34.064218,
+    "medianEarnings": 65762,
+    "programCount": 13,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -48452
+  },
+  {
+    "institution": "University of San Diego",
+    "city": "San Diego",
+    "longitude": -117.192073,
+    "latitude": 32.770816,
+    "medianEarnings": 71534,
+    "programCount": 19,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -42680
+  },
+  {
+    "institution": "University of San Francisco",
+    "city": "San Francisco",
+    "longitude": -122.450477,
+    "latitude": 37.776618,
+    "medianEarnings": 73624,
+    "programCount": 24,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -40590
+  },
+  {
+    "institution": "University of Silicon Valley",
+    "city": "San Jose",
+    "longitude": -121.94087,
+    "latitude": 37.414049,
+    "medianEarnings": 56685,
+    "programCount": 1,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -57529
+  },
+  {
+    "institution": "University of Southern California",
+    "city": "Los Angeles",
+    "longitude": -118.284169,
+    "latitude": 34.021281,
+    "medianEarnings": 79947,
+    "programCount": 49,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -34267
+  },
+  {
+    "institution": "University of the Pacific",
+    "city": "Stockton",
+    "longitude": -121.312301,
+    "latitude": 37.981424,
+    "medianEarnings": 80142,
+    "programCount": 19,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -34072
+  },
+  {
+    "institution": "Vanguard University of Southern California",
+    "city": "Costa Mesa",
+    "longitude": -117.900911,
+    "latitude": 33.662686,
+    "medianEarnings": 56874,
+    "programCount": 10,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -57340
+  },
+  {
+    "institution": "Westmont College",
+    "city": "Santa Barbara",
+    "longitude": -119.662517,
+    "latitude": 34.450151,
+    "medianEarnings": 55702,
+    "programCount": 4,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -58512
+  },
+  {
+    "institution": "Whittier College",
+    "city": "Whittier",
+    "longitude": -118.032299,
+    "latitude": 33.978773,
+    "medianEarnings": 49534,
+    "programCount": 9,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -64680
+  },
+  {
+    "institution": "Woodbury University",
+    "city": "Burbank",
+    "longitude": -118.341147,
+    "latitude": 34.208011,
+    "medianEarnings": 64788,
+    "programCount": 4,
+    "facultyBenchmark": 114214,
+    "studentMinusFacultyGap": -49426
+  }
+]

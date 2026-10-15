@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="A scroll-driven look at California graduate earnings." />
+    <title>California's Graduate Earnings</title>
+  </head>
+  <body>
+    <main>
+      <section class="scrolly" aria-label="California graduate earnings story">
+        <div class="graphic" aria-live="polite">
+          <div class="map-header"><p class="eyebrow">CSC 4693 · DATA VISUALIZATION</p><p class="map-heading">California's graduate earnings</p></div>
+          <div id="map-tooltip" class="map-tooltip" role="status" aria-hidden="true"></div>
+          <svg id="visualization" role="img" aria-label="California graduate earnings visualization" aria-describedby="graphic-description"><desc id="graphic-description">A scroll-driven California school comparison followed by a Cal Poly major analysis.</desc></svg>
+          <p id="graphic-status" class="sr-only"></p>
+        </div>
+        <div class="steps">
+          <article class="step" data-step="0"><div class="step-card"><p class="step-number">01</p><h2>Graduate pay across California.</h2><p>Every dot is a school. Larger dots represent higher median graduate earnings five years after completion.</p></div></article>
+          <article class="step" data-step="1"><div class="step-card"><p class="step-number">02</p><h2>Ten schools at the extremes.</h2><p>For this proof of concept, every school is compared with Cal Poly's median faculty base pay. Blue means the faculty benchmark is higher; red means student earnings are higher. The view keeps the five largest gaps in each direction.</p></div></article>
+          <article class="step" data-step="2"><div class="step-card"><p class="step-number">03</p><h2>Bring every school back.</h2><p>The complete map combines both encodings: bubble size shows graduate earnings, while color shows the illustrative gap against the Cal Poly faculty benchmark.</p></div></article>
+          <article class="step" data-step="3"><div class="step-card"><p class="step-number">04</p><h2>Now move in toward Cal Poly.</h2><p>The complete statewide comparison gives way to San Luis Obispo, where faculty and graduate data can be compared by major.</p></div></article>
+        </div>
+      </section>
+
+      <section class="article-end">
+        <p class="eyebrow">CAL POLY BY MAJOR</p>
+        <h2>The faculty–graduate comparison differs across majors.</h2>
+        <p>This regular article figure compares the five largest faculty-over-graduate gaps with the five smallest or negative gaps among matched Cal Poly majors.</p>
+        <figure class="major-figure">
+          <div class="major-legend" aria-label="Major comparison legend">
+            <div><span class="legend-dot graduate"></span><p><strong>Graduate earnings</strong><small>Median reported earnings five years after completion</small></p></div>
+            <div><span class="legend-dot faculty"></span><p><strong>Faculty compensation</strong><small>Median total pay and benefits within the major</small></p></div>
+            <div><span class="legend-line"></span><p><strong>Difference</strong><small>The distance between the two values</small></p></div>
+          </div>
+          <div class="major-chart-wrap"><svg id="major-comparison-chart" role="img" aria-label="Cal Poly graduate earnings and faculty compensation by major"></svg></div>
+        </figure>
+      </section>
+
+      <footer><p><strong>Proof-of-concept method.</strong> School earnings are institution-level aggregates of reported bachelor's-program medians. Because comparable faculty data is only available for Cal Poly, the statewide gap uses Cal Poly's median faculty base pay as the same benchmark for every institution; it is not each school's actual faculty pay. The Cal Poly major chart instead uses faculty total compensation by major.</p><p>Sources: Steel Thread College Scorecard and Cal Poly faculty datasets; IPEDS 2024 location data.</p></footer>
+    </main>
+    <script type="module" src="./src/main.js"></script>
+  </body>
+</html>
