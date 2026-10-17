@@ -26,4 +26,7 @@ ca_df = ca_df.drop(columns=df.columns[
 
 print(f"Includes {len(ca_df['INSTNM'].unique())} colleges")
 
+
 ca_df.to_csv("Steel Thread/for_analysis/ca_collegescore.csv", index=False)
+
+ca_df.to_csv("Steel Thread/graduate_data/ca_collegescore.csv", index=False)

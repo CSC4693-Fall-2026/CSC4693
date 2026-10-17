@@ -2,6 +2,7 @@ import pandas as pd
 
 DEPT_FILENAME = "Finalization/Joining/new_csu_combined.parquet"
 PAY_FILENAME = "Finalization/FilterFaculty/csu_faculty_2024.csv"
+OUTPUT = "Finalization/Joining/csu_joined.parquet"
 
 dept_df = pd.read_parquet(DEPT_FILENAME)
 
@@ -43,4 +44,6 @@ print(f"Pay Records: {len(pay_df)}")
 print("James Graham" in set(dept_df["name"].tolist()))
 
 print("James Graham" in set(pay_df["name"].tolist()))
+
+combined_df.to_parquet(OUTPUT)
 
