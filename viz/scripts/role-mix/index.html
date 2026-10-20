@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>UC Role Mix</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Space+Grotesk:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="visualization">
+    <header class="chart-head">
+      <h1>Who is on the academic payroll, by department bucket</h1>
+      <p class="subtitle">UC academic employees by role, <span id="year-label">2024</span>. Each bar is 100% of the bucket.</p>
+    </header>
+    <div class="controls">
+      <div class="toggle" role="group" aria-label="Measure">
+        <button type="button" data-measure="people" aria-pressed="true">Share of people</button>
+        <button type="button" data-measure="spend" aria-pressed="false">Share of pay</button>
+      </div>
+      <label class="year-control">Year
+        <input id="year" type="range" min="2013" max="2024" step="1" value="2024">
+        <output id="year-out">2024</output>
+      </label>
+    </div>
+    <div id="legend" class="legend" aria-label="Chart legend"></div>
+    <div id="chart" class="chart" aria-label="Stacked bars of role share per department bucket"></div>
+    <div id="tooltip" class="tooltip" role="status" hidden></div>
+    <p class="note">TA, reader and grad student researcher counts are appointments, not unique people, because UC redacts student employee names. Buckets use the group's UC department rules; the Other bucket is left out.</p>
+    <p class="source">Source: UC CPRA payroll 2013 to 2024.</p>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
+  <script src="role-mix-data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
