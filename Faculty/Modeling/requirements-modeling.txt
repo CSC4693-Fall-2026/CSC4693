@@ -1,0 +1,6 @@
+pymc>=5.17,<6
+arviz>=0.20,<1
+pandas>=2.2
+pyarrow
+scipy
+h5netcdf
