@@ -3,6 +3,10 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Generated artifacts
+**/output/*
+!**/output/.gitkeep
+
 # C extensions
 *.so
 
@@ -202,8 +206,8 @@ cython_debug/
 # .vscode/
 
 # JavaScript dependencies and Vite output
-Visualizations/Scrollables/node_modules/
-Visualizations/Scrollables/dist/
+viz/scripts/Scrollables/node_modules/
+viz/scripts/Scrollables/dist/
 # Temporary file for partial code execution
 tempCodeRunnerFile.py
 
@@ -225,11 +229,5 @@ __marimo__/
 *.csv
 *.parquet
 *.xlsx
-Faculty/data/raw/**
-Faculty/Data/*
-Faculty/output/*
-Faculty/data/faculty-salaries.parquet
-Faculty/data/2024_CaliforniaStateUniversity.csv
-Faculty/data/*.parquet
 # Excess large data
 Most-Recent-Cohorts-Field-of-Study.csv
