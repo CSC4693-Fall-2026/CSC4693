@@ -1,17 +1,19 @@
 # CSC 4693 — Student Pay Project
 
+> **Hook:** *"DID YOUR PROFESSORS TEACH YOU TO OUT-EARN THEM?"*  
+> **Title:** **An Investigation into the Income Disparities Between New-Grads and Faculty**
+
 Our goal is to analyze and compare faculty compensation against post-graduation student earnings across academic departments in California public universities (UC and CSU systems).
 
-## Data Sources
+---
 
-This project uses publicly available data, including:
+## Quick Links
 
-- U.S. Department of Education College Scorecard data
-- Transparent California employee salary data
-- California State University data
-- University of California data
-- California Community College data
-- Institution crosswalk and metadata files
+* **Wiki & Policies:** [[How to Use the Wiki|Using-Wiki]] | [[AI Policy|AI-Policy]] | [[Meeting Minutes|Meeting-Minutes]]
+* **Project Deliverables:** [Living Project Outline (SharePoint)](https://cpslo-my.sharepoint.com/:w:/g/personal/rbaweja_calpoly_edu/IQAs57NSzPAiSridoCDHpF6UAfZFq6WHwLPHHkIT3_tG0N4?e=sH9bFZ)
+* **Design & Roadmap:** [[Project Roadmap & Research Questions|Project-Roadmap]] | [[Data Journalism & Viz Research|Report-and-Viz-Research]]
+
+---
 
 ## Repository Structure
 
