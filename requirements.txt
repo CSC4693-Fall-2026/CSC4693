@@ -1,3 +1,5 @@
 polars
 pyarrow
 fastexcel
+duckdb
+matplotlib

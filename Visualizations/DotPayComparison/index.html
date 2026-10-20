@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Faculty and industry pay distributions</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Space+Grotesk:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="visualization">
+    <div class="reading-key" aria-label="Chart legend">
+      <span><i class="shape circle"></i> Faculty pay</span>
+      <span><i class="shape diamond"></i> Industry earnings</span>
+      <span class="mean-key"><i></i> Mean</span>
+      <span><i class="source-key"></i> Incoming dot</span>
+    </div>
+    <div id="small-multiples" class="small-multiples" aria-label="Animated salary distributions, one panel per major"></div>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
+  <script src="pay-constants.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

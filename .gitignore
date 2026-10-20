@@ -200,6 +200,10 @@ cython_debug/
 #   and can be added to the global gitignore or merged into this file. However, if you prefer, 
 #   you could uncomment the following to ignore the entire vscode folder
 # .vscode/
+
+# JavaScript dependencies and Vite output
+Visualizations/Scrollables/node_modules/
+Visualizations/Scrollables/dist/
 # Temporary file for partial code execution
 tempCodeRunnerFile.py
 
@@ -218,7 +222,12 @@ __marimo__/
 .streamlit/secrets.toml
 
 # Raw Data
+*.csv
+*.parquet
+*.xlsx
 Faculty/data/raw/**
+Faculty/Data/*
+Faculty/output/*
 Faculty/data/faculty-salaries.parquet
 Faculty/data/2024_CaliforniaStateUniversity.csv
 Faculty/data/*.parquet

@@ -1,0 +1,101 @@
+Rank,CIPCODE,CTOTALT,CIPDESC,assoc_dpt
+1,24.01,1372687,"Liberal Arts and Sciences, General Studies and Humanities.", "Humanities & Languages"
+2,52.02,859535,"Business Administration, Management and Operations.","Business, Economics & Finance"
+3,51.38,605152,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Medicine & Health Sciences
+4,42.01,251186,"Psychology, General.",Social Sciences & Communication
+5,11.01,202287,"Computer and Information Sciences, General.",Computer Science
+6,12.04,174054,Cosmetology and Related Personal Grooming Services.,Trade & Vocational Professions
+7,26.01,147082,"Biology, General.",Science and Mathematics
+8,51.39,142295,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Medicine & Health Sciences
+9,11.07,139717,Computer Science.,Computer Science
+10,43.01,139313,Criminal Justice and Corrections.,Social Sciences & Communication
+11,13.12,132115,"Teacher Education and Professional Development, Specific Levels and Methods.",Education & Public Administration
+12,51.07,121394,Health and Medical Administrative Services.,Medicine and Health Sciences
+13,52.13,120320,Management Sciences and Quantitative Methods.,"Business, Economics & Finance"
+14,51.08,100999,Allied Health and Medical Assisting Services.,Medicine & Health Sciences
+15,52.08,100818,Finance and Financial Management Services.,"Business, Economics & Finance"
+16,47.06,98954,Vehicle Maintenance and Repair Technologies/Technicians.,Trade & Vocational Professions
+17,52.01,97340,"Business/Commerce, General.","Business, Economics & Finance"
+18,44.07,92290,Social Work.,Social Sciences & Communication
+19,52.03,85015,Accounting and Related Services.,"Business, Economics & Finance"
+20,22.01,79452,Law., "Social Sciences & Communication"
+21,48.05,79315,Precision Metal Working.,Trade & Vocational Professions
+22,31.05,77744,Health and Physical Education/Fitness.,Sciences & Mathematics
+23,14.19,72831,Mechanical Engineering.,Engineering
+24,52.14,68625,Marketing.,"Business, Economics & Finance"
+25,51.09,67706,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Medicine & Health Sciences
+26,51.22,64707,Public Health.,Education & Public Administration
+27,45.06,64635,Economics.,"Business, Economics & Finance"
+28,30.01,57642,Biological and Physical Sciences.,Science and Mathematics
+29,51.12,57417,Medicine.,Medicine & Health Sciences
+30,49.02,51535,Ground Transportation.,NA
+31,30.99,50594,"Multi/Interdisciplinary Studies, Other.",NA
+32,42.28,48321,"Clinical, Counseling and Applied Psychology.",Social Sciences & Communication
+33,13.04,38655,Educational Administration and Supervision.,Education & Public Administration
+34,42.27,37989,Research and Experimental Psychology.,Social Sciences & Communication
+35,46.03,34183,Electrical and Power Transmission Installers.,Engineering
+36,11.04,34088,Information Science/Studies.,Computer Science
+37,19.07,32928,"Human Development, Family Studies, and Related Services.",NA
+38,13.13,32401,"Teacher Education and Professional Development, Specific Subject Areas.",Education & Public Administration
+39,45.01,31364,"Social Sciences, General.",Social Sciences & Communication
+40,13.01,30227,"Education, General.",Education & Public Administration
+41,50.04,29751,Design and Applied Arts.,NA
+42,51.15,28752,Mental and Social Health Services and Allied Professions.,Medicine & Health Sciences
+43,13.03,28016,Curriculum and Instruction.,Education & Public Administration
+44,12.05,26139,Culinary Arts and Related Services.,NA
+45,50.07,25657,Fine and Studio Arts.,NA
+46,14.09,23941,Computer Engineering.,Engineering
+47,45.11,23305,Sociology.,Social Sciences & Communication
+48,52.04,21727,Business Operations Support and Assistant Services.,"Business, Economics & Finance"
+49,50.06,20184,Film/Video and Photographic Arts.,NA
+50,51.23,19717,Rehabilitation and Therapeutic Professions.,Medicine & Health Sciences
+51,11.09,19107,Computer Systems Networking and Telecommunications.,Computer Science
+52,14.08,17916,Civil Engineering.,Engineering
+53,22.02,17455,Legal Research and Advanced Professional Studies.,NA
+54,45.09,16520,International Relations and National Security Studies.,Social Sciences & Communication
+55,49.01,15197,Air Transportation.,NA
+56,50.09,14849,Music.,Humanities & Languages
+57,11.08,14489,Computer Software and Media Applications.,Computer Science
+58,23.01,14462,"English Language and Literature, General.",Humanities & Languages
+59,39.06,13914,Theological and Ministerial Studies.,Humanities & Languages
+60,26.09,13743,"Physiology, Pathology and Related Sciences.",Science and Mathematics
+61,44.04,13181,Public Administration.,Social Sciences & Communication
+62,27.03,12752,Applied Mathematics.,Science and Mathematics
+63,38.02,12088,Religion/Religious Studies.,Humanities & Languages
+64,52.09,11895,Hospitality Administration/Management.,"Business, Economics & Finance"
+65,51.11,11628,Health/Medical Preparatory Programs.,Medicine & Health Sciences
+66,47.02,11608,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",NA
+67,14.02,11423,"Aerospace, Aeronautical and Astronautical/Space Engineering.",Engineering
+68,52.07,11324,Entrepreneurial and Small Business Operations.,"Business, Economics & Finance"
+69,45.04,10843,Criminology.,Social Sciences & Communication
+70,23.13,10419,Rhetoric and Composition/Writing Studies.,Humanities & Languages
+71,11.02,10359,Computer Programming.,Computer Science
+72,27.01,10332,Mathematics.,Science and Mathematics
+73,14.05,10303,Biomedical/Medical Engineering.,Engineering
+74,51.02,9918,Communication Disorders Sciences and Services.,Medicine & Health Sciences
+75,43.02,9111,Fire Protection.,NA
+76,30.71,8981,Data Analytics.,NA
+77,26.15,8867,Neurobiology and Neurosciences.,Science and Mathematics
+78,26.04,8572,Cell/Cellular Biology and Anatomical Sciences.,Science and Mathematics
+79,15.06,8465,Industrial Production Technologies/Technicians.,Engineering
+80,13.06,8442,"Educational Assessment, Evaluation, and Research.",Education & Public Administration
+81,14.35,8434,Industrial Engineering.,Engineering
+82,13.05,8433,Educational/Instructional Media Design.,Education & Public Administration
+83,52.12,8238,Management Information Systems and Services.,NA
+84,52.99,8150,"Business, Management, Marketing, and Related Support Services, Other.","Business, Economics & Finance"
+85,15.05,7903,Environmental Control Technologies/Technicians.,NA
+86,27.05,7788,Statistics.,Science and Mathematics
+87,30.17,7634,Behavioral Sciences.,Science and Mathematics
+88,54.01,7563,History.,Humanities & Languages
+89,47.03,7425,Heavy/Industrial Equipment Maintenance Technologies.,Engineering
+90,52.19,7198,"Specialized Sales, Merchandising and Marketing Operations.","Business, Economics & Finance"
+91,51.99,6873,"Health Professions and Related Clinical Sciences, Other.",Medicine & Health Sciences
+92,52.18,6752,"General Sales, Merchandising and Related Marketing Operations.","Business, Economics & Finance"
+93,26.02,6678,"Biochemistry, Biophysics and Molecular Biology.",Science and Mathematics
+94,13.11,6636,Student Counseling and Personnel Services.,Education & Public Administration
+95,26.13,6555,"Ecology, Evolution, Systematics, and Population Biology.",Science and Mathematics
+96,25.01,6512,Library Science and Administration.,NA
+97,29.02,6407,"Intelligence, Command Control and Information Operations.",NA
+98,47.01,6085,Electrical/Electronics Maintenance and Repair Technology.,Engineering
+99,14.01,6076,"Engineering, General.",Engineering
+100,14.07,5928,Chemical Engineering.,Engineering
