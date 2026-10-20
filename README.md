@@ -25,7 +25,6 @@ Our goal is to analyze and compare faculty compensation against post-graduation 
 │
 ├── processing/
 │   ├── join/
-│   │   ├── parquet_improvements.py
 │   │   └── Scripts for joining datasets together
 │   │
 │   ├── student/
