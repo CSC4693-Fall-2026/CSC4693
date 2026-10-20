@@ -1,0 +1,21 @@
+unitid,institution,credlev,department,horizon,total_program_rows,usable_median_rows,rows_with_positive_earnings_count,sum_reported_earnings_counts,mean_of_program_medians,median_of_program_medians,mean_of_program_medians_same_weighted_rows,earnings_count_weighted_mean_of_program_medians,weighting_difference_same_rows
+110565,California State University-Fullerton,5,Medicine & Health Sciences,1yr,5,4,4,202.0,96490.75,69179.0,96490.75,126206.85643564357,29716.106435643567
+110583,California State University-Long Beach,5,Medicine & Health Sciences,5yr,8,5,5,286.0,98189.2,84760.0,98189.2,120401.73426573427,22212.53426573427
+122409,San Diego State University,3,Medicine & Health Sciences,1yr,7,6,6,514.0,44114.166666666664,37816.5,44114.166666666664,65618.5214007782,21504.35473411154
+110680,University of California-San Diego,5,Humanities & Languages,5yr,14,3,3,146.0,55509.0,42918.0,55509.0,76836.2602739726,21327.2602739726
+110617,California State University-Sacramento,3,Medicine & Health Sciences,1yr,4,3,3,636.0,61026.0,44162.0,61026.0,82036.90094339622,21010.90094339622
+110699,University of California-San Francisco,6,Medicine & Health Sciences,5yr,7,3,3,296.0,138710.66666666666,138325.0,138710.66666666666,159659.91554054053,20949.248873873876
+110565,California State University-Fullerton,5,Medicine & Health Sciences,4yr,5,4,4,226.0,103932.25,81499.5,103932.25,124381.38938053098,20449.139380530978
+122755,San Jose State University,3,Medicine & Health Sciences,5yr,9,5,5,253.0,88099.4,68367.0,88099.4,105874.40316205533,17775.003162055335
+110538,California State University-Chico,3,Medicine & Health Sciences,1yr,6,4,4,331.0,56968.5,42698.0,56968.5,73753.21148036254,16784.711480362545
+110510,California State University-San Bernardino,3,Medicine & Health Sciences,5yr,6,4,4,295.0,64752.25,52478.5,64752.25,81359.75254237288,16607.50254237288
+110556,California State University-Fresno,3,Medicine & Health Sciences,1yr,8,6,6,512.0,43245.5,34879.0,43245.5,59481.34375,16235.84375
+110653,University of California-Irvine,3,Medicine & Health Sciences,5yr,5,3,3,386.0,91648.0,92028.0,91648.0,75831.06994818653,-15816.93005181347
+110680,University of California-San Diego,6,Medicine & Health Sciences,4yr,6,3,3,130.0,144235.33333333334,148833.0,144235.33333333334,128856.03846153847,-15379.294871794875
+110565,California State University-Fullerton,3,Medicine & Health Sciences,1yr,6,4,4,836.0,49523.5,35236.0,49523.5,64240.75837320574,14717.25837320574
+110583,California State University-Long Beach,3,Medicine & Health Sciences,1yr,9,6,6,883.0,43932.0,33720.0,43932.0,58415.510758776894,14483.510758776894
+122755,San Jose State University,5,Education & Public Administration,5yr,7,4,4,361.0,85455.5,82370.0,85455.5,71794.29916897506,-13661.200831024937
+110653,University of California-Irvine,5,"Business, Economics & Finance",1yr,4,3,3,364.0,87805.0,73209.0,87805.0,100789.8956043956,12984.895604395599
+110592,California State University-Los Angeles,5,Medicine & Health Sciences,1yr,5,3,3,185.0,100378.33333333333,85836.0,100378.33333333333,113032.81081081081,12654.477477477485
+110547,California State University-Dominguez Hills,3,Medicine & Health Sciences,1yr,6,4,4,368.0,59360.0,44479.0,59360.0,71770.00543478261,12410.005434782608
+110653,University of California-Irvine,3,Computer Science,4yr,8,6,6,1022.0,106833.0,107454.5,106833.0,119207.37573385518,12374.37573385518
