@@ -1,0 +1,65 @@
+:root {
+  --ink: #182421;
+  --muted: #65716d;
+  --paper: #f5f1e8;
+  --surface: #fffdf8;
+  --line: #d4d6ce;
+  --mono: 'DM Mono', ui-monospace, monospace;
+  --sans: 'Space Grotesk', system-ui, sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --ink: #ece8de;
+    --muted: #a3aba7;
+    --paper: #141a18;
+    --surface: #1d2422;
+    --line: #36403c;
+  }
+}
+:root[data-theme="dark"] {
+  --ink: #ece8de;
+  --muted: #a3aba7;
+  --paper: #141a18;
+  --surface: #1d2422;
+  --line: #36403c;
+}
+
+* { box-sizing: border-box; }
+body { margin: 0; color: var(--ink); background: var(--paper); font-family: var(--sans); }
+.visualization { max-width: 1120px; margin: 0 auto; padding: clamp(16px, 4vw, 56px); }
+
+.chart-head h1 { margin: 0 0 6px; font-size: clamp(20px, 3vw, 28px); font-weight: 500; letter-spacing: -.025em; line-height: 1.15; }
+.subtitle { margin: 0 0 20px; color: var(--muted); font-size: 14px; }
+
+.controls { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 28px; margin-bottom: 16px; }
+.toggle { display: inline-flex; border: 1px solid var(--line); border-radius: 6px; overflow: hidden; }
+.toggle button { border: 0; padding: 7px 12px; background: transparent; color: var(--muted); font: 12px var(--mono); cursor: pointer; }
+.toggle button[aria-pressed="true"] { background: var(--ink); color: var(--paper); }
+.toggle button:focus-visible, .year-control input:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; }
+.year-control { display: inline-flex; align-items: center; gap: 10px; color: var(--muted); font: 12px var(--mono); }
+.year-control input { width: min(220px, 50vw); accent-color: var(--ink); }
+.year-control output { color: var(--ink); min-width: 4ch; }
+
+.legend { display: flex; flex-wrap: wrap; gap: 8px 18px; margin-bottom: 18px; color: var(--muted); font: 12px var(--mono); }
+.legend span { display: inline-flex; align-items: center; gap: 6px; }
+.legend i { width: 11px; height: 11px; border-radius: 2px; background: var(--c); }
+
+.chart svg { display: block; width: 100%; height: auto; overflow: visible; }
+.bucket-label, .total-label, .seg-label, .axis text { font-family: var(--mono); }
+.bucket-label { fill: var(--ink); font-size: 12px; }
+.total-label { fill: var(--muted); font-size: 11px; }
+.seg-label { font-size: 11px; pointer-events: none; }
+.axis text { fill: var(--muted); font-size: 10px; }
+.axis path { display: none; }
+.axis line { stroke: var(--line); stroke-dasharray: 2 4; }
+.seg { cursor: default; }
+.seg.dim { opacity: .3; }
+
+.tooltip { position: fixed; z-index: 10; max-width: 280px; padding: 10px 12px; border: 1px solid var(--line); border-radius: 6px; background: var(--surface); color: var(--ink); font: 12px/1.45 var(--mono); box-shadow: 0 6px 20px rgb(0 0 0 / .12); pointer-events: none; }
+.tooltip strong { display: block; margin-bottom: 4px; font: 500 13px var(--sans); }
+.tooltip .row { display: flex; justify-content: space-between; gap: 16px; }
+.tooltip .row span:first-child { color: var(--muted); }
+
+.note, .source { max-width: 780px; margin: 14px 0 0; color: var(--muted); font-size: 12px; line-height: 1.5; }
+.source { font-family: var(--mono); font-size: 11px; }
