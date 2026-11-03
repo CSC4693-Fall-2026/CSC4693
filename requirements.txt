@@ -1,5 +1,6 @@
 polars
 pyarrow
 fastexcel
+pandas
 duckdb
 matplotlib
