@@ -1,0 +1,322 @@
+[
+  {
+    "s": "CSU",
+    "n": "Cal Poly Maritime Academy",
+    "y1": 97197.0,
+    "y4": 117176.0,
+    "y5": 122033.0,
+    "p1": 5,
+    "p4": 5,
+    "p5": 5
+  },
+  {
+    "s": "CSU",
+    "n": "California Polytechnic State University-San Luis Obispo",
+    "y1": 59292.0,
+    "y4": 80126.0,
+    "y5": 82919.0,
+    "p1": 51,
+    "p4": 52,
+    "p5": 50
+  },
+  {
+    "s": "CSU",
+    "n": "California State Polytechnic University-Humboldt",
+    "y1": 36420.0,
+    "y4": 47573.0,
+    "y5": 51150.0,
+    "p1": 27,
+    "p4": 30,
+    "p5": 31
+  },
+  {
+    "s": "CSU",
+    "n": "California State Polytechnic University-Pomona",
+    "y1": 44976.0,
+    "y4": 65119.5,
+    "y5": 68085.0,
+    "p1": 49,
+    "p4": 46,
+    "p5": 48
+  },
+  {
+    "s": "CSU",
+    "n": "California State University-Bakersfield",
+    "y1": 36224.0,
+    "y4": 57529.0,
+    "y5": 61329.5,
+    "p1": 22,
+    "p4": 23,
+    "p5": 26
+  },
+  {
+    "s": "CSU",
+    "n": "California State University-Channel Islands",
+    "y1": 39837.0,
+    "y4": 58351.0,
+    "y5": 61811.0,
+    "p1": 20,
+    "p4": 20,
+    "p5": 18
+  },
+  {
+    "s": "CSU",
+    "n": "California State University-Chico",
+    "y1": 43097.5,
+    "y4": 60798.5,
+    "y5": 63353.0,
+    "p1": 46,
+    "p4": 52,
+    "p5": 48
+  },
+  {
+    "s": "CSU",
+    "n": "California State University-Dominguez Hills",
+    "y1": 37443.0,
+    "y4": 57602.5,
+    "y5": 57776.5,
+    "p1": 32,
+    "p4": 26,
+    "p5": 28
+  },
+  {
+    "s": "CSU",
+    "n": "California State University-East Bay",
+    "y1": 48157.0,
+    "y4": 65026.0,
+    "y5": 68518.0,
+    "p1": 21,
+    "p4": 26,
+    "p5": 27
+  },
+  {
+    "s": "CSU",
+    "n": "California State University-Fresno",
+    "y1": 39467.0,
+    "y4": 56187.0,
+    "y5": 62261.0,
+    "p1": 47,
+    "p4": 52,
+    "p5": 51
+  },
+  {
+    "s": "CSU",
+    "n": "California State University-Fullerton",
+    "y1": 39142.0,
+    "y4": 57271.5,
+    "y5": 63508.0,
+    "p1": 44,
+    "p4": 44,
+    "p5": 41
+  },
+  {
+    "s": "CSU",
+    "n": "California State University-Long Beach",
+    "y1": 43707.0,
+    "y4": 60019.0,
+    "y5": 66748.0,
+    "p1": 62,
+    "p4": 61,
+    "p5": 63
+  },
+  {
+    "s": "CSU",
+    "n": "California State University-Los Angeles",
+    "y1": 39621.0,
+    "y4": 55413.0,
+    "y5": 61522.0,
+    "p1": 39,
+    "p4": 37,
+    "p5": 38
+  },
+  {
+    "s": "CSU",
+    "n": "California State University-Monterey Bay",
+    "y1": 42405.0,
+    "y4": 55856.0,
+    "y5": 59620.0,
+    "p1": 16,
+    "p4": 21,
+    "p5": 17
+  },
+  {
+    "s": "CSU",
+    "n": "California State University-Northridge",
+    "y1": 40801.0,
+    "y4": 57350.5,
+    "y5": 64770.0,
+    "p1": 51,
+    "p4": 56,
+    "p5": 53
+  },
+  {
+    "s": "CSU",
+    "n": "California State University-Sacramento",
+    "y1": 43278.0,
+    "y4": 60278.0,
+    "y5": 64774.5,
+    "p1": 47,
+    "p4": 47,
+    "p5": 46
+  },
+  {
+    "s": "CSU",
+    "n": "California State University-San Bernardino",
+    "y1": 39211.5,
+    "y4": 54830.5,
+    "y5": 59088.0,
+    "p1": 40,
+    "p4": 44,
+    "p5": 41
+  },
+  {
+    "s": "CSU",
+    "n": "California State University-San Marcos",
+    "y1": 45592.0,
+    "y4": 65479.0,
+    "y5": 67538.0,
+    "p1": 34,
+    "p4": 31,
+    "p5": 31
+  },
+  {
+    "s": "CSU",
+    "n": "California State University-Stanislaus",
+    "y1": 37073.0,
+    "y4": 56330.0,
+    "y5": 56583.5,
+    "p1": 20,
+    "p4": 23,
+    "p5": 22
+  },
+  {
+    "s": "CSU",
+    "n": "San Diego State University",
+    "y1": 43227.0,
+    "y4": 59914.0,
+    "y5": 67118.0,
+    "p1": 56,
+    "p4": 61,
+    "p5": 57
+  },
+  {
+    "s": "CSU",
+    "n": "San Francisco State University",
+    "y1": 43685.0,
+    "y4": 62250.5,
+    "y5": 69087.0,
+    "p1": 47,
+    "p4": 52,
+    "p5": 51
+  },
+  {
+    "s": "CSU",
+    "n": "San Jose State University",
+    "y1": null,
+    "y4": null,
+    "y5": 83732.5,
+    "p1": 0,
+    "p4": 0,
+    "p5": 44
+  },
+  {
+    "s": "CSU",
+    "n": "Sonoma State University",
+    "y1": 42186.5,
+    "y4": 64514.5,
+    "y5": 64573.0,
+    "p1": 28,
+    "p4": 24,
+    "p5": 24
+  },
+  {
+    "s": "UC",
+    "n": "University of California-Berkeley",
+    "y1": 56036.0,
+    "y4": 76679.0,
+    "y5": 86050.0,
+    "p1": 47,
+    "p4": 47,
+    "p5": 45
+  },
+  {
+    "s": "UC",
+    "n": "University of California-Davis",
+    "y1": 45532.0,
+    "y4": 68120.0,
+    "y5": 74378.5,
+    "p1": 58,
+    "p4": 57,
+    "p5": 58
+  },
+  {
+    "s": "UC",
+    "n": "University of California-Irvine",
+    "y1": 40910.5,
+    "y4": 62176.0,
+    "y5": 73906.5,
+    "p1": 52,
+    "p4": 44,
+    "p5": 48
+  },
+  {
+    "s": "UC",
+    "n": "University of California-Los Angeles",
+    "y1": 42557.0,
+    "y4": 67193.0,
+    "y5": 76734.0,
+    "p1": 53,
+    "p4": 49,
+    "p5": 47
+  },
+  {
+    "s": "UC",
+    "n": "University of California-Merced",
+    "y1": 41389.5,
+    "y4": 61032.0,
+    "y5": 69288.0,
+    "p1": 20,
+    "p4": 16,
+    "p5": 18
+  },
+  {
+    "s": "UC",
+    "n": "University of California-Riverside",
+    "y1": 40163.0,
+    "y4": 58401.0,
+    "y5": 64051.0,
+    "p1": 45,
+    "p4": 44,
+    "p5": 45
+  },
+  {
+    "s": "UC",
+    "n": "University of California-San Diego",
+    "y1": 42151.0,
+    "y4": 69061.0,
+    "y5": 81221.0,
+    "p1": 51,
+    "p4": 47,
+    "p5": 45
+  },
+  {
+    "s": "UC",
+    "n": "University of California-Santa Barbara",
+    "y1": 43555.0,
+    "y4": 67154.5,
+    "y5": 76326.0,
+    "p1": 39,
+    "p4": 40,
+    "p5": 40
+  },
+  {
+    "s": "UC",
+    "n": "University of California-Santa Cruz",
+    "y1": 41374.0,
+    "y4": 62509.0,
+    "y5": 67438.0,
+    "p1": 35,
+    "p4": 34,
+    "p5": 32
+  }
+]
