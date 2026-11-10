@@ -4,3 +4,4 @@ fastexcel
 pandas
 duckdb
 matplotlib
+boto3
