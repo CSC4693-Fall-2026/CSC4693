@@ -231,3 +231,6 @@ __marimo__/
 *.xlsx
 # Excess large data
 Most-Recent-Cohorts-Field-of-Study.csv
+
+
+node_modules/
