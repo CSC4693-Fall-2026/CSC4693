@@ -229,6 +229,8 @@ __marimo__/
 *.csv
 *.parquet
 *.xlsx
+# Local validation data archives
+/Validation/Faculty Data/*.zip
 # Excess large data
 Most-Recent-Cohorts-Field-of-Study.csv
     
