@@ -1584,36 +1584,328 @@ html&gt;body{padding:0}&lt;/style&gt;
   const chart = document.getElementById(&quot;csu-uc-chart&quot;);
   const summary = document.getElementById(&quot;csu-uc-summary&quot;);
   const data = [
-    {s:&quot;CSU&quot;,n:&quot;Cal Poly Maritime&quot;,y1:89890,y4:117176,y5:114735,p:8},
-    {s:&quot;CSU&quot;,n:&quot;Cal Poly San Luis Obispo&quot;,y1:55450,y4:80126,y5:82237,p:77},
-    {s:&quot;CSU&quot;,n:&quot;Cal Poly Humboldt&quot;,y1:29774,y4:47573,y5:48912,p:49},
-    {s:&quot;CSU&quot;,n:&quot;Cal Poly Pomona&quot;,y1:40884,y4:65120,y5:65641,p:60},
-    {s:&quot;CSU&quot;,n:&quot;CSU Bakersfield&quot;,y1:null,y4:57529,y5:59179,p:43},
-    {s:&quot;CSU&quot;,n:&quot;CSU Chico&quot;,y1:36992,y4:61262,y5:59510,p:81},
-    {s:&quot;CSU&quot;,n:&quot;CSU Dominguez Hills&quot;,y1:36092,y4:57602,y5:55014,p:58},
-    {s:&quot;CSU&quot;,n:&quot;CSU East Bay&quot;,y1:40828,y4:65026,y5:64973,p:45},
-    {s:&quot;CSU&quot;,n:&quot;CSU Fresno&quot;,y1:32634,y4:56187,y5:57642,p:81},
-    {s:&quot;CSU&quot;,n:&quot;CSU Fullerton&quot;,y1:33806,y4:57272,y5:58041,p:61},
-    {s:&quot;CSU&quot;,n:&quot;CSU Long Beach&quot;,y1:34247,y4:60756,y5:62561,p:83},
-    {s:&quot;CSU&quot;,n:&quot;CSU Los Angeles&quot;,y1:33516,y4:55413,y5:56580,p:60},
-    {s:&quot;CSU&quot;,n:&quot;CSU Monterey Bay&quot;,y1:34089,y4:55856,y5:55522,p:29},
-    {s:&quot;CSU&quot;,n:&quot;CSU Northridge&quot;,y1:35628,y4:57350,y5:59426,p:75},
-    {s:&quot;CSU&quot;,n:&quot;CSU Sacramento&quot;,y1:37040,y4:60278,y5:61913,p:57},
-    {s:&quot;CSU&quot;,n:&quot;CSU San Bernardino&quot;,y1:31381,y4:54830,y5:54852,p:64},
-    {s:&quot;CSU&quot;,n:&quot;CSU Stanislaus&quot;,y1:34358,y4:56330,y5:58874,p:38},
-    {s:&quot;CSU&quot;,n:&quot;San Diego State&quot;,y1:36916,y4:59914,y5:60998,p:79},
-    {s:&quot;CSU&quot;,n:&quot;San Francisco State&quot;,y1:36380,y4:63106,y5:65570,p:84},
-    {s:&quot;CSU&quot;,n:&quot;San Jose State&quot;,y1:null,y4:null,y5:75904,p:86},
-    {s:&quot;CSU&quot;,n:&quot;Sonoma State&quot;,y1:37066,y4:64514,y5:61775,p:37},
-    {s:&quot;UC&quot;,n:&quot;UC Berkeley&quot;,y1:46667,y4:76679,y5:78070,p:80},
-    {s:&quot;UC&quot;,n:&quot;UC Davis&quot;,y1:38954,y4:68120,y5:67848,p:94},
-    {s:&quot;UC&quot;,n:&quot;UC Irvine&quot;,y1:35404,y4:62176,y5:69342,p:72},
-    {s:&quot;UC&quot;,n:&quot;UCLA&quot;,y1:34256,y4:67193,y5:77443,p:76},
-    {s:&quot;UC&quot;,n:&quot;UC Merced&quot;,y1:38115,y4:61032,y5:65714,p:28},
-    {s:&quot;UC&quot;,n:&quot;UC Riverside&quot;,y1:29824,y4:58401,y5:61749,p:60},
-    {s:&quot;UC&quot;,n:&quot;UC San Diego&quot;,y1:38334,y4:69061,y5:70456,p:72},
-    {s:&quot;UC&quot;,n:&quot;UC Santa Barbara&quot;,y1:37516,y4:67154,y5:71720,p:53},
-    {s:&quot;UC&quot;,n:&quot;UC Santa Cruz&quot;,y1:33081,y4:62509,y5:63156,p:57}
+
+  {
+    &quot;s&quot;: &quot;CSU&quot;,
+    &quot;n&quot;: &quot;Cal Poly Maritime Academy&quot;,
+    &quot;y1&quot;: 97197.0,
+    &quot;y4&quot;: 117176.0,
+    &quot;y5&quot;: 122033.0,
+    &quot;p1&quot;: 5,
+    &quot;p4&quot;: 5,
+    &quot;p5&quot;: 5
+  },
+  {
+    &quot;s&quot;: &quot;CSU&quot;,
+    &quot;n&quot;: &quot;California Polytechnic State University-San Luis Obispo&quot;,
+    &quot;y1&quot;: 59292.0,
+    &quot;y4&quot;: 80126.0,
+    &quot;y5&quot;: 82919.0,
+    &quot;p1&quot;: 51,
+    &quot;p4&quot;: 52,
+    &quot;p5&quot;: 50
+  },
+  {
+    &quot;s&quot;: &quot;CSU&quot;,
+    &quot;n&quot;: &quot;California State Polytechnic University-Humboldt&quot;,
+    &quot;y1&quot;: 36420.0,
+    &quot;y4&quot;: 47573.0,
+    &quot;y5&quot;: 51150.0,
+    &quot;p1&quot;: 27,
+    &quot;p4&quot;: 30,
+    &quot;p5&quot;: 31
+  },
+  {
+    &quot;s&quot;: &quot;CSU&quot;,
+    &quot;n&quot;: &quot;California State Polytechnic University-Pomona&quot;,
+    &quot;y1&quot;: 44976.0,
+    &quot;y4&quot;: 65119.5,
+    &quot;y5&quot;: 68085.0,
+    &quot;p1&quot;: 49,
+    &quot;p4&quot;: 46,
+    &quot;p5&quot;: 48
+  },
+  {
+    &quot;s&quot;: &quot;CSU&quot;,
+    &quot;n&quot;: &quot;California State University-Bakersfield&quot;,
+    &quot;y1&quot;: 36224.0,
+    &quot;y4&quot;: 57529.0,
+    &quot;y5&quot;: 61329.5,
+    &quot;p1&quot;: 22,
+    &quot;p4&quot;: 23,
+    &quot;p5&quot;: 26
+  },
+  {
+    &quot;s&quot;: &quot;CSU&quot;,
+    &quot;n&quot;: &quot;California State University-Channel Islands&quot;,
+    &quot;y1&quot;: 39837.0,
+    &quot;y4&quot;: 58351.0,
+    &quot;y5&quot;: 61811.0,
+    &quot;p1&quot;: 20,
+    &quot;p4&quot;: 20,
+    &quot;p5&quot;: 18
+  },
+  {
+    &quot;s&quot;: &quot;CSU&quot;,
+    &quot;n&quot;: &quot;California State University-Chico&quot;,
+    &quot;y1&quot;: 43097.5,
+    &quot;y4&quot;: 60798.5,
+    &quot;y5&quot;: 63353.0,
+    &quot;p1&quot;: 46,
+    &quot;p4&quot;: 52,
+    &quot;p5&quot;: 48
+  },
+  {
+    &quot;s&quot;: &quot;CSU&quot;,
+    &quot;n&quot;: &quot;California State University-Dominguez Hills&quot;,
+    &quot;y1&quot;: 37443.0,
+    &quot;y4&quot;: 57602.5,
+    &quot;y5&quot;: 57776.5,
+    &quot;p1&quot;: 32,
+    &quot;p4&quot;: 26,
+    &quot;p5&quot;: 28
+  },
+  {
+    &quot;s&quot;: &quot;CSU&quot;,
+    &quot;n&quot;: &quot;California State University-East Bay&quot;,
+    &quot;y1&quot;: 48157.0,
+    &quot;y4&quot;: 65026.0,
+    &quot;y5&quot;: 68518.0,
+    &quot;p1&quot;: 21,
+    &quot;p4&quot;: 26,
+    &quot;p5&quot;: 27
+  },
+  {
+    &quot;s&quot;: &quot;CSU&quot;,
+    &quot;n&quot;: &quot;California State University-Fresno&quot;,
+    &quot;y1&quot;: 39467.0,
+    &quot;y4&quot;: 56187.0,
+    &quot;y5&quot;: 62261.0,
+    &quot;p1&quot;: 47,
+    &quot;p4&quot;: 52,
+    &quot;p5&quot;: 51
+  },
+  {
+    &quot;s&quot;: &quot;CSU&quot;,
+    &quot;n&quot;: &quot;California State University-Fullerton&quot;,
+    &quot;y1&quot;: 39142.0,
+    &quot;y4&quot;: 57271.5,
+    &quot;y5&quot;: 63508.0,
+    &quot;p1&quot;: 44,
+    &quot;p4&quot;: 44,
+    &quot;p5&quot;: 41
+  },
+  {
+    &quot;s&quot;: &quot;CSU&quot;,
+    &quot;n&quot;: &quot;California State University-Long Beach&quot;,
+    &quot;y1&quot;: 43707.0,
+    &quot;y4&quot;: 60019.0,
+    &quot;y5&quot;: 66748.0,
+    &quot;p1&quot;: 62,
+    &quot;p4&quot;: 61,
+    &quot;p5&quot;: 63
+  },
+  {
+    &quot;s&quot;: &quot;CSU&quot;,
+    &quot;n&quot;: &quot;California State University-Los Angeles&quot;,
+    &quot;y1&quot;: 39621.0,
+    &quot;y4&quot;: 55413.0,
+    &quot;y5&quot;: 61522.0,
+    &quot;p1&quot;: 39,
+    &quot;p4&quot;: 37,
+    &quot;p5&quot;: 38
+  },
+  {
+    &quot;s&quot;: &quot;CSU&quot;,
+    &quot;n&quot;: &quot;California State University-Monterey Bay&quot;,
+    &quot;y1&quot;: 42405.0,
+    &quot;y4&quot;: 55856.0,
+    &quot;y5&quot;: 59620.0,
+    &quot;p1&quot;: 16,
+    &quot;p4&quot;: 21,
+    &quot;p5&quot;: 17
+  },
+  {
+    &quot;s&quot;: &quot;CSU&quot;,
+    &quot;n&quot;: &quot;California State University-Northridge&quot;,
+    &quot;y1&quot;: 40801.0,
+    &quot;y4&quot;: 57350.5,
+    &quot;y5&quot;: 64770.0,
+    &quot;p1&quot;: 51,
+    &quot;p4&quot;: 56,
+    &quot;p5&quot;: 53
+  },
+  {
+    &quot;s&quot;: &quot;CSU&quot;,
+    &quot;n&quot;: &quot;California State University-Sacramento&quot;,
+    &quot;y1&quot;: 43278.0,
+    &quot;y4&quot;: 60278.0,
+    &quot;y5&quot;: 64774.5,
+    &quot;p1&quot;: 47,
+    &quot;p4&quot;: 47,
+    &quot;p5&quot;: 46
+  },
+  {
+    &quot;s&quot;: &quot;CSU&quot;,
+    &quot;n&quot;: &quot;California State University-San Bernardino&quot;,
+    &quot;y1&quot;: 39211.5,
+    &quot;y4&quot;: 54830.5,
+    &quot;y5&quot;: 59088.0,
+    &quot;p1&quot;: 40,
+    &quot;p4&quot;: 44,
+    &quot;p5&quot;: 41
+  },
+  {
+    &quot;s&quot;: &quot;CSU&quot;,
+    &quot;n&quot;: &quot;California State University-San Marcos&quot;,
+    &quot;y1&quot;: 45592.0,
+    &quot;y4&quot;: 65479.0,
+    &quot;y5&quot;: 67538.0,
+    &quot;p1&quot;: 34,
+    &quot;p4&quot;: 31,
+    &quot;p5&quot;: 31
+  },
+  {
+    &quot;s&quot;: &quot;CSU&quot;,
+    &quot;n&quot;: &quot;California State University-Stanislaus&quot;,
+    &quot;y1&quot;: 37073.0,
+    &quot;y4&quot;: 56330.0,
+    &quot;y5&quot;: 56583.5,
+    &quot;p1&quot;: 20,
+    &quot;p4&quot;: 23,
+    &quot;p5&quot;: 22
+  },
+  {
+    &quot;s&quot;: &quot;CSU&quot;,
+    &quot;n&quot;: &quot;San Diego State University&quot;,
+    &quot;y1&quot;: 43227.0,
+    &quot;y4&quot;: 59914.0,
+    &quot;y5&quot;: 67118.0,
+    &quot;p1&quot;: 56,
+    &quot;p4&quot;: 61,
+    &quot;p5&quot;: 57
+  },
+  {
+    &quot;s&quot;: &quot;CSU&quot;,
+    &quot;n&quot;: &quot;San Francisco State University&quot;,
+    &quot;y1&quot;: 43685.0,
+    &quot;y4&quot;: 62250.5,
+    &quot;y5&quot;: 69087.0,
+    &quot;p1&quot;: 47,
+    &quot;p4&quot;: 52,
+    &quot;p5&quot;: 51
+  },
+  {
+    &quot;s&quot;: &quot;CSU&quot;,
+    &quot;n&quot;: &quot;San Jose State University&quot;,
+    &quot;y1&quot;: null,
+    &quot;y4&quot;: null,
+    &quot;y5&quot;: 83732.5,
+    &quot;p1&quot;: 0,
+    &quot;p4&quot;: 0,
+    &quot;p5&quot;: 44
+  },
+  {
+    &quot;s&quot;: &quot;CSU&quot;,
+    &quot;n&quot;: &quot;Sonoma State University&quot;,
+    &quot;y1&quot;: 42186.5,
+    &quot;y4&quot;: 64514.5,
+    &quot;y5&quot;: 64573.0,
+    &quot;p1&quot;: 28,
+    &quot;p4&quot;: 24,
+    &quot;p5&quot;: 24
+  },
+  {
+    &quot;s&quot;: &quot;UC&quot;,
+    &quot;n&quot;: &quot;University of California-Berkeley&quot;,
+    &quot;y1&quot;: 56036.0,
+    &quot;y4&quot;: 76679.0,
+    &quot;y5&quot;: 86050.0,
+    &quot;p1&quot;: 47,
+    &quot;p4&quot;: 47,
+    &quot;p5&quot;: 45
+  },
+  {
+    &quot;s&quot;: &quot;UC&quot;,
+    &quot;n&quot;: &quot;University of California-Davis&quot;,
+    &quot;y1&quot;: 45532.0,
+    &quot;y4&quot;: 68120.0,
+    &quot;y5&quot;: 74378.5,
+    &quot;p1&quot;: 58,
+    &quot;p4&quot;: 57,
+    &quot;p5&quot;: 58
+  },
+  {
+    &quot;s&quot;: &quot;UC&quot;,
+    &quot;n&quot;: &quot;University of California-Irvine&quot;,
+    &quot;y1&quot;: 40910.5,
+    &quot;y4&quot;: 62176.0,
+    &quot;y5&quot;: 73906.5,
+    &quot;p1&quot;: 52,
+    &quot;p4&quot;: 44,
+    &quot;p5&quot;: 48
+  },
+  {
+    &quot;s&quot;: &quot;UC&quot;,
+    &quot;n&quot;: &quot;University of California-Los Angeles&quot;,
+    &quot;y1&quot;: 42557.0,
+    &quot;y4&quot;: 67193.0,
+    &quot;y5&quot;: 76734.0,
+    &quot;p1&quot;: 53,
+    &quot;p4&quot;: 49,
+    &quot;p5&quot;: 47
+  },
+  {
+    &quot;s&quot;: &quot;UC&quot;,
+    &quot;n&quot;: &quot;University of California-Merced&quot;,
+    &quot;y1&quot;: 41389.5,
+    &quot;y4&quot;: 61032.0,
+    &quot;y5&quot;: 69288.0,
+    &quot;p1&quot;: 20,
+    &quot;p4&quot;: 16,
+    &quot;p5&quot;: 18
+  },
+  {
+    &quot;s&quot;: &quot;UC&quot;,
+    &quot;n&quot;: &quot;University of California-Riverside&quot;,
+    &quot;y1&quot;: 40163.0,
+    &quot;y4&quot;: 58401.0,
+    &quot;y5&quot;: 64051.0,
+    &quot;p1&quot;: 45,
+    &quot;p4&quot;: 44,
+    &quot;p5&quot;: 45
+  },
+  {
+    &quot;s&quot;: &quot;UC&quot;,
+    &quot;n&quot;: &quot;University of California-San Diego&quot;,
+    &quot;y1&quot;: 42151.0,
+    &quot;y4&quot;: 69061.0,
+    &quot;y5&quot;: 81221.0,
+    &quot;p1&quot;: 51,
+    &quot;p4&quot;: 47,
+    &quot;p5&quot;: 45
+  },
+  {
+    &quot;s&quot;: &quot;UC&quot;,
+    &quot;n&quot;: &quot;University of California-Santa Barbara&quot;,
+    &quot;y1&quot;: 43555.0,
+    &quot;y4&quot;: 67154.5,
+    &quot;y5&quot;: 76326.0,
+    &quot;p1&quot;: 39,
+    &quot;p4&quot;: 40,
+    &quot;p5&quot;: 40
+  },
+  {
+    &quot;s&quot;: &quot;UC&quot;,
+    &quot;n&quot;: &quot;University of California-Santa Cruz&quot;,
+    &quot;y1&quot;: 41374.0,
+    &quot;y4&quot;: 62509.0,
+    &quot;y5&quot;: 67438.0,
+    &quot;p1&quot;: 35,
+    &quot;p4&quot;: 34,
+    &quot;p5&quot;: 32
+  }
+
   ];
 
   const labels = {y1:&quot;1 year after graduation&quot;,y4:&quot;4 years after graduation&quot;,y5:&quot;5 years after graduation&quot;};

@@ -1,5 +1,5 @@
 (() => {
-  'use strict';
+  "use strict";
 
   const DOTS_PER_DISTRIBUTION = 96;
   const BIN_COUNT = 24;
@@ -9,19 +9,28 @@
   const FADE_MS = 700;
   const CYCLE_MS = BUILD_MS + TRAVEL_MS + HOLD_MS + FADE_MS;
 
-  const VIEW = { width: 360, height: 300, top: 28, right: 10, bottom: 25, left: 53 };
+  const VIEW = {
+    width: 360,
+    height: 300,
+    top: 28,
+    right: 10,
+    bottom: 25,
+    left: 53,
+  };
   const plotBottom = VIEW.height - VIEW.bottom;
   const stackColumns = 39;
   const stackSpacing = 3.25;
   const groups = {
-    faculty: { baseline: 207, labelX: 145, shape: 'circle' },
-    industry: { baseline: 340, labelX: 276, shape: 'diamond' }
+    faculty: { baseline: 207, labelX: 145, shape: "circle" },
+    industry: { baseline: 340, labelX: 276, shape: "diamond" },
   };
 
   const data = window.PAY_DISTRIBUTIONS;
-  const grid = document.querySelector('#small-multiples');
-  const money = d3.format('$,.0f');
-  const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const grid = document.querySelector("#small-multiples");
+  const money = d3.format("$,.0f");
+  const reducedMotion = window.matchMedia(
+    "(prefers-reduced-motion: reduce)",
+  ).matches;
 
   let ordered = [...data];
   let panels = [];
@@ -29,11 +38,14 @@
   let resizeObserver = null;
   let animationFrame = null;
 
-  const maximum = d3.max(data, row => Math.max(
-    row.faculty.mean + row.faculty.std * 3,
-    row.industry.mean + row.industry.std * 3
-  ));
-  const yScale = d3.scaleLinear()
+  const maximum = d3.max(data, (row) =>
+    Math.max(
+      row.faculty.mean + row.faculty.std * 3,
+      row.industry.mean + row.industry.std * 3,
+    ),
+  );
+  const yScale = d3
+    .scaleLinear()
     .domain([0, maximum])
     .nice()
     .range([plotBottom, VIEW.top]);
@@ -43,17 +55,29 @@
   const colorByMajor = new Map(
     [...data]
       .sort((a, b) => d3.ascending(a.major, b.major))
-      .map((row, index, rows) => [row.major, d3.hsl((index / rows.length) * 330 + 8, 0.57, 0.47).formatHex()])
+      .map((row, index, rows) => [
+        row.major,
+        d3.hsl((index / rows.length) * 330 + 8, 0.57, 0.47).formatHex(),
+      ]),
   );
 
   function validateConstants(rows) {
-    if (!Array.isArray(rows) || rows.length === 0) throw new Error('PAY_DISTRIBUTIONS must be a non-empty array.');
+    if (!Array.isArray(rows) || rows.length === 0)
+      throw new Error("PAY_DISTRIBUTIONS must be a non-empty array.");
     rows.forEach((row, index) => {
-      if (!row.major || !row.faculty || !row.industry) throw new Error(`Invalid record at index ${index}.`);
-      ['faculty', 'industry'].forEach(group => {
+      if (!row.major || !row.faculty || !row.industry)
+        throw new Error(`Invalid record at index ${index}.`);
+      ["faculty", "industry"].forEach((group) => {
         const { mean, std } = row[group];
-        if (!Number.isFinite(mean) || !Number.isFinite(std) || mean < 0 || std < 0) {
-          throw new Error(`${row.major}: ${group} mean/std must be non-negative numbers.`);
+        if (
+          !Number.isFinite(mean) ||
+          !Number.isFinite(std) ||
+          mean < 0 ||
+          std < 0
+        ) {
+          throw new Error(
+            `${row.major}: ${group} mean/std must be non-negative numbers.`,
+          );
         }
       });
     });
@@ -71,7 +95,7 @@
   function randomGenerator(seed) {
     let state = seed >>> 0;
     return () => {
-      state += 0x6D2B79F5;
+      state += 0x6d2b79f5;
       let value = state;
       value = Math.imul(value ^ (value >>> 15), value | 1);
       value ^= value + Math.imul(value ^ (value >>> 7), value | 61);
@@ -82,7 +106,11 @@
   function normalSample(random, mean, std) {
     const first = Math.max(random(), Number.EPSILON);
     const second = random();
-    return Math.max(0, mean + std * Math.sqrt(-2 * Math.log(first)) * Math.cos(2 * Math.PI * second));
+    return Math.max(
+      0,
+      mean +
+        std * Math.sqrt(-2 * Math.log(first)) * Math.cos(2 * Math.PI * second),
+    );
   }
 
   function shuffle(values, random) {
@@ -101,8 +129,14 @@
       const random = randomGenerator(hash(`${row.major}-${groupName}`));
       const bins = Array.from({ length: BIN_COUNT }, () => 0);
       for (let index = 0; index < DOTS_PER_DISTRIBUTION; index += 1) {
-        const salary = Math.min(sharedDomain[1] - 1, normalSample(random, row[groupName].mean, row[groupName].std));
-        const bin = Math.max(0, Math.min(BIN_COUNT - 1, Math.floor(salary / binSize)));
+        const salary = Math.min(
+          sharedDomain[1] - 1,
+          normalSample(random, row[groupName].mean, row[groupName].std),
+        );
+        const bin = Math.max(
+          0,
+          Math.min(BIN_COUNT - 1, Math.floor(salary / binSize)),
+        );
         const stackIndex = bins[bin]++;
         const column = stackIndex % stackColumns;
         const wrapRow = Math.floor(stackIndex / stackColumns);
@@ -115,7 +149,7 @@
           targetY: yScale((bin + 0.5) * binSize) + (wrapRow - 0.5) * 3,
           travel: TRAVEL_MS * (0.82 + random() * 0.35),
           phase: random() * Math.PI * 2,
-          spawn: 0
+          spawn: 0,
         });
       }
     });
@@ -128,90 +162,127 @@
   }
 
   function createSvg(row, sourceY) {
-    const svg = d3.create('svg')
-      .attr('viewBox', `0 0 ${VIEW.width} ${VIEW.height}`)
-      .attr('role', 'img')
-      .attr('aria-label', `${row.major} animated faculty and industry salary histograms`);
+    const svg = d3
+      .create("svg")
+      .attr("viewBox", `0 0 ${VIEW.width} ${VIEW.height}`)
+      .attr("role", "img")
+      .attr(
+        "aria-label",
+        `${row.major} animated faculty and industry salary histograms`,
+      );
 
-    svg.append('g')
-      .attr('class', 'panel-grid')
-      .attr('transform', `translate(${VIEW.left},0)`)
-      .call(d3.axisLeft(yScale).ticks(5).tickSize(-(VIEW.width - VIEW.left - VIEW.right)).tickFormat(''));
-    svg.append('g')
-      .attr('class', 'panel-axis')
-      .attr('transform', `translate(${VIEW.left},0)`)
-      .call(d3.axisLeft(yScale).ticks(5).tickFormat(value => d3.format('$,.0s')(value)));
-    svg.append('text')
-      .attr('class', 'panel-axis-title')
-      .attr('x', 1)
-      .attr('y', 10)
-      .text('SALARY');
+    svg
+      .append("g")
+      .attr("class", "panel-grid")
+      .attr("transform", `translate(${VIEW.left},0)`)
+      .call(
+        d3
+          .axisLeft(yScale)
+          .ticks(5)
+          .tickSize(-(VIEW.width - VIEW.left - VIEW.right))
+          .tickFormat(""),
+      );
+    svg
+      .append("g")
+      .attr("class", "panel-axis")
+      .attr("transform", `translate(${VIEW.left},0)`)
+      .call(
+        d3
+          .axisLeft(yScale)
+          .ticks(5)
+          .tickFormat((value) => `$${Math.round(value / 1000)}k`),
+      );
+    svg
+      .append("text")
+      .attr("class", "panel-axis-title")
+      .attr("x", 1)
+      .attr("y", 10)
+      .text("SALARY");
 
-    svg.append('line')
-      .attr('class', 'panel-source-guide')
-      .attr('x1', VIEW.left + 9)
-      .attr('x2', VIEW.left + 9)
-      .attr('y1', VIEW.top)
-      .attr('y2', plotBottom);
-    svg.append('circle').attr('class', 'panel-source-halo').attr('cx', VIEW.left + 9).attr('cy', sourceY).attr('r', 8);
-    svg.append('circle').attr('class', 'panel-source-dot').attr('cx', VIEW.left + 9).attr('cy', sourceY).attr('r', 3.2);
-    svg.append('text')
-      .attr('class', 'panel-source-label')
-      .attr('x', VIEW.left + 9)
-      .attr('y', sourceY - 12)
-      .attr('text-anchor', 'middle')
-      .text('IN');
+    svg
+      .append("line")
+      .attr("class", "panel-source-guide")
+      .attr("x1", VIEW.left + 9)
+      .attr("x2", VIEW.left + 9)
+      .attr("y1", VIEW.top)
+      .attr("y2", plotBottom);
+    svg
+      .append("circle")
+      .attr("class", "panel-source-halo")
+      .attr("cx", VIEW.left + 9)
+      .attr("cy", sourceY)
+      .attr("r", 8);
+    svg
+      .append("circle")
+      .attr("class", "panel-source-dot")
+      .attr("cx", VIEW.left + 9)
+      .attr("cy", sourceY)
+      .attr("r", 3.2);
+    svg
+      .append("text")
+      .attr("class", "panel-source-label")
+      .attr("x", VIEW.left + 9)
+      .attr("y", sourceY - 12)
+      .attr("text-anchor", "middle")
+      .text("IN");
 
-    svg.append('line')
-      .attr('class', 'panel-divider')
-      .attr('x1', 212)
-      .attr('x2', 212)
-      .attr('y1', VIEW.top)
-      .attr('y2', plotBottom);
-    svg.append('text')
-      .attr('class', 'panel-label')
-      .attr('x', groups.faculty.labelX)
-      .attr('y', 14)
-      .attr('text-anchor', 'middle')
-      .text('FACULTY ○');
-    svg.append('text')
-      .attr('class', 'panel-label')
-      .attr('x', groups.industry.labelX)
-      .attr('y', 14)
-      .attr('text-anchor', 'middle')
-      .text('INDUSTRY ◇');
+    svg
+      .append("line")
+      .attr("class", "panel-divider")
+      .attr("x1", 212)
+      .attr("x2", 212)
+      .attr("y1", VIEW.top)
+      .attr("y2", plotBottom);
+    svg
+      .append("text")
+      .attr("class", "panel-label")
+      .attr("x", groups.faculty.labelX)
+      .attr("y", 14)
+      .attr("text-anchor", "middle")
+      .text("FACULTY ○");
+    svg
+      .append("text")
+      .attr("class", "panel-label")
+      .attr("x", groups.industry.labelX)
+      .attr("y", 14)
+      .attr("text-anchor", "middle")
+      .text("GRADUATES ◇");
 
     Object.entries(groups).forEach(([groupName, group]) => {
-      svg.append('line')
-        .attr('class', 'panel-mean')
-        .attr('x1', groupName === 'faculty' ? 78 : 218)
-        .attr('x2', group.baseline)
-        .attr('y1', yScale(row[groupName].mean))
-        .attr('y2', yScale(row[groupName].mean));
+      svg
+        .append("line")
+        .attr("class", "panel-mean")
+        .attr("x1", groupName === "faculty" ? 78 : 218)
+        .attr("x2", group.baseline)
+        .attr("y1", yScale(row[groupName].mean))
+        .attr("y2", yScale(row[groupName].mean));
     });
     return svg.node();
   }
 
   function createPanel(row, index) {
-    const article = document.createElement('article');
-    article.className = 'major-panel';
-    article.style.setProperty('--major-color', colorByMajor.get(row.major));
+    const article = document.createElement("article");
+    article.className = "major-panel";
+    article.style.setProperty("--major-color", colorByMajor.get(row.major));
     article.tabIndex = 0;
-    article.setAttribute('aria-label', `${row.major}. Faculty mean ${money(row.faculty.mean)}, standard deviation ${money(row.faculty.std)}. Industry mean ${money(row.industry.mean)}, standard deviation ${money(row.industry.std)}.`);
+    article.setAttribute(
+      "aria-label",
+      `${row.major}. Faculty mean ${money(row.faculty.mean)}, standard deviation ${money(row.faculty.std)}. Industry mean ${money(row.industry.mean)}, standard deviation ${money(row.industry.std)}.`,
+    );
 
-    const heading = document.createElement('div');
-    heading.className = 'panel-heading';
-    const title = document.createElement('h3');
+    const heading = document.createElement("div");
+    heading.className = "panel-heading";
+    const title = document.createElement("h3");
     title.textContent = row.major;
-    const number = document.createElement('span');
-    number.className = 'panel-number';
-    number.textContent = String(index + 1).padStart(2, '0');
+    const number = document.createElement("span");
+    number.className = "panel-number";
+    number.textContent = String(index + 1).padStart(2, "0");
     heading.append(title, number);
 
-    const plot = document.createElement('div');
-    plot.className = 'panel-plot';
-    const canvas = document.createElement('canvas');
-    canvas.setAttribute('aria-hidden', 'true');
+    const plot = document.createElement("div");
+    plot.className = "panel-plot";
+    const canvas = document.createElement("canvas");
+    canvas.setAttribute("aria-hidden", "true");
     const { points, sourceY } = makePoints(row);
     plot.append(canvas, createSvg(row, sourceY));
     article.append(heading, plot);
@@ -222,7 +293,7 @@
       article,
       plot,
       canvas,
-      context: canvas.getContext('2d'),
+      context: canvas.getContext("2d"),
       points,
       sourceY,
       color: colorByMajor.get(row.major),
@@ -231,7 +302,7 @@
       startedAt: 0,
       scaleX: 1,
       scaleY: 1,
-      ratio: 1
+      ratio: 1,
     };
     sizeCanvas(panel);
     return panel;
@@ -251,7 +322,7 @@
   function drawDot(context, point, x, y, opacity) {
     context.globalAlpha = opacity;
     context.beginPath();
-    if (point.shape === 'circle') {
+    if (point.shape === "circle") {
       context.arc(x, y, 1.8, 0, Math.PI * 2);
     } else {
       context.moveTo(x, y - 2.3);
@@ -271,15 +342,27 @@
 
   function renderPanel(panel, elapsed) {
     const context = panel.context;
-    context.setTransform(panel.ratio * panel.scaleX, 0, 0, panel.ratio * panel.scaleY, 0, 0);
+    context.setTransform(
+      panel.ratio * panel.scaleX,
+      0,
+      0,
+      panel.ratio * panel.scaleY,
+      0,
+      0,
+    );
     context.clearRect(0, 0, VIEW.width, VIEW.height);
     context.fillStyle = panel.color;
 
-    const cycleTime = reducedMotion ? BUILD_MS + TRAVEL_MS + 100 : elapsed % CYCLE_MS;
+    const cycleTime = reducedMotion
+      ? BUILD_MS + TRAVEL_MS + 100
+      : elapsed % CYCLE_MS;
     const fadeStart = BUILD_MS + TRAVEL_MS + HOLD_MS;
-    const cycleOpacity = cycleTime > fadeStart ? Math.max(0, 1 - (cycleTime - fadeStart) / FADE_MS) : 1;
+    const cycleOpacity =
+      cycleTime > fadeStart
+        ? Math.max(0, 1 - (cycleTime - fadeStart) / FADE_MS)
+        : 1;
 
-    panel.points.forEach(point => {
+    panel.points.forEach((point) => {
       const age = cycleTime - point.spawn;
       if (age < 0) return;
       let x = point.targetX;
@@ -300,7 +383,7 @@
   }
 
   function animationLoop(now) {
-    panels.forEach(panel => {
+    panels.forEach((panel) => {
       if (!panel.visible && !reducedMotion) return;
       if (!panel.hasStarted) {
         panel.hasStarted = true;
@@ -313,22 +396,29 @@
 
   function installObserver() {
     observer?.disconnect();
-    if (!('IntersectionObserver' in window) || reducedMotion) {
-      panels.forEach(panel => { panel.visible = true; });
+    if (!("IntersectionObserver" in window) || reducedMotion) {
+      panels.forEach((panel) => {
+        panel.visible = true;
+      });
       return;
     }
-    observer = new IntersectionObserver(entries => {
-      entries.forEach(entry => {
-        const panel = panels.find(candidate => candidate.article === entry.target);
-        if (!panel) return;
-        panel.visible = entry.isIntersecting;
-        if (entry.isIntersecting && !panel.hasStarted) {
-          panel.startedAt = performance.now();
-          panel.hasStarted = true;
-        }
-      });
-    }, { rootMargin: '120px 0px' });
-    panels.forEach(panel => observer.observe(panel.article));
+    observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          const panel = panels.find(
+            (candidate) => candidate.article === entry.target,
+          );
+          if (!panel) return;
+          panel.visible = entry.isIntersecting;
+          if (entry.isIntersecting && !panel.hasStarted) {
+            panel.startedAt = performance.now();
+            panel.hasStarted = true;
+          }
+        });
+      },
+      { rootMargin: "120px 0px" },
+    );
+    panels.forEach((panel) => observer.observe(panel.article));
   }
 
   function renderPanels() {
@@ -336,19 +426,21 @@
     resizeObserver?.disconnect();
     grid.replaceChildren();
     panels = ordered.map(createPanel);
-    panels.forEach(panel => resizeObserver?.observe(panel.plot));
+    panels.forEach((panel) => resizeObserver?.observe(panel.plot));
     installObserver();
     if (reducedMotion) {
-      panels.forEach(panel => renderPanel(panel, BUILD_MS + TRAVEL_MS + 100));
+      panels.forEach((panel) => renderPanel(panel, BUILD_MS + TRAVEL_MS + 100));
     }
   }
 
   function initialize() {
     try {
       validateConstants(data);
-      resizeObserver = new ResizeObserver(entries => {
-        entries.forEach(entry => {
-          const panel = panels.find(candidate => candidate.plot === entry.target);
+      resizeObserver = new ResizeObserver((entries) => {
+        entries.forEach((entry) => {
+          const panel = panels.find(
+            (candidate) => candidate.plot === entry.target,
+          );
           if (!panel) return;
           sizeCanvas(panel);
           if (reducedMotion) renderPanel(panel, BUILD_MS + TRAVEL_MS + 100);
@@ -358,7 +450,9 @@
       renderPanels();
 
       if (reducedMotion) {
-        panels.forEach(panel => renderPanel(panel, BUILD_MS + TRAVEL_MS + 100));
+        panels.forEach((panel) =>
+          renderPanel(panel, BUILD_MS + TRAVEL_MS + 100),
+        );
       } else {
         animationFrame = requestAnimationFrame(animationLoop);
       }
@@ -369,9 +463,13 @@
 
   initialize();
 
-  window.addEventListener('pagehide', () => {
-    if (animationFrame) cancelAnimationFrame(animationFrame);
-    observer?.disconnect();
-    resizeObserver?.disconnect();
-  }, { once: true });
+  window.addEventListener(
+    "pagehide",
+    () => {
+      if (animationFrame) cancelAnimationFrame(animationFrame);
+      observer?.disconnect();
+      resizeObserver?.disconnect();
+    },
+    { once: true },
+  );
 })();
